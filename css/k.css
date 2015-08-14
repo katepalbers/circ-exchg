@@ -1,0 +1,120 @@
+/* 
+Reset some basic elements 
+*/
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+body {
+	/*background-image: url("../images/spectrum.jpg"); 
+	background-position: center;*/
+	font-family: Raleway; 
+	font-weight:300;
+	letter-spacing: 1px;
+	color: #000;
+	font-size: .9em; 
+	line-height:1.45em; }
+p {
+	margin-bottom: .5em;
+	margin-top: 0; }	
+h1 {
+	font-family: Raleway; 
+	font-weight:100;
+	font-size: 3em;
+	margin:0; 
+	text-align: left; 
+	line-height: 1em; }	
+h2 {
+	font-family: Raleway; 			
+	font-weight:300;
+	font-size: 1em; 
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: .5em;
+	line-height: 1.4em;}
+
+.content {
+	margin-left: 240px;
+}	
+
+/* 
+Site Banner
+*/
+.banner {
+	width: 200px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #333;
+}
+
+/* 
+MailChimp Form
+*/
+form {
+	margin: 2em auto; 
+	width:80%; 
+	min-width: 180px;
+	border: 1px solid #888;
+	border-radius: 3px;
+	padding: .6em;  }
+input {
+	border: none;
+	font-size: 1.2em;
+	font-family: Raleway; 
+	font-weight:200;
+	color: #888; 
+	height:30px; 
+	margin-top:.6em;
+	margin-bottom:1em;}
+#mce-EMAIL {
+	text-align: left;
+	width:60%;
+	min-width: 180px; 
+	height:26px; }	
+#mc-embedded-subscribe {	
+	font-size: 1em;
+	width:30%;	
+	min-width: 120px;
+	border: 1px solid #888;
+	border-radius: 3px;
+	background-color: #fff;
+	color:#000; }
+#mc-embedded-subscribe:hover {
+	background-color: #888;
+	color: #fff; }
+
+
+.credits {
+	color: #888;  }
+.twitter {
+	background-image: url("../images/twitter_thin.png"); 
+	background-repeat: no-repeat;
+	width: 29px;
+	height: 23px; 
+	margin: 0 auto; }
+.twitter:hover {
+	background-image: url("../images/twitter_fill.png"); }
+#footbackground {
+	width:100%;
+	height: 30px;
+	position:fixed;
+	bottom:0px;
+	background-color: #000;
+	opacity:.6; }
+#foottext {
+	width:100%;
+	height: 25px;
+	position:fixed;
+	bottom:0px; 
+	color: #ddd;
+	font-size: .75em;  }
+#foottext a:link, a:visited {
+	text-decoration: none; 
+	color: #ddd; }
+#foottext a:hover {
+	text-decoration: underline; }	
+	
