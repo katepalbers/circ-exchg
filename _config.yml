@@ -1,14 +1,10 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Circulation Exchange
+email: circ-exchg@gmail.com
+description: "Circulation Exchange is an online publication dedicated to artists exploring innovative and creative intersections of photography and social media. It will feature interviews, short critical essays on specific projects and historical precedents, and notable work made on and about specific social media platforms. Supported by the Creative Capital | Warhol Foundation Arts Writers Grant Program"
 baseurl: "/circ-exchg" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: circ-exchg
 
 # Build settings
 markdown: kramdown
