@@ -35,9 +35,6 @@ dl, dd, ol, ul, figure {
   font-style: normal;
 }
 
-
-
-
 body {
 	font-family: Calendas_Plus; 
 	color: #111;
@@ -48,11 +45,13 @@ body {
 p {
 	margin-bottom: .5em;
 	margin-top: 0; }	
+
 h1 { 
-	font-family: Calendas_PlusItalic;
-	font-size:2.6em;
+	font-family: CooperHewitt_Thin;
+	letter-spacing: 2px;
+	font-size:3em;
 	margin-top: 40px;
-	line-height: 1.6em;
+	line-height: 1.35em;
 	}
 h2 {
 	font-family: Raleway; 			
@@ -97,6 +96,9 @@ a {
     color: #000;
     text-decoration: underline; }
 
+sup {
+	line-height: 0;
+}
 
 
 .main {
