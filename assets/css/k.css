@@ -184,35 +184,90 @@ svg {
 	letter-spacing: 1px;
 }
 
-.article {
-	max-width: 640px;
+article p, article h1, article h3 {
+	width: 640px;
+	margin-left: 240px;
 }
 
-.article-header {
-	font-family: CooperHewitt_Medium;
+article header {
 	margin-bottom: 40px;
+	margin-top: 160px;
+}
+
+article header p {
+	font-family: CooperHewitt_Medium;
+	font-size: 1.2em;
+	margin-top: 10px;
+	padding-bottom: 20px;
 	border-bottom: 2px solid #555;
 	border-bottom-color: #fffc01;
 }
 
-.article-header p {
-	font-size: 1.2em;
-	margin-top: 10px;
-}
-
-.figure {
+figcaption {
 	font-family: CooperHewitt_Bold;
 	font-size: .7em;
 	color: #555;
 	line-height: 1.5em;
-	margin-top: 40px;
-	margin-bottom: 40px;
 }
 
-.figure em {
+figcaption em {
 	font-family: CooperHewitt_BoldItalic;
-	font-style: normal;
+	font-style: none;
 }
+
+
+.figure {
+	width: 640px;
+	margin-left: 240px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.figure img {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.figure-lg {
+	width: 100%;
+	margin-left: 0px;
+}
+
+.figure-lg img {
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.figure-lg figcaption {
+	margin-left: 940px;
+	width: 240px;
+	height: 0px;
+}
+
+.figure-sm {
+	width: 1180px;
+	margin-left: 0px;
+}
+
+.figure-sm img {
+	width: 240px;
+	float: right;
+	clear: both;
+}
+
+.figure-sm figcaption {
+	width: 240px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	float: right;
+	clear: both;
+}
+
+
+
+
+
 
 /* 
 Site Banner
