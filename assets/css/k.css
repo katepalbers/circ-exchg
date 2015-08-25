@@ -188,9 +188,13 @@ svg {
 Article
 */
 
-article p, article h1, article h3 {
+article p, article h1, article h3, .footnotes ol {
 	width: 640px;
 	margin-left: 240px;
+}
+
+.footnotes ol p {
+	margin-left: 0px;
 }
 
 article header {
@@ -287,6 +291,7 @@ figcaption em {
 	float: right;
 	clear: both;
 }
+
 
 
 
