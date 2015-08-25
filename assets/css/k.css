@@ -184,6 +184,10 @@ svg {
 	letter-spacing: 1px;
 }
 
+/* 
+Article
+*/
+
 article p, article h1, article h3 {
 	width: 640px;
 	margin-left: 240px;
@@ -202,6 +206,26 @@ article header p {
 	border-bottom: 2px solid #555;
 	border-bottom-color: #fffc01;
 }
+
+article a {
+	color: #555;
+	border-bottom: 3px solid #fffc01;
+	text-decoration: none; }
+article a:visited {
+    color: #555; 
+	text-decoration: none;}
+article a:hover {
+    color: #000;
+    border-bottom-color: #000; 
+	text-decoration: none;
+}
+
+article sup {
+	font-family: CooperHewitt_Medium;
+	font-size: .7em;
+	color: #555;
+	margin-left: 2px;
+}    
 
 figcaption {
 	font-family: CooperHewitt_Bold;

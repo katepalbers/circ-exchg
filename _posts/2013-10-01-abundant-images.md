@@ -34,7 +34,7 @@ The collaborative team of Mark Klett and Byron Wolfe has also worked with the Fl
 <figure class="figure-lg">
 	<img src="{{site.baseurl}}/assets/images/abundantimages_03.jpg" alt="figure" />
 	<figcaption>
-	Figure 4. Mark Klett and Byron Wolfe, <em>One hundred setting suns at the Grand Canyon arranged by hue; pictures from a popular image-sharing web site</em>, 2011, digital inkjet print, 17 x 82 inches. Courtesy of the artists.
+	Figure 3. Mark Klett and Byron Wolfe, <em>One hundred setting suns at the Grand Canyon arranged by hue; pictures from a popular image-sharing web site</em>, 2011, digital inkjet print, 17 x 82 inches. Courtesy of the artists.
 	</figcaption>
 </figure>
 
