@@ -145,11 +145,11 @@ Umbrico has underscored the exponential growth of Flickr by changing the numbers
 
 [^1]: The piece was installed at the FOAM exhibition *The Future of the Photography Museum*, in Amsterdam, November 5 to December 7, 2011.
 
-[^2]: Matt Brian, &ldquo;8 Billion photos later, Flickr finally gets a new look&rdquo; *The Next Web*, December 12, 2012, http://thenextweb.com/insider/2012/12/12/8-billion-photos-later-flickr-finally-gets-a-new-look/ (accessed March 31, 2013).
+[^2]: Matt Brian, &ldquo;8 Billion photos later, Flickr finally gets a new look&rdquo; *The Next Web*, December 12, 2012, [http://thenextweb.com/insider/2012/12/12/8-billion-photos-later-flickr-finally-gets-a-new-look/](http://thenextweb.com/insider/2012/12/12/8-billion-photos-later-flickr-finally-gets-a-new-look/) (accessed March 31, 2013).
 
-[^3]: Emil Protalinski, &ldquo;Instagram passes 80 million users,&rdquo; *C-Net*, July 26, 2012, http://news.cnet.com/8301-1023_3-57480931-93/instagram-passes-80-million-users/ (accessed March 31, 2013). Recent data (January 2013) reports that Instagram users post 40 million photographs per day. Rebecca Greenfield, &ldquo;How Many Users Does Instagram Really Have after the Ad Scandal?&rdquo; *The Atlantic Wire*, January 12, 2013, http://www.theatlanticwire.com/technology/2013/01/how-many-users-does-instagram-have/61139/ (accessed March 31, 2013).
+[^3]: Emil Protalinski, &ldquo;Instagram passes 80 million users,&rdquo; *C-Net*, July 26, 2012, http://news.cnet.com/8301-1023_3-57480931-93/instagram-passes-80-million-users/ (accessed March 31, 2013). Recent data (January 2013) reports that Instagram users post 40 million photographs per day. Rebecca Greenfield, &ldquo;How Many Users Does Instagram Really Have after the Ad Scandal?&rdquo; *The Atlantic Wire*, January 12, 2013, [http://www.theatlanticwire.com/technology/2013/01/how-many-users-does-instagram-have/61139/](http://www.theatlanticwire.com/technology/2013/01/how-many-users-does-instagram-have/61139/) (accessed March 31, 2013).
 
-[^4]: According to Facebook engineer Justin Mitchell on the company blog, January 25, 2011, https://blog.facebook.com/. It is worth noting that Facebook bought Instagram in 2012 for about $1 billion.
+[^4]: According to Facebook engineer Justin Mitchell on the company blog, January 25, 2011, [https://blog.facebook.com/](https://blog.facebook.com/). It is worth noting that Facebook bought Instagram in 2012 for about $1 billion.
 
 [^5]: Penelope Umbrico, email correspondence with the author, November 22, 2011, to February 12, 2012. 
 
@@ -171,9 +171,9 @@ Umbrico has underscored the exponential growth of Flickr by changing the numbers
 
 [^14]: In September 2012, Kalina posted an updated video of 4,514 photographs, tracking 121&frasl;2 years. As of November 2012, it has been seen more than 4 million times, for a total of more than 28 million views of both videos.
 
-[^15]: www.noahkalina.com (accessed April 1, 2013).
+[^15]: [www.noahkalina.com](www.noahkalina.com) (accessed April 1, 2013).
 
-[^16]: See Microsoft&rsquo;s research page, http://research.microsoft.com/en-us/projects/mylifebits/ (accessed April 1, 2013).
+[^16]: See Microsoft&rsquo;s research page, [http://research.microsoft.com/en-us/projects/mylifebits/](http://research.microsoft.com/en-us/projects/mylifebits/) (accessed April 1, 2013).
 
 [^17]: See www.memoto.com (accessed April 1, 2013). It is curious that even with the extraordinary volume of data that actually is recorded, the company still feels the need to exaggerate the claim for &ldquo;every single moment&rdquo; and &ldquo;any moment&rdquo; from your past. A darker side to the commercial optimism of the <em>MyLifeBits</em> and Memoto projects is seen in the work of Bangladeshi-born American artist Hasan Elahi and the Iraqi-American artist Wafaa Bilal. Mistakenly added to the U.S. government&rsquo;s terrorist watch list in 2002, Elahi has since digitally self-tracked and archived the minutia of his own daily comings and goings. Elahi takes up to 100 digital photographs a day as a record of his meals, his locations, and his encounters, and uploads them to his website, TrackingTransience.net, making them available for anyone&mdash;including the FBI&mdash;to view. A GPS device continuously tracks his location, and the information is available in real time on his website. Bilal made a more extreme entry into self-surveillance by having a digital camera surgically implanted in the back of his head, which is programmed to take one photograph a minute. The camera was in place for one year, 2010 to 2011. Its images were livestreamed, along with geocoordinates, to Bilal&rsquo;s website, 3rdi.com, where ultimately more than 500,000 time- and location-stamped photographs were archived.
 
