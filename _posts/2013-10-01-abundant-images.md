@@ -3,6 +3,10 @@ layout: post
 title: "Abundant Images and the Collective Sublime"
 date: 2013-10-01
 author: Kate Palmer Albers
+platform: 
+ - Flickr
+theme:
+ - "Place: Analog|Digital"
 ---
 This past November, the Dutch artist Erik Kessels printed out every photograph that was uploaded to the popular photo-sharing website Flickr in a twenty-four-hour period. The resulting installation, appropriately titled &ldquo;Photography in Abundance,&rdquo; made literal, both visibly and viscerally, what is in fact only an infinitesimal fraction of the digital photographic images circulating online[^1] (*Figure 1*). One day&rsquo;s haul on Flickr&mdash;about a million individual images&mdash;is clearly a staggering and incomprehensible quantity of photographs from which to draw a clear meaning. This digital deluge, underway for more than a decade now, has caused considerable hand-wringing among photographers and photography theorists, including concerns about the potential meaninglessness of such a profusion of images, the demise of craftsmanship, and the loss of editing skills within contemporary photographic practice.
 
