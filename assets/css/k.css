@@ -1,5 +1,5 @@
 /* 
-Reset some basic elements 
+Reset
 */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -7,36 +7,9 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
-@font-face {
-  font-family: 'Calendas_Plus';
-  src: 	url('../fonts/calendas_plus-webfont.eot');
-  src:	url('../fonts/calendas_plus-webfont.ttf') format('truetype'),
-  		url('../fonts/calendas_plus-webfont.woff') format('woff'), 
-        url('../fonts/calendas_plus-webfont.svg#calendas_plus') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Calendas_PlusBold';
-  src: 	url('../fonts/calendas_plus_bold-webfont.eot');
-  src:	url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'),
-  		url('../fonts/calendas_plus_bold-webfont.woff') format('woff'), 
-        url('../fonts/calendas_plus_bold-webfont.svg#calendas_plusbold') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Calendas_PlusItalic';
-  src: 	url('../fonts/calendas_plus_italic-webfont.eot');
-  src:	url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'),
-  		url('../fonts/calendas_plus_italic-webfont.woff') format('woff'), 
-        url('../fonts/calendas_plus_italic-webfont.svg#calendas_plusitalic') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-
+/* 
+Main
+*/
 
 body {
 	font-family: Calendas_Plus; 
@@ -44,29 +17,31 @@ body {
 	font-size: 1.3em; 
 	line-height:1.45em; 
 	background-color: #f5f5f5;
-	}
-p {
-	margin-bottom: .5em;
-	margin-top: 0; }	
-h1 { 
+}
+body em {
 	font-family: Calendas_PlusItalic;
-	font-size:2.6em;
-	margin-top: 40px;
-	line-height: 1.6em;
-	}
-h2 {
-	font-family: Raleway; 			
-	font-weight:300;
-	font-size: 1em; 
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	margin-top: .5em;
-	line-height: 1.4em;
+	font-style: normal;
+}
+p {
+	margin-bottom: .75em;
+	margin-top: 0; 
 }	
-h3 { 
-	font-family: Calendas_Plus;
-	font-size: 1.6em;
-	margin-bottom: 4px;
+h1 { 
+	font-family: CooperHewitt_Light;
+	/*letter-spacing: 1px;*/
+	font-size:3.6em;
+	font-weight: normal;
+	line-height: 1.35em;
+}
+h2 { 
+	font-family: CooperHewitt_Medium;
+	font-size: 1.7em;
+	font-weight: normal;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	border-left: 4px solid #111;
+	padding-left: 20px;
+	line-height: 1.45em;
 }	
 h4 {
 	font-family: Raleway;
@@ -76,18 +51,9 @@ h4 {
 	text-transform: uppercase;
 }
 
-/*h1 {
-	font-family: Raleway; 
-	font-weight:100;
-	font-size: 3em;
-	margin:0; 
-	text-align: left; 
-	line-height: 1em; }	*/
-
-
-/**
- * Links
- */
+/*
+Links
+*/
 a {
   color: #555;
   text-decoration: none; }
@@ -97,12 +63,11 @@ a {
     color: #000;
     text-decoration: underline; }
 
+sup {
+	line-height: 0;
+}
 
-
-.main {
-	margin-top: 128px;
-	margin-left: 240px;
-}	
+	
 
 svg {
 	margin-left: -300px;
@@ -140,9 +105,9 @@ svg {
 	margin-left: 15px;
 	margin-right: 15px;
 	padding-top:15px;
-	font-size: .7em;
-	font-family: Raleway; 			
-	font-weight:300;
+	font-family: CooperHewitt_Heavy; 
+	font-size: .7em;			
+	font-weight: normal;
 	background-color: #f5f5f5;
 	opacity: .9;
 }
@@ -177,9 +142,136 @@ svg {
 	letter-spacing: 1px;
 }
 
-.article {
-	max-width: 640px;
+/* 
+Article
+*/
+
+article p, article blockquote, article h1, .footnotes ol {
+	width: 640px;
+	margin-left: 240px;
 }
+
+.footnotes ol p {
+	margin-left: 0px;
+}
+
+article header {
+	margin-bottom: 40px;
+	margin-top: 160px;
+}
+
+article header p {
+	font-family: CooperHewitt_Medium;
+	font-size: 1.1em;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #555;
+	border-bottom-color: #fffc01;
+}
+
+article blockquote p {
+	margin-left: 40px;
+	width: 600px;
+	font-family: Calendas_PlusItalic;
+	font-style: normal;
+}
+
+article blockquote em {
+	font-family: Calendas_Plus;
+	font-style: normal;
+}
+
+article h2 {
+	border-color: #fffc01;
+	margin-left: 216px;
+}
+
+article a {
+	color: #555;
+	border-bottom: 3px solid #fffc01;
+	text-decoration: none; }
+article a:visited {
+    color: #555; 
+	text-decoration: none;}
+article a:hover {
+    color: #000;
+    border-bottom-color: #000; 
+	text-decoration: none;
+}
+
+article sup {
+	font-family: CooperHewitt_Medium;
+	font-size: .7em;
+	color: #555;
+	margin-left: 2px;
+}    
+
+figcaption {
+	font-family: CooperHewitt_Bold;
+	font-size: .7em;
+	color: #555;
+	line-height: 1.5em;
+}
+
+figcaption em {
+	font-family: CooperHewitt_BoldItalic;
+	font-style: none;
+}
+
+
+.figure {
+	width: 640px;
+	margin-left: 240px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.figure img {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.figure-lg {
+	width: 100%;
+	margin-left: 0px;
+}
+
+.figure-lg img {
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.figure-lg figcaption {
+	margin-left: 940px;
+	width: 240px;
+	height: 0px;
+}
+
+.figure-sm {
+	width: 1180px;
+	margin-left: 0px;
+}
+
+.figure-sm img {
+	width: 240px;
+	float: right;
+	clear: both;
+}
+
+.figure-sm figcaption {
+	width: 240px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	float: right;
+	clear: both;
+}
+
+
+
+
+
+
 
 /* 
 Site Banner

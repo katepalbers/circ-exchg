@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'CooperHewitt_Bold';
+  src: 	url('../fonts/CooperHewitt-Bold.eot');
+  src:	url('../fonts/CooperHewitt-Bold.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_BoldItalic';
+  src: 	url('../fonts/CooperHewitt-BoldItalic.eot');
+  src:	url('../fonts/CooperHewitt-BoldItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-BoldItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Book';
+  src: 	url('../fonts/CooperHewitt-Book.eot');
+  src:	url('../fonts/CooperHewitt-Book.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Book.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_BookItalic';
+  src: 	url('../fonts/CooperHewitt-BookItalic.eot');
+  src:	url('../fonts/CooperHewitt-BookItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-BookItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Heavy';
+  src: 	url('../fonts/CooperHewitt-Heavy.eot');
+  src:	url('../fonts/CooperHewitt-Heavy.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Heavy.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_HeavyItalic';
+  src: 	url('../fonts/CooperHewitt-HeavyItalic.eot');
+  src:	url('../fonts/CooperHewitt-HeavyItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-HeavyItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Light';
+  src: 	url('../fonts/CooperHewitt-Light.eot');
+  src:	url('../fonts/CooperHewitt-Light.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Light.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_LightItalic';
+  src: 	url('../fonts/CooperHewitt-LightItalic.eot');
+  src:	url('../fonts/CooperHewitt-LightItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-LightItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Medium';
+  src: 	url('../fonts/CooperHewitt-Medium.eot');
+  src:	url('../fonts/CooperHewitt-Medium.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Medium.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_MediumItalic';
+  src: 	url('../fonts/CooperHewitt-MediumItalic.eot');
+  src:	url('../fonts/CooperHewitt-MediumItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-MediumItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Semibold';
+  src: 	url('../fonts/CooperHewitt-Semibold.eot');
+  src:	url('../fonts/CooperHewitt-Semibold.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Semibold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_SemiboldItalic';
+  src: 	url('../fonts/CooperHewitt-SemiboldItalic.eot');
+  src:	url('../fonts/CooperHewitt-SemiboldItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-SemiboldItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_Thin';
+  src: 	url('../fonts/CooperHewitt-Thin.eot');
+  src:	url('../fonts/CooperHewitt-Thin.woff') format('woff'), 
+        url('../fonts/CooperHewitt-Thin.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperHewitt_ThinItalic';
+  src: 	url('../fonts/CooperHewitt-ThinItalic.eot');
+  src:	url('../fonts/CooperHewitt-ThinItalic.woff') format('woff'), 
+        url('../fonts/CooperHewitt-ThinItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-<div class="article">
+<article>
 
-  <div class="article-header">
+  <header>
     <h1>{{ page.title }}</h1>
-    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </div>
+    <p>{{ page.date | date: "%B %-d, %Y" }} {% if page.platform %}— {{ page.platform }}{% endif %} {% if page.theme %}— {{ page.theme }}{% endif %}</p>
+  </header>
 
-  <article class="article-main">
-    {{ content }}
-  </article>
+  {{ content }}
 
-</div>
+</article>
