@@ -17,23 +17,22 @@ body {
 	font-size: 1.3em; 
 	line-height:1.45em; 
 	background-color: #f5f5f5;
-	}
+}
 body em {
 	font-family: Calendas_PlusItalic;
 	font-style: normal;
 }
-
 p {
-	margin-bottom: .5em;
-	margin-top: 0; }	
-
+	margin-bottom: .75em;
+	margin-top: 0; 
+}	
 h1 { 
 	font-family: CooperHewitt_Light;
 	/*letter-spacing: 1px;*/
 	font-size:3.6em;
 	font-weight: normal;
 	line-height: 1.35em;
-	}
+}
 h2 { 
 	font-family: CooperHewitt_Medium;
 	font-size: 1.7em;
@@ -68,11 +67,7 @@ sup {
 	line-height: 0;
 }
 
-
-.main {
-	margin-top: 128px;
-	margin-left: 240px;
-}	
+	
 
 svg {
 	margin-left: -300px;
