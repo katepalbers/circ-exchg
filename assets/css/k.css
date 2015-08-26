@@ -184,7 +184,7 @@ svg {
 Article
 */
 
-article p, article h1, .footnotes ol {
+article p, article blockquote, article h1, .footnotes ol {
 	width: 640px;
 	margin-left: 240px;
 }
@@ -205,6 +205,18 @@ article header p {
 	padding-bottom: 20px;
 	border-bottom: 2px solid #555;
 	border-bottom-color: #fffc01;
+}
+
+article blockquote p {
+	margin-left: 40px;
+	width: 600px;
+	font-family: Calendas_PlusItalic;
+	font-style: normal;
+}
+
+article blockquote em {
+	font-family: Calendas_Plus;
+	font-style: normal;
 }
 
 article h2 {
