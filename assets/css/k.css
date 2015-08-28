@@ -154,7 +154,7 @@ sup {
 	list-style-type: none;
 }
 
-.header .contact , .contact li {
+.header .controls , .controls li {
 	float: right;
 	text-align: right;
 	margin-right: 15px;
