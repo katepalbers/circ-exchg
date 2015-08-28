@@ -27,19 +27,17 @@ p {
 	margin-top: 0; 
 }	
 h1 { 
-	font-family: CooperHewitt_Light;
+	font-family: CooperHewitt_Thin;
 	/*letter-spacing: 1px;*/
 	font-size:3.6em;
 	font-weight: normal;
 	line-height: 1.35em;
 }
 h2 { 
-	font-family: CooperHewitt_Medium;
+	font-family: CooperHewitt_Light;
 	font-size: 1.7em;
 	font-weight: normal;
-	margin-top: 50px;
-	margin-bottom: 20px;
-	border-left: 4px solid #111;
+	border-left: 1px solid #111;
 	padding-left: 20px;
 	padding-top: 5px;
 	line-height: 1.45em;
@@ -57,20 +55,18 @@ Links
 */
 a {
   color: #111;
-  text-decoration: none; }
-  a:visited {
-    color: #111; }
-  a:hover {
-    color: #000;
-    text-decoration: underline; }
+  text-decoration: none; 
+}
+a:visited {
+	color: #111; 
+}
+a:hover {
+	color: #000;
+	text-decoration: underline; 
+}
 
 sup {
 	line-height: 0;
-}
-
-	
-
-svg {
 }
 
 .post-list {
@@ -85,9 +81,8 @@ svg {
 }
 
 .post-list h2 {
-	font-family: CooperHewitt_Light;
-	border-left: 1px solid #111;
 	margin-bottom: -4px;
+	padding-bottom: 4px;
 }
 
 .post-list span {
@@ -98,6 +93,12 @@ svg {
 	padding-left: 20px;
 }
 
+.post-list a:hover {
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #111; 
+}
+
 
 .header {
 	/*color: #aaa;*/
@@ -106,8 +107,6 @@ svg {
 	top: 0px;
 	left: 0px;
 	height: 28px;
-	/*margin-left: 15px;
-	margin-right: 15px;*/
 	padding:15px;
 	font-family: CooperHewitt_Heavy;
 	font-size: .7em;			
@@ -157,8 +156,8 @@ article header {
 }
 
 article header p {
-	font-family: CooperHewitt_Medium;
-	font-size: 1.1em;
+	font-family: CooperHewitt_Book;
+	/*font-size: 1.1em;*/
 	margin-top: 10px;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #555;
@@ -178,7 +177,9 @@ article blockquote em {
 }
 
 article h2 {
-	border-color: #fffc01;
+	margin-top: 60px;
+	margin-bottom: 15px;
+	border-left: 4px solid #fffc01;
 	margin-left: 216px;
 }
 
