@@ -10,6 +10,10 @@ layout: default
     {% for post in site.posts reversed %}
       <li>
 
+        {% if post.thumbnail %} 
+        <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+        {% endif %}
+
         <h2>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncatewords: 3, '...' }}</a>
         </h2>

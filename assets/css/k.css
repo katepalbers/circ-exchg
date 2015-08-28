@@ -75,17 +75,25 @@ sup {
 	bottom:40px;
 }
 
+.post-list img {
+	float:right;
+	height: 86px;
+	margin-left: 20px;
+}
+
 .post-list li {
 	margin-left: 20px;
 	float: left;
 }
 
 .post-list h2 {
+	display: inline-block;
 	margin-bottom: -4px;
 	padding-bottom: 4px;
 }
 
 .post-list span {
+	display: block;
 	font-family: CooperHewitt_Book;
 	/*margin-left: 20px;*/
 	margin-top: 0px;
