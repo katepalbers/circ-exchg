@@ -22,7 +22,7 @@ body em {
 	font-family: Calendas_PlusItalic;
 	font-style: normal;
 }
-p {
+p, ul, ol, h3 {
 	margin-bottom: .75em;
 	margin-top: 0; 
 }	
@@ -42,10 +42,18 @@ h2 {
 	padding-top: 5px;
 	line-height: 1.45em;
 }	
+
+h2 strong { 
+	font-family: CooperHewitt_Book;
+}
+
 h3 {
 	font-family: CooperHewitt_Book;
 	font-size: 1em;
 	font-weight: normal;
+}
+h3 strong {
+	font-family: CooperHewitt_Medium;
 }
 h4 {
 	font-family: Raleway;
@@ -164,7 +172,7 @@ sup {
 Article
 */
 
-article p, article blockquote, article h1, .footnotes ol {
+article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3 {
 	width: 640px;
 	margin-left: 240px;
 }
@@ -226,6 +234,11 @@ article sup {
 	margin-left: 2px;
 }    
 
+article.informational ul li {
+	list-style-type: none;
+	margin-bottom: .5em;
+}
+
 figcaption {
 	font-family: CooperHewitt_Bold;
 	font-size: .7em;
@@ -237,7 +250,6 @@ figcaption em {
 	font-family: CooperHewitt_BoldItalic;
 	font-style: none;
 }
-
 
 .figure {
 	width: 640px;

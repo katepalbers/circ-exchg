@@ -8,12 +8,12 @@ Kate Palmer Albers is Associate Professor at the University of Arizona, where sh
 
 Albers’ current work focuses on the intersection of photography, geolocational technology, and landscape, and she is developing new research on photographic communication through social media. She is also interested in the role of digital technologies in art historical research and contemporary practice. She organized the exhibition *Locating Landscape: New Strategies, New Technologies* which looked at the intersection of photography, mapping, technology, and landscape, and appeared at the Sam Lee Gallery in Los Angeles (2009) and the Center for Creative Photography in Tucson, AZ (2010). In 2010 she participated in the NEH Summer Institute Mapping and Art in the Americas at the Newberry Library in Chicago.
 
-Books
+### **Books:**
 
 - *Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography* (University of California Press, 2015).
 - *Before-and-After Photography: Histories and Contexts*, co-edited with Jordan Bear, forthcoming Bloomsbury Press (2016).
- 
-Related articles and chapters
+
+### **Related Articles and Chapters:**
 
 - “Accessing the Landscape: Photography, Technology and Place Today” in Hans Hedberg, Gunilla Knape, Tyrone Martinsson, and Louise Wolthers, eds., *Broken: Environmental Photography* (Gothenburg, Sweden: Photography at Valand Academy, University of Gothenburg / Hasselblad Foundation and Art and Theory, 2014), 15-33. Projects include Nate Larson & Marni Shindelman, Bruce Myren, and the Degree Confluence Project.
 - “Unseen Images: Gigapixel Photography and its Viewers,” *Photographies* special issue on “Surveillance and Place” (published online April 7, 2014; print edition followed)
