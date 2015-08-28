@@ -10,15 +10,16 @@ layout: default
     {% for post in site.posts reversed %}
       <li>
 
+        <a href="{{ post.url | prepend: site.baseurl }}">  
+
         {% if post.thumbnail %} 
-        <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+          <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
         {% endif %}
 
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncatewords: 3, '...' }}</a>
-        </h2>
+        <h2>{{ post.title | truncatewords: 3, '...' }}</h2><br />
+        <h3>{{ post.date | date: "%B %-d, %Y" }}</h3>
 
-        <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+        </a>
 
       </li>
     {% endfor %}
