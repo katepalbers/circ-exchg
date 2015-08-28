@@ -76,29 +76,27 @@ sup {
 }
 
 .post-list img {
-	float:right;
-	height: 86px;
-	margin-left: 20px;
+	float:left;
+	height: 90px;
+	margin-right: 20px;
 }
 
 .post-list li {
 	margin-left: 20px;
 	float: left;
+	border-left: 1px solid #111;
+	padding-left: 20px;
 }
 
 .post-list h2 {
 	display: inline-block;
-	margin-bottom: -4px;
-	padding-bottom: 4px;
+	border-left: none;
+	padding-left: 0px;
 }
 
 .post-list span {
 	display: block;
 	font-family: CooperHewitt_Book;
-	/*margin-left: 20px;*/
-	margin-top: 0px;
-	border-left: 1px solid #111;
-	padding-left: 20px;
 }
 
 .post-list a:hover {
