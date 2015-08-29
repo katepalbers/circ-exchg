@@ -106,25 +106,27 @@ Home Page Post List
 	opacity: .9;
 }
 #prev {
-	position: absolute;
-	top:0;
-	left:20px;
+	float: left;
+	margin-left: 20px;
 	text-align: left;
 	font-size: 1.75em;
 	margin-top: 6px;
 	color: #fffc01;
 }
 #next {
-	position: absolute;
-	top:0;
-	right:20px;
+	float: right;
+	margin-right: 20px;
 	text-align: right;
 	width: 40px;
 	font-size: 1.75em;
 	margin-top: 6px;
 	color: #fffc01;
 }
-#next i:hover, #prev i:hover  {
+#next a, #prev a {
+	color: #fffc01;
+	border-bottom: none;
+}
+#next a:hover, #prev a:hover  {
 	color: #111;
 }
 #welcome {
@@ -296,6 +298,17 @@ article sup {
 article.informational ul li {
 	list-style-type: none;
 	margin-bottom: .5em;
+}
+
+article #next {
+	position: absolute;
+	bottom: 88px;
+	right: 0px;
+}
+article #prev {
+	position: absolute;
+	bottom: 88px;
+	left: 0px;
 }
 
 figcaption {
