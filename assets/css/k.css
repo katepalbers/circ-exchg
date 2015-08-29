@@ -189,8 +189,9 @@ Home Page Post List
 }
 
 
-
-
+/* 
+Header
+*/
 .header {
 	position: fixed;
 	width:100%;
@@ -198,34 +199,25 @@ Home Page Post List
 	left: 0px;
 	height: 28px;
 	padding:15px;
-	font-family: CooperHewitt_Heavy;
+	/*font-family: CooperHewitt_Heavy;
 	font-size: .7em;			
-	font-weight: normal;
+	font-weight: normal;*/
 	background-color: #f5f5f5;
 	opacity: .9;
 }
-
 .header .title {
 	float: left;
-	text-transform: uppercase;
-	letter-spacing: 1px;
 }
-
-.header .author {
-	font-family: CooperHewitt_Bold;
-	text-transform: none;
-	letter-spacing: 0px;
-}
-
 .header ul {
 	list-style-type: none;
 }
-
 .header .controls , .controls li {
 	float: right;
 	text-align: right;
 	margin-right: 15px;
+	font-size: .9em;
 }
+
 
 /* 
 Article
