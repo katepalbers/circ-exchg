@@ -140,7 +140,7 @@ Home Page Post List
 	left:60px;
 	width: calc(100% - 140px);
 	height: 100%;
-	overflow: scroll;
+	overflow: hidden;
 }
 #scroll ul {
 	width: 10000px;
