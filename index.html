@@ -15,9 +15,26 @@ layout: default
     <div id="scroll">
       <ul>
 
-        <li id="welcome"><a href="{{site.baseurl}}/about/"><h2>Welcome</h2></a></li>
+        <li id="welcome"><a href="{{site.baseurl}}/about/"><h3>Welcome</h3></a></li>
     
-        {% for post in site.posts reversed %}
+        {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">  
+            {% if post.thumbnail %} 
+            <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+            {% endif %}
+            <div class="titlebox">
+              <h3>{{ post.title || truncate: 42, '...' }}</h3>
+              <h4>{{ post.date | date: "%B %-d, %Y" }}</h4>
+            </div>
+          <!-- <br /> -->
+          <!-- <h3>{{ post.date | date: "%B %-d, %Y" }}</h3> -->
+          </a>
+        </li>
+        {% endfor %}
+
+
+<!--         {% for post in site.posts reversed %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">  
             {% if post.thumbnail %} 
@@ -27,7 +44,7 @@ layout: default
           <h3>{{ post.date | date: "%B %-d, %Y" }}</h3>
           </a>
         </li>
-        {% endfor %}
+        {% endfor %} -->
         
       </ul>
     </div>

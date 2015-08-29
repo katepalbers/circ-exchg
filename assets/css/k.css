@@ -48,7 +48,7 @@ h2 strong {
 }
 
 h3 {
-	font-family: CooperHewitt_Book;
+	font-family: CooperHewitt_Light;
 	font-size: 1em;
 	font-weight: normal;
 }
@@ -56,11 +56,10 @@ h3 strong {
 	font-family: CooperHewitt_Medium;
 }
 h4 {
-	font-family: Raleway;
-	font-weight: 900;
-	font-size:1em;
-	letter-spacing: 1px;
-	text-transform: uppercase;
+	font-family: CooperHewitt_Bold;
+	font-size: .7em;			
+	font-weight: normal;
+	color: #555;
 }
 
 /*
@@ -129,14 +128,15 @@ svg {
 
 #welcome {
 	border-left: none;
-	margin-left: 0;
+	margin-left: 20px;
+	width: 90px;
 }
 
 /*#welcome h2 {
 	color: #ccc;
 }*/
 
-#welcome h2:hover, #next i:hover, #prev i:hover  {
+#next i:hover, #prev i:hover  {
 	color: #111;
 }
 
@@ -147,7 +147,7 @@ svg {
 	width: calc(100% - 140px);
 	height: 100%;
 	/*display: inline-block;*/
-	overflow: hidden;
+	overflow: scroll;
 }
 
 #scroll ul {
@@ -165,25 +165,47 @@ svg {
 	margin-left: 20px;
 	border-left: 1px solid #111;
 	padding: 0px;
+	/*overflow: none;*/
+	/*min-width: 300px;*/
 }
 
 .post-list img {
-	float:left;
+	display: inline;
+	float: left;
 	height: 100%;
 	margin-left: 20px;
+	margin-right: 20px;
+	padding: 0px;
+
+}
+.post-list .titlebox {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+	width: 220px;
+	height: 100%;
 }
 
 .post-list h2 {
-	display: inline;
+	/*display: inline;*/
 	margin-left: 20px;
 	border-left: none;
 	padding-left: 0px;
+
 }
 
 .post-list h3 {
-	margin-left: 20px;
-	display: inline;
+	/*display: inline-block;*/
+	/*margin-left: 20px;*/
+	margin: 0px;
+	padding: 0px;
+	/*height: 100%;*/
+/*	width: 200px;
+	height: 90px;*/
 }
+
+
 
 .post-list li a {
 	margin: 0px; 
