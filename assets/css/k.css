@@ -22,27 +22,39 @@ body em {
 	font-family: Calendas_PlusItalic;
 	font-style: normal;
 }
-p {
+p, ul, ol, h3 {
 	margin-bottom: .75em;
 	margin-top: 0; 
 }	
 h1 { 
-	font-family: CooperHewitt_Light;
+	font-family: CooperHewitt_Thin;
 	/*letter-spacing: 1px;*/
 	font-size:3.6em;
 	font-weight: normal;
 	line-height: 1.35em;
 }
 h2 { 
-	font-family: CooperHewitt_Medium;
+	font-family: CooperHewitt_Light;
 	font-size: 1.7em;
 	font-weight: normal;
-	margin-top: 50px;
-	margin-bottom: 20px;
-	border-left: 4px solid #111;
+	border-left: 1px solid #111;
 	padding-left: 20px;
+	padding-top: 5px;
 	line-height: 1.45em;
 }	
+
+h2 strong { 
+	font-family: CooperHewitt_Book;
+}
+
+h3 {
+	font-family: CooperHewitt_Book;
+	font-size: 1em;
+	font-weight: normal;
+}
+h3 strong {
+	font-family: CooperHewitt_Medium;
+}
 h4 {
 	font-family: Raleway;
 	font-weight: 900;
@@ -55,44 +67,138 @@ h4 {
 Links
 */
 a {
-  color: #555;
-  text-decoration: none; }
-  a:visited {
-    color: #555; }
-  a:hover {
-    color: #000;
-    text-decoration: underline; }
+  color: #111;
+  text-decoration: none; 
+}
+a:visited {
+	color: #111; 
+}
+a:hover {
+	color: #000;
+	text-decoration: underline; 
+}
 
 sup {
 	line-height: 0;
 }
 
-	
 
 svg {
-	margin-left: -300px;
-	margin-top: -150px;
-	margin-bottom: -250px;
+	max-width: 100%;
 }
 
+
 .post-list {
+	width: 100%;
+	height: 90px;
+	position: fixed;
+	bottom:40px;
+	background-color: #f5f5f5;
+	opacity: .9;
+}
+
+#prev {
+	position: absolute;
+	top:0;
+	left:20px;
+	text-align: left;
+	font-size: 1.75em;
+	margin-top: 6px;
+	color: #fffc01;
+	/*color: #ccc;*/
+}
+
+#next {
+	position: absolute;
+	top:0;
+	right:20px;
+	text-align: right;
+	width: 40px;
+	font-size: 1.75em;
+	margin-top: 6px;
+	color: #fffc01;
+	/*color: #ccc;*/
+}
+
+/*#welcome {
+	position: absolute;
+	top:0;
+	left:40px;
+	height: 100%;
+}*/
+
+#welcome {
+	border-left: none;
+	margin-left: 0;
+}
+
+/*#welcome h2 {
+	color: #ccc;
+}*/
+
+#welcome h2:hover, #next i:hover, #prev i:hover  {
+	color: #111;
+}
+
+#scroll {
+	position: absolute;
+	top:0;
+	left:60px;
+	width: calc(100% - 140px);
+	height: 100%;
+	/*display: inline-block;*/
+	overflow: hidden;
+}
+
+#scroll ul {
+	width: 10000px;
+}
+
+.post-list ul {
 	list-style-type: none;
-	font-family: Raleway; 			
-	font-weight:600;
-	margin-left: -200px;
-	height: 60px;
+	/*float: left;*/
 }
 
 .post-list li {
-	/*height: 60px;*/
-	border-left: 2px solid #555;
-	padding-left: 20px;
-	padding-right: 20px;
 	float: left;
+	height: 90px;
+	margin-left: 20px;
+	border-left: 1px solid #111;
+	padding: 0px;
 }
 
-.post-list span {
-	font-size: .7em;
+.post-list img {
+	float:left;
+	height: 100%;
+	margin-left: 20px;
+}
+
+.post-list h2 {
+	display: inline;
+	margin-left: 20px;
+	border-left: none;
+	padding-left: 0px;
+}
+
+.post-list h3 {
+	margin-left: 20px;
+	display: inline;
+}
+
+.post-list li a {
+	margin: 0px; 
+	display: block; 
+	width: 100%; 
+	height: 100%;
+}
+
+.post-list a:hover {
+	text-decoration: none;
+}
+
+.post-list a:hover h2 {
+	color: #000;
+	border-bottom: 1px solid #111; 
 }
 
 
@@ -101,52 +207,43 @@ svg {
 	position: fixed;
 	width:100%;
 	top: 0px;
+	left: 0px;
 	height: 28px;
-	margin-left: 15px;
-	margin-right: 15px;
-	padding-top:15px;
-	font-family: CooperHewitt_Heavy; 
+	padding:15px;
+	font-family: CooperHewitt_Heavy;
 	font-size: .7em;			
 	font-weight: normal;
 	background-color: #f5f5f5;
 	opacity: .9;
 }
 
-.header .fa-twitter {
-	color: #aaa;
-	margin-right: 2px;
+.header .title {
+	float: left;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
-.header .fa-envelope {
-	color: #aaa;
-	margin-right: 4px;
+.header .author {
+	font-family: CooperHewitt_Bold;
+	text-transform: none;
+	letter-spacing: 0px;
 }
 
 .header ul {
 	list-style-type: none;
 }
 
-.header .title {
-	float: left;
-}
-
-.header .contact , .contact li {
+.header .controls , .controls li {
 	float: right;
 	text-align: right;
 	margin-right: 15px;
-}
-
-
-.header .title a:link {
-	text-transform: uppercase;
-	letter-spacing: 1px;
 }
 
 /* 
 Article
 */
 
-article p, article blockquote, article h1, .footnotes ol {
+article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3 {
 	width: 640px;
 	margin-left: 240px;
 }
@@ -161,8 +258,8 @@ article header {
 }
 
 article header p {
-	font-family: CooperHewitt_Medium;
-	font-size: 1.1em;
+	font-family: CooperHewitt_Book;
+	/*font-size: 1.1em;*/
 	margin-top: 10px;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #555;
@@ -182,7 +279,9 @@ article blockquote em {
 }
 
 article h2 {
-	border-color: #fffc01;
+	margin-top: 60px;
+	margin-bottom: 15px;
+	border-left: 4px solid #fffc01;
 	margin-left: 216px;
 }
 
@@ -206,6 +305,11 @@ article sup {
 	margin-left: 2px;
 }    
 
+article.informational ul li {
+	list-style-type: none;
+	margin-bottom: .5em;
+}
+
 figcaption {
 	font-family: CooperHewitt_Bold;
 	font-size: .7em;
@@ -217,7 +321,6 @@ figcaption em {
 	font-family: CooperHewitt_BoldItalic;
 	font-style: none;
 }
-
 
 .figure {
 	width: 640px;

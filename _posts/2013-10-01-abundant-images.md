@@ -3,6 +3,7 @@ layout: post
 title: "Abundant Images and the Collective Sublime"
 date: 2013-10-01
 author: Kate Palmer Albers
+thumbnail: abundantimages_01.jpg
 platform: 
  - Flickr
 theme:
