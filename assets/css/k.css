@@ -147,8 +147,7 @@ svg {
 	width: calc(100% - 140px);
 	height: 100%;
 	/*display: inline-block;*/
-	overflow-x: scroll;
-	overflow-y: hidden;
+	overflow: hidden;
 }
 
 #scroll ul {

@@ -8,38 +8,49 @@ layout: default
 
   <nav class="post-list">
 
-  <div id="prev">
-    <i class="fa fa-chevron-circle-left"></i>
-  </div>
+    <div id="prev">
+      <i class="fa fa-chevron-circle-left" onclick="scrollPrev()"></i>
+    </div>
 
-  <div id="scroll">
-    <ul>
+    <div id="scroll">
+      <ul>
 
-      <li id="welcome"><a href="{{site.baseurl}}/about/"><h2>Welcome</h2></a></li>
-  
-      {% for post in site.posts reversed %}
-      <li>
+        <li id="welcome"><a href="{{site.baseurl}}/about/"><h2>Welcome</h2></a></li>
+    
+        {% for post in site.posts reversed %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">  
+            {% if post.thumbnail %} 
+            <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+            {% endif %}
+          <h2>{{ post.title | truncatewords: 3, '...' }}</h2><br />
+          <h3>{{ post.date | date: "%B %-d, %Y" }}</h3>
+          </a>
+        </li>
+        {% endfor %}
+        
+      </ul>
+    </div>
 
-        <a href="{{ post.url | prepend: site.baseurl }}">  
-
-        {% if post.thumbnail %} 
-          <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
-        {% endif %}
-
-        <h2>{{ post.title | truncatewords: 3, '...' }}</h2><br />
-        <h3>{{ post.date | date: "%B %-d, %Y" }}</h3>
-
-        </a>
-
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-
-  <div id="next">
-    <i class="fa fa-chevron-circle-right"></i>
-  </div>
+    <div id="next">
+      <i class="fa fa-chevron-circle-right" onclick="scrollNext()"></i>
+    </div>
 
   </nav>
 
 <main>  
+
+<script type="text/javascript">
+
+function scrollNext() {
+  var scrollPos = document.getElementById('scroll').scrollLeft;
+  document.getElementById('scroll').scrollLeft = scrollPos + 200;
+}
+
+function scrollPrev() {
+  var scrollPos = document.getElementById('scroll').scrollLeft;
+  document.getElementById('scroll').scrollLeft = scrollPos - 200;
+}
+
+</script>
+
