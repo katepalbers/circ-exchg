@@ -3,12 +3,37 @@ layout: page
 title: "Kate Palmer Albers"
 subtitle:
 permalink: /kpa/
+thumbnail: katepalmeralbers.png
+twitter: katepalbers
+medium: katepalbers
 ---
+<!-- <figure class="figure-sm">
+	<figcaption>
+	<ul>
+		<li><a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"></i>{{ page.twitter }}</a></li>
+		<li><a href="https://www.twitter.com/{{ page.medium }}"><i class="fa fa-medium"></i>{{ page.medium }}</a></li>
+	</ul>	
+	</figcaption>
+</figure> -->
+
+<h4><a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"></i>{{ page.twitter }}</a> | <a href="https://www.twitter.com/{{ page.medium }}"><i class="fa fa-medium"></i>{{ page.medium }}</a></h4>
+
 Kate Palmer Albers is Associate Professor at the University of Arizona, where she teaches history and theory of photography, museum studies, and contemporary art at the graduate and undergraduate level, and has also developed online and hybrid courses. Previously, she worked in the photography departments at the Fogg Art Museum and the Los Angeles County Museum of Art, and taught at Massachusetts College of Art and Boston University, where she earned her PhD in 2008. Her book *Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography* (University of California Press, 2015) addresses the limits of photography’s ability to narrate the past and argues that doubt and inaccessibility can generate a space for a productive uncertainty that is as culturally valuable as information and clarity. Her recent articles address photography and digital abundance, multi-gigapixel photography, Gerhard Richter’s *Atlas*, and contemporary artists’ archival projects. She has articles and reviews published and forthcoming in *Photographies*, *Afterimage*, *Art History*, *Photography & Culture*, *Environmental History*, *Visual Resources*, and *Exposure*.
 
 Albers’ current work focuses on the intersection of photography, geolocational technology, and landscape, and she is developing new research on photographic communication through social media. She is also interested in the role of digital technologies in art historical research and contemporary practice. She organized the exhibition *Locating Landscape: New Strategies, New Technologies* which looked at the intersection of photography, mapping, technology, and landscape, and appeared at the Sam Lee Gallery in Los Angeles (2009) and the Center for Creative Photography in Tucson, AZ (2010). In 2010 she participated in the NEH Summer Institute Mapping and Art in the Americas at the Newberry Library in Chicago.
 
 ### **Books:**
+
+<figure class="figure-sm">
+	<img src="{{site.baseurl}}/assets/images/uncertainhistories.jpg" alt="Uncertain Histories" />
+	<figcaption>
+	Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography.<br />
+	<ul>
+		<li><a href="http://www.ucpress.edu/book.php?isbn=9780520285279">University of California Press</a></li>
+		<li><a href="http://www.amazon.com/Uncertain-Histories-Accumulation-Inaccessibility-Contemporary/dp/0520285271">Amazon</a></li>
+	</ul>	
+	</figcaption>
+</figure>
 
 - *Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography* (University of California Press, 2015).
 - *Before-and-After Photography: Histories and Contexts*, co-edited with Jordan Bear, forthcoming Bloomsbury Press (2016).

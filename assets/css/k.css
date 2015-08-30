@@ -237,7 +237,7 @@ article {
 	margin-bottom: 60px;
 }
 
-article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3, article footer {
+article p, article header, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3, article footer {
 	width: 640px;
 	margin-left: 240px;
 }
@@ -249,6 +249,10 @@ article p, article blockquote, article h1, .footnotes ol, article ul, article ol
 article header {
 	margin-bottom: 40px;
 	margin-top: 160px;
+}
+
+article header h2, article header h1 {
+	margin-left: 0px;
 }
 
 article header p {
@@ -373,6 +377,10 @@ figcaption em {
 	margin-bottom: 30px;
 	float: right;
 	clear: both;
+}
+
+article header img {
+	float: right;
 }
 
 article footer {
