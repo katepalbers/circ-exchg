@@ -233,7 +233,7 @@ Header
 Article
 */
 
-article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3 {
+article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3, article footer {
 	width: 640px;
 	margin-left: 240px;
 }
@@ -301,12 +301,12 @@ article.informational ul li {
 }
 
 article #next {
-	position: absolute;
+	position: fixed;
 	bottom: 88px;
 	right: 0px;
 }
 article #prev {
-	position: absolute;
+	position: fixed;
 	bottom: 88px;
 	left: 0px;
 }
@@ -371,10 +371,23 @@ figcaption em {
 	clear: both;
 }
 
+article footer {
+	font-family: CooperHewitt_Book;
+	font-size: .7em;
+	line-height: 1.75em;
+	color: #555;
+	margin-top: 80px;
+	padding-top: 20px;
+	border-top: 1px solid #111;
+}
 
+article footer p {
+	margin-left: 0px;
+}
 
-
-
+.url {
+	word-wrap: break-word;
+}
 
 
 /* 
