@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Circulation&thinsp;|&thinsp;Exchange"
-subtitle: "Moving Images in Contemporary Art"
+title: "Welcome"
+subtitle:
 permalink: /about/
 ---
-This online writing project is devoted to contemporary art practices that engage with our current world of moving photographic images. I don’t mean moving images as in film, but moving images through space, between friends, across platforms, from digital to material space and back again. Images that gain new meanings as they shift from one form to another; images that become untethered from their origins and drift through digital space; images that are posted, downloaded, appropriated, stolen, repurposed; images that live multiple lives. Images that are made on a smartphone and end up on gallery walls, images that are uploaded to Wikipedia and end up in books, images that are made by a Google Street View camera and become authored artwork, images that are exchanged among strangers only to disappear. Though conventionally there is a distinction between photographic images and photographic objects, these images might be both, simultaneously, equally valuable iterations from one to the next. As with most photographs, the form is as notable as the content.
+<em>Circulation&thinsp;|&thinsp;Exchange: Moving Images in Contemporary Art</em> is an online writing project devoted to contemporary art practices that engage with our current world of moving photographic images. I don’t mean moving images as in film, but moving images through space, between friends, across platforms, from digital to material space and back again. Images that gain new meanings as they shift from one form to another; images that become untethered from their origins and drift through digital space; images that are posted, downloaded, appropriated, stolen, repurposed; images that live multiple lives. Images that are made on a smartphone and end up on gallery walls, images that are uploaded to Wikipedia and end up in books, images that are made by a Google Street View camera and become authored artwork, images that are exchanged among strangers only to disappear. Though conventionally there is a distinction between photographic images and photographic objects, these images might be both, simultaneously, equally valuable iterations from one to the next. As with most photographs, the form is as notable as the content.
 
 Of course, aside from camera-less photograms, photographic images have, nearly by definition, always moved: from a film negative to a print; from a slide to a projection; from one kind of paper to another; presented in a frame, in a book, in a magazine, or on a screen. Until recently, it was iconic images that moved the most, often existing as prints of various sizes, ubiquitous newspaper and magazine reproductions, and, eventually, emblazoned upon posters, coffee mugs, mouse pads, and t-shirts. 
 
@@ -14,4 +14,6 @@ For many swaths of contemporary work made by serious artists and discussed by se
 
 Privacy and surveillance, originality and authorship, sharing and distribution, saving and loss, distribution and networks … how these categories will unfurl into the future marks some of the central concerns (or anxieties) of our contemporary culture. I rely on artists to help me make sense of these questions, particularly as they play out in the world of images. The writing that will appear on this site will be – I hope – informed by past practices but focused on very recent work. Now that we have moved into a period of digital ubiquity, I have often frequently heard “pre-digital” photography all lumped together into one category, as if it can now be easily understood and digested as “how things used to be before they were digital/social/networked/mobile”. I want to resist this generalizing tendency, and seek instead to use the complexities of today to preserve the complex and moving role that photographs have always had as they traveled from place to place over time. 
 
-*CirculationExchange is supported by an Arts Writers Grant from the Andy Warhol Foundation / Creative Capital.*
+<footer>
+	<em>Circulation&thinsp;|&thinsp;Exchange</em> is supported by an Arts Writers Grant from the Andy Warhol Foundation / Creative Capital.
+</footer>

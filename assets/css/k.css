@@ -233,6 +233,10 @@ Header
 Article
 */
 
+article {
+	margin-bottom: 60px;
+}
+
 article p, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3, article footer {
 	width: 640px;
 	margin-left: 240px;
