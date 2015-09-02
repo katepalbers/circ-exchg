@@ -234,16 +234,9 @@ Article
 */
 
 article {
-	margin-bottom: 60px;
-}
-
-article p, article header, article blockquote, article h1, .footnotes ol, article ul, article ol, article h3, article footer {
 	width: 640px;
 	margin-left: 240px;
-}
-
-.footnotes ol p {
-	margin-left: 0px;
+	margin-bottom: 60px;
 }
 
 article header {
@@ -251,13 +244,8 @@ article header {
 	margin-top: 160px;
 }
 
-article header h2, article header h1 {
-	margin-left: 0px;
-}
-
 article header p {
 	font-family: CooperHewitt_Book;
-	/*font-size: 1.1em;*/
 	margin-top: 10px;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #555;
@@ -280,7 +268,7 @@ article h2 {
 	margin-top: 60px;
 	margin-bottom: 15px;
 	border-left: 4px solid #fffc01;
-	margin-left: 216px;
+	margin-left: -24px;
 }
 
 article a {
@@ -332,8 +320,7 @@ figcaption em {
 }
 
 .figure {
-	width: 640px;
-	margin-left: 240px;
+	width: 100%;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -345,7 +332,7 @@ figcaption em {
 
 .figure-lg {
 	width: 100%;
-	margin-left: 0px;
+	margin-left: -240px;
 }
 
 .figure-lg img {
@@ -361,7 +348,7 @@ figcaption em {
 }
 
 .figure-sm {
-	width: 1180px;
+	width: 940px;
 	margin-left: 0px;
 }
 
