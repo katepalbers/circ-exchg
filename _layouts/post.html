@@ -16,14 +16,22 @@ layout: default
 	</footer>	
 
   	<nav>
-		{% if page.next.url %} 
+		{% if page.next %} 
 	    <div id="prev">
 	      <a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-circle-left"></i></a>
 	    </div>
+	    {% else %}
+	    <div id="prev" class="inactive">
+	      <a href="{{ site.baseurl }}/"><i class="fa fa-refresh fa-spin"></i></a>
+	    </div>
 	    {% endif %}
-	    {% if page.previous.url %} 
-	    <div id="next">
+	    {% if page.previous %} 
+	    <div id="next" >
 	      <a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-circle-right"></i></a>
+	    </div>
+	    {% else %}
+	    <div id="next" class="inactive">
+	      <a href="{{ site.baseurl }}/"><i class="fa fa-refresh fa-spin"></i></a>
 	    </div>
 	    {% endif %}
 	</nav>

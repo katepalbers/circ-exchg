@@ -129,6 +129,11 @@ Home Page Post List
 #next a:hover, #prev a:hover  {
 	color: #111;
 }
+
+.inactive i {
+	color: #e5e5e5;
+}
+
 #welcome {
 	border-left: none;
 	margin-left: 20px;
