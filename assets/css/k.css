@@ -97,6 +97,7 @@ a:hover {
 /*
 Home Page Post List
 */
+
 .post-list {
 	width: 100%;
 	height: 90px;
@@ -389,10 +390,9 @@ article footer p {
 	margin-left: 0px;
 }
 
-.url {
-	word-wrap: break-word;
+article footer img {
+	max-width: 100%;
 }
-
 
 /* 
 Site Banner

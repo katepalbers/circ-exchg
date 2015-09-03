@@ -15,5 +15,6 @@ For many swaths of contemporary work made by serious artists and discussed by se
 Privacy and surveillance, originality and authorship, sharing and distribution, saving and loss, distribution and networks … how these categories will unfurl into the future marks some of the central concerns (or anxieties) of our contemporary culture. I rely on artists to help me make sense of these questions, particularly as they play out in the world of images. The writing that will appear on this site will be – I hope – informed by past practices but focused on very recent work. Now that we have moved into a period of digital ubiquity, I have often frequently heard “pre-digital” photography all lumped together into one category, as if it can now be easily understood and digested as “how things used to be before they were digital/social/networked/mobile”. I want to resist this generalizing tendency, and seek instead to use the complexities of today to preserve the complex and moving role that photographs have always had as they traveled from place to place over time. 
 
 <footer>
-	<em>Circulation&thinsp;|&thinsp;Exchange</em> is supported by an Arts Writers Grant from the Andy Warhol Foundation / Creative Capital.
+	<img src="{{site.baseurl}}/assets/images/system/artswriters_logo_f5f5f5.png" alt="Arts Writers" />
+	<em>Circulation&thinsp;|&thinsp;Exchange: Moving Images in Contemporary Art</em> is supported by by the Creative Capital | Warhol Foundation Arts Writers Grant Program.	
 </footer>
