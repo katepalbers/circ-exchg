@@ -420,38 +420,36 @@ Site Banner
 /* 
 MailChimp Form
 */
-form {
-	margin: 2em auto; 
-	width:80%; 
-	min-width: 180px;
-	border: 1px solid #888;
-	border-radius: 3px;
-	padding: .6em;  }
-input {
-	border: none;
-	font-size: 1.2em;
-	font-family: Raleway; 
-	font-weight:200;
-	color: #888; 
-	height:30px; 
-	margin-top:.6em;
-	margin-bottom:1em;}
-#mce-EMAIL {
-	text-align: left;
-	width:60%;
-	min-width: 180px; 
-	height:26px; }	
-#mc-embedded-subscribe {	
+
+#mc_embed_signup {
+	font-family: CooperHewitt_Light;
 	font-size: 1em;
-	width:30%;	
-	min-width: 120px;
-	border: 1px solid #888;
+	font-weight: normal;
+}
+#mce-EMAIL {
+	width: 95%;
+	height: 3em;
+	margin-top: 0px;
+	font-size: 1em;
+	padding-left: 5%;
+	letter-spacing: 1px;
+}
+#mc-embedded-subscribe {
+	float: right;
+	height: 3em;
+	background-color: #fffc01;
+	color: #555;
+	border: none;
 	border-radius: 3px;
-	background-color: #fff;
-	color:#000; }
+	font-size: 1em;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 20px;
+}
 #mc-embedded-subscribe:hover {
-	background-color: #888;
-	color: #fff; }
+	color: #f5f5f5;
+	background-color: #111;
+}
 
 
 /*.credits {
