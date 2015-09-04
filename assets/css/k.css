@@ -1,3 +1,18 @@
+
+/*
+Palette
+
+Black Hover: #555;
+Text: #111;
+Dark Gray: #555;
+Mid Gray Inactive: #e5e5e5;
+Light Gray Background: #f5f5f5;
+Yellow Accent: #fffc01;
+Yellow Hover: #e5d30b;
+
+*/
+
+
 /* 
 Reset
 */
@@ -128,7 +143,10 @@ Home Page Post List
 	border-bottom: none;
 }
 #next a:hover, #prev a:hover  {
-	color: #111;
+	color: #e5d30b;
+}
+#next i:hover, #prev i:hover  {
+	color: #e5d30b;
 }
 
 .inactive i {
@@ -248,14 +266,26 @@ article {
 article header {
 	margin-bottom: 40px;
 	margin-top: 160px;
+	font-family: CooperHewitt_Book;
 }
 
-article header p {
-	font-family: CooperHewitt_Book;
-	margin-top: 10px;
-	padding-bottom: 20px;
-	border-bottom: 2px solid #555;
-	border-bottom-color: #fffc01;
+article hr {
+	border-style: solid;
+	border-color: #fffc01;
+	width: 90%;
+	margin-bottom: 1em;
+}
+
+article .theme, article .platform {
+	color: #f5f5f5;
+	background-color: #d5d5d5;
+	padding-left: .7em;
+	padding-right: .7em;
+	padding-top: .6em;
+	padding-bottom: .4em;
+	margin-right: .3em;
+	margin-left: .3em;
+	border-radius: .5em;
 }
 
 article blockquote p {
