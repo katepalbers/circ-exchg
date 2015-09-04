@@ -5,6 +5,7 @@ description: "Circulation Exchange is an online publication dedicated to artists
 baseurl: "/circ-exchg" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: circ-exchg
+permalink: none
 
 # Build settings
 markdown: kramdown

@@ -2,7 +2,6 @@
 layout: page
 title: "Subscribe to the mailing list"
 subtitle:
-permalink: /subscribe/
 ---
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">

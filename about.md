@@ -2,7 +2,6 @@
 layout: page
 title: "Welcome"
 subtitle:
-permalink: /about/
 ---
 <em>Circulation&thinsp;|&thinsp;Exchange: Moving Images in Contemporary Art</em> is an online writing project devoted to contemporary art practices that engage with our current world of moving photographic images. I don’t mean moving images as in film, but moving images through space, between friends, across platforms, from digital to material space and back again. Images that gain new meanings as they shift from one form to another; images that become untethered from their origins and drift through digital space; images that are posted, downloaded, appropriated, stolen, repurposed; images that live multiple lives. Images that are made on a smartphone and end up on gallery walls, images that are uploaded to Wikipedia and end up in books, images that are made by a Google Street View camera and become authored artwork, images that are exchanged among strangers only to disappear. Though conventionally there is a distinction between photographic images and photographic objects, these images might be both, simultaneously, equally valuable iterations from one to the next. As with most photographs, the form is as notable as the content.
 

@@ -2,7 +2,6 @@
 layout: page
 title: "Kate Palmer Albers"
 subtitle:
-permalink: /kpa/
 thumbnail: katepalmeralbers.png
 twitter: katepalbers
 medium: katepalbers
