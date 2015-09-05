@@ -5,11 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-
-
-
-  <link href='http://fonts.googleapis.com/css?family=Raleway:100,300,600,900' rel='stylesheet' type='text/css' />
+  <link rel="icon" href="assets/images/system/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="{{ "/assets/css/calendas-plus-font.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/cooperhewitt-font.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}">
@@ -26,5 +22,7 @@
         x[i].style.width = w + "px";
     }}
   </script>  
+
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us9.list-manage.com","uuid":"b9776881425374ff322c1c28f","lid":"294fb7ce83"}) })</script>
 
 </head>
