@@ -15,5 +15,6 @@ Privacy and surveillance, originality and authorship, sharing and distribution, 
 
 <footer>
 	<img src="{{site.baseurl}}/assets/images/system/artswriters_logo_f5f5f5.png" alt="Arts Writers" />
-	<em>Circulation&thinsp;|&thinsp;Exchange: Moving Images in Contemporary Art</em> is supported by by the Creative Capital | Warhol Foundation Arts Writers Grant Program.	
+	<p><em>Circulation&thinsp;|&thinsp;Exchange: Moving Images in Contemporary Art</em> is supported by by the Creative Capital | Warhol Foundation Arts Writers Grant Program.</p>
+	<p>This site is built with <a href="http://jekyllrb.com/">Jekyll</a>, a static site generator, and hosted on <a href="https://www.github.com/geealbers/circ-exchg">GitHub</a> pages. The fonts used are <a href="http://calendasplus.com/">Calendas</a> for the main text, <a href="http://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/">Cooper Hewitt</a> for the headlines and captions, and <a href="http://fortawesome.github.io/">Font Awesome</a> for the icons.</p>	
 </footer>
