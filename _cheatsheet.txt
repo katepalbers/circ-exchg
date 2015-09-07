@@ -55,16 +55,17 @@ Image files themselves go in the assets > images folder
 
 NEW POSTS:
 --------------------
-New posts go in the _posts folder, and must follow a naming convention, with the date first, in the following format. The title that follows the date will be used in contructing the URL for the post: YYYY-MM-DD-short-title-here.md
 
-At the top of each post is a required block of metdata (YAML) that appears between two lines of three dashes ---. The layout and category always remain the same. Update the other lines for each post. The thumbnail should be the complete file name of an image that is in the images folder, and will determine the thumbnail image appearing with the post title on the home page.
+New posts start in the _drafts folder, and must follow a naming convention, with the date first, in the following format. The title that follows the date will be used in contructing the URL for the post: YYYY-MM-DD-short-title-here.md
+
+At the top of each post is a required block of metdata (YAML) that appears between two lines of three dashes ---. The layout and category always remain the same, and date and title are required. Update the other lines for each post. The thumbnail should be the complete file name of an image that is in the images folder, and will determine the thumbnail image appearing with the post title on the home page.
 
 Template YAML metadata block:
 
 ---
 layout: post
 category: articles
-title: 
+title: Your Title Here
 date: YYYY-MM-DD
 author: Kate Palmer Albers
 thumbnail: _________.jpg
@@ -73,15 +74,16 @@ theme:
 ---
 
 
-
 SITE PREVIEW:
 --------------------
 1. Open Applications > Utilities > Terminal
 2. Type "cd kpalbers/circ-exchg" without the quotes and hit enter
-3. Type "bundle exec jekyll serve" without the quotes and hit enter
+3. Type "bundle exec jekyll serve --drafts" without the quotes and hit enter
 4. Open a browser and go to: http://localhost:4000/circ-exchg/
 
 The preview site will automatically be updated when you save changes to documents in the site, but you need to refresh to see them. Hit Control-C or close the Terminal window to stop the site preview.
+
+To preview a version of the site without any draft posts included, use the command "bundle exec jekyll serve", after stopping the current site preview with Control-C or by closing the Terminal and starting a new session.
 
 
 
@@ -97,6 +99,12 @@ PUBLISHING:
 2. Open Applications > GitHub. Default branch should be gh-pages
 3. In the left column, select the post file and any relevant images
 4. At the bottom, write a brief Summary of the change (required), ie., "New post with images, on Instagram". And a long description if desired. Click "Commit and Synch gh-pages"
+
+
+
+
+
+
 
 
 
