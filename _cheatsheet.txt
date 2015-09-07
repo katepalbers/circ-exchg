@@ -1,0 +1,103 @@
+MARKDOWN SYNTAX:
+---------------------------------
+
+Posts and other pages are formatted using Markdown (.md)
+
+## Section heading
+### Section sub-heading
+#### Small bold heading
+
+*Italic Text*
+**Bold Text**
+
+> Blockquote
+
+(Link Text)[http://www.linkadress.com]
+
+[^1] Footnote number in text
+[^1]: The footnote itself is the same thing, but with a colon followed by the footnote text
+
+- dashes make
+- a list with
+- bullets
+
+1. numbers make
+2. a list with
+3. numbers
+
+
+
+IMAGES:
+---------------------------------
+
+<figure class="_______">
+	<img src="../assets/images/__________.jpg" alt="__________" />
+	<figcaption>
+		____________________________
+	</figcaption>
+</figure>
+
+Figures use basic HTML. Copy and paste the above template, and fill in the blanks. The alt="___" text is a short name for the image in case it doesn't load. The class="___" text can be one of three values:
+
+	class="figure": Goes full-width of text column
+	class="figure-lg":  Goes full-width of browser window
+	class="figure-sm": Goes small and to the right of the text column
+
+For the caption (<figcaption>) Text can be formatted and contain links, however, it needs to be formatted as HTML rather than Markdown:
+
+	<em>Italic Text</em>
+	<strong>Bold Text</strong>
+	<a href="http://www.linkadress.com">Link Text</a>
+
+Image files themselves go in the assets > images folder
+
+
+
+NEW POSTS:
+--------------------
+New posts go in the _posts folder, and must follow a naming convention, with the date first, in the following format. The title that follows the date will be used in contructing the URL for the post: YYYY-MM-DD-short-title-here.md
+
+At the top of each post is a required block of metdata (YAML) that appears between two lines of three dashes ---. The layout and category always remain the same. Update the other lines for each post. The thumbnail should be the complete file name of an image that is in the images folder, and will determine the thumbnail image appearing with the post title on the home page.
+
+Template YAML metadata block:
+
+---
+layout: post
+category: articles
+title: 
+date: YYYY-MM-DD
+author: Kate Palmer Albers
+thumbnail: _________.jpg
+platform:
+theme:
+---
+
+
+
+SITE PREVIEW:
+--------------------
+1. Open Applications > Utilities > Terminal
+2. Type "cd kpalbers/circ-exchg" without the quotes and hit enter
+3. Type "bundle exec jekyll serve" without the quotes and hit enter
+4. Open a browser and go to: http://localhost:4000/circ-exchg/
+
+The preview site will automatically be updated when you save changes to documents in the site, but you need to refresh to see them. Hit Control-C or close the Terminal window to stop the site preview.
+
+
+
+INCREMENTAL UPDATES:
+--------------------
+
+
+
+
+PUBLISHING:
+--------------------
+1. Move post into _posts folder
+2. Open Applications > GitHub. Default branch should be gh-pages
+3. In the left column, select the post file and any relevant images
+4. At the bottom, write a brief Summary of the change (required), ie., "New post with images, on Instagram". And a long description if desired. Click "Commit and Synch gh-pages"
+
+
+
+
