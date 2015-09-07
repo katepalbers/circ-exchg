@@ -7,7 +7,7 @@ twitter: katepalbers
 medium: katepalbers
 ---
 <figure class="profile" style="float:right; margin-left:20px;">
-	<img src="../assets/images/{{ page.thumbnail }}" alt="{{ page.title }}" />
+	<img src="{{ site.baseurl }}/assets/images/{{ page.thumbnail }}" alt="{{ page.title }}" />
 	<figcaption style="text-align: center;">
 		@katepalbers<br />
 		<a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter" style="vertical-align: middle;"></i></a> | <a href="https://www.medium.com/{{ page.medium }}"><i class="fa fa-medium" style="vertical-align: middle;"></i></a>
@@ -21,7 +21,7 @@ Albers’ current work focuses on the intersection of photography, geolocational
 ### **Books:**
 
 <figure class="figure-sm">
-	<img src="../assets/images/uncertainhistories.jpg" alt="Uncertain Histories" />
+	<img src="{{site.baseurl}}/assets/images/uncertainhistories.jpg" alt="Uncertain Histories" />
 	<figcaption>
 	<p><em>Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography.</em></p>
 	<ul>
