@@ -21,7 +21,7 @@ layout: default
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">  
             {% if post.thumbnail %} 
-            <img src="{{site.baseurl}}/assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+            <img src="../assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
             {% endif %}
             <div class="titlebox">
               <h3>{{ post.title || truncate: 42, '...' }}</h3>
