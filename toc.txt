@@ -1,0 +1,6 @@
+---
+---
+titlepage.html
+about.html
+{% for post in site.posts %}{{ post.url | replace:'/articles','articles' }}
+{% endfor %}kpa.html
