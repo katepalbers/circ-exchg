@@ -1,0 +1,97 @@
+@media print {
+
+	@page {
+		size: 8.5in 11in;
+		margin: 1.25in 1in .75in 1in;
+
+		@top-left {
+			font-family: CooperHewitt_Light;
+			font-size: 10pt;
+			content: "Circulation|Exchange";
+		}
+
+		@top-right {
+			font-family: CooperHewitt_Light;
+			font-size: 10pt;
+			content: "Kate Palmer Albers";
+		}
+
+		@bottom-right-corner {
+			font-family: CooperHewitt_Light;
+			font-size: 10pt;
+			content: counter(page);
+		}
+
+	}
+
+	@prince-pdf {
+			prince-pdf-page-layout: single-page;
+		}
+
+
+	
+	body {
+		color: #000;
+		background: #fff;
+		font-size: 13pt; 
+	}
+
+	.header, #prev, #next {
+		display: none;
+	}
+
+	article {
+		width: 100%;
+		margin: 0;
+	}
+
+
+	h1 {
+		font-family: CooperHewitt_Light;
+		font-size: 48pt;
+	}
+
+	h2 {
+		font-family: CooperHewitt_Book;
+	}
+
+	.figure {
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+	.figure-lg {
+		margin-left: 0px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+	.figure-lg figcaption {
+		margin-top: 5px;
+		margin-left: 0px;
+		width: 100%;
+		height: auto;
+	}
+
+	.figure-sm {
+		float: right;
+		margin-left: .25in;
+		width: 240px;
+		clear: both;
+	}
+
+	.figure-sm img {
+		width: 100%;
+		float: none;
+		clear: both;
+	}
+
+	.figure-sm figcaption {
+		width: 240px;
+		margin-top: 5px;
+		margin-bottom: 30px;
+		float: none;
+		clear: both;
+	}
+
+}
