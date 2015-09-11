@@ -7,7 +7,7 @@ layout: default-b
 		<h1>{{ page.title }}</h1>
 		<hr />
 		<p><span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
-			<!-- {% if page.platform %}<span class="platform">{{ page.platform }}</span>{% endif %}
+		<!-- {% if page.platform %}<span class="platform">{{ page.platform }}</span>{% endif %}
 			{% if page.theme %}<span class="theme">{{ page.theme }}</span>{% endif %} -->
 		</p>
 	</header>
@@ -16,7 +16,10 @@ layout: default-b
 
 	<footer>
 		<p>Kate Palmer Albers, "{{ page.title }}," in <em>Circulation|Exchange: Moving Images in Contemporary Art</em> ({{ page.date | date: "%B %-d, %Y" }}). http://www.circulationexchange.org{{ page.url }}.</p>
-		<p>Any updates or corrections to this article made after {{ page.date | date: "%B %-d, %Y" }}, are tracked in full in the GitHub repository for this project: <i class="fa fa-github"></i> <a href="https://github.com/geealbers/circ-exchg/commits/gh-pages/_posts/2013-10-01-abundant-images.md">https://github.com/geealbers/circ-exchg/commits/gh-pages/_posts/2013-10-01-abundant-images.md</a></p>
+		{% if page.previously_published %} 
+			<p>Previously published in {{ page.previously_published }}</p>	
+		{% endif %}
+		<p>Any updates or corrections to this article made after {{ page.date | date: "%B %-d, %Y" }}, are tracked in full in the GitHub repository for this project: <i class="fa fa-github"></i> <a href="https://github.com/katepalbers/circ-exchg/commits/gh-pages/_posts/{{ page.date | date: "%F" }}{{ page.url | replace:'/articles/','-' | replace:'.html','.md' }}">https://github.com/katepalbers/circ-exchg/commits/gh-pages/_posts/{{ page.date | date: "%F" }}{{ page.url | replace:'/articles/','-' | replace:'.html','.md' }}</a></p>
 	</footer>	
 
   	<nav>
@@ -31,26 +34,5 @@ layout: default-b
 	    </div>
 	    {% endif %}
 	</nav>
-
-<!--   	<nav>
-		{% if page.next %} 
-	    <div id="prev">
-	      <a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-circle-left"></i></a>
-	    </div>
-	    {% else %}
-	    <div id="prev" class="inactive">
-	      <a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
-	    </div>
-	    {% endif %}
-	    {% if page.previous %} 
-	    <div id="next" >
-	      <a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-circle-right"></i></a>
-	    </div>
-	    {% else %}
-	    <div id="next" class="inactive">
-	      <a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
-	    </div>
-	    {% endif %}
-	</nav>	 -->
 
 </article>

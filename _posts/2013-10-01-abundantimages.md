@@ -5,6 +5,7 @@ title: "Abundant Images and the Collective Sublime"
 date: 2013-10-01
 author: Kate Palmer Albers
 thumbnail: abundantimages_01.jpg
+previously_published: "<em>Exposure</em> 46:2 (Fall 2013), 4-14."
 platform: 
  - Flickr
 theme:

@@ -441,6 +441,10 @@ article footer {
 	border-top: 1px solid #111;
 }
 
+article footer em {
+	font-family: CooperHewitt_BookItalic;
+}
+
 article footer p {
 	margin-left: 0px;
 }
