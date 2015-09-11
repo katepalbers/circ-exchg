@@ -46,6 +46,10 @@ sup {
 }
 svg {
 	max-width: 100%;
+	position: fixed;
+	overflow: hidden;
+	margin-top: -40px;
+	z-index: -2;
 }
 
 
