@@ -2,7 +2,7 @@
 
 	@page {
 		size: 8.5in 11in;
-		margin: 1.25in 1in .75in 1in;
+		margin: 1.25in 1in .75in 1.5in;
 
 		@top-left {
 			font-family: CooperHewitt_Light;
@@ -24,15 +24,97 @@
 
 	}
 
+	@page:first {
+
+		@top-left {
+			content: "";
+		}
+
+		@top-right {
+			content: "";
+		}
+
+	}
+
 	@prince-pdf {
 			prince-pdf-page-layout: single-page;
 		}
 
 
+	@page cover {
+		margin: 1.25in 1in .75in 1in;
+		background-color: #f5f5f5;
+
+		@top-left {
+			content: "";
+		}
+
+		@top-right {
+			content: "";
+		}
+
+		@bottom-right-corner {
+			content: "";
+		}
+	}
+
+	.cover {
+		background-color: #f5f5f5;
+		margin-top: 48pt;
+		page: cover;
+	}
+
+	.cover h2 {
+		border-top: 2px solid #fffc01;
+		border-left: none;
+		width: 90%;
+		font-size: 32pt;
+		margin-top: 20pt;
+		margin-bottom: 24pt;
+		padding-left: 0;
+		padding-top: 18pt;
+		text-shadow: 2px 2px #fff;
+	}
+
+	.cover h1 {
+		text-shadow: 2px 2px #fff;
+	}
 	
+	.cover strong {
+		font-family: CooperHewitt_Bold;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+	}
+
+	.cover .date-stamp {
+		font-family: CooperHewitt_Medium;
+	}
+
+	.toc li {
+		padding-bottom: 6pt;
+	}
+
+	.toc li a {
+		font-family: Calendas_PlusItalic;
+	}
+
+	.toc li a:after { 
+		content: leader(dotted) " " target-counter(attr(href, url), page);
+		font-family: Calendas_PlusItalic;
+	}
+
+	.toc li.post a {
+		font-family: Calendas_Plus;
+	}
+
+	.toc li.post a:after { 
+		content: leader(dotted) " " target-counter(attr(href, url), page);
+		font-family: Calendas_Plus;
+	}
+
 	body {
 		color: #000;
-		background: #fff;
+		background-color: #fff;
 		font-size: 13pt; 
 	}
 
@@ -45,6 +127,13 @@
 		margin: 0;
 	}
 
+	article a {
+		color: #111;
+		border-bottom: 3px solid #fffc01;
+		text-decoration: none; }
+	article a:visited {
+	    color: #111; 
+	}
 
 	h1 {
 		font-family: CooperHewitt_Light;

@@ -1,8 +1,19 @@
 ---
-layout: default-a
+layout: null
 ---
+<html>
 
-<h1>Circulation | Exchange: Moving Images in Contemporary Art</h1>
-<h2>Kate Palmer Albers</h2>
+	{% include head-a.html %}
 
-<p>This PDF was output from http://www.circulationexchange.org on {{ 'now' | timezone: 'Pacific' | date: "%A, %B %d, %Y, %T %Z" }}. It is a draft of an ongoing project. © 2015 Kate Palmer Albers, All rights reserved.</p>
+	<body class="cover">
+
+		<h1>Circulation | Exchange: Moving Images in Contemporary Art</h1>
+		<h2>Kate Palmer Albers</h2>
+
+		<p><strong>DRAFT</strong> This PDF was output from www.circulationexchange.org <br />on <span class="date-stamp">{{ 'now' | timezone: 'Pacific' | date: "%F" }}T{{ 'now' | timezone: 'Pacific' | date: "%T%z" }}</span>, and is provided for personal use only.</p>
+
+		<p><em>© 2015 Kate Palmer Albers. All rights reserved.</em></p>
+
+	</body>
+
+</html>	
