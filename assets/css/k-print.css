@@ -127,12 +127,14 @@
 		margin: 0;
 	}
 
-	article a {
+	article a, article a:visited {
 		color: #111;
 		border-bottom: 3px solid #fffc01;
-		text-decoration: none; }
-	article a:visited {
-	    color: #111; 
+		text-decoration: none; 
+	}
+
+	article footer a, article footer a:visited {
+		color: #555;
 	}
 
 	h1 {
@@ -153,6 +155,11 @@
 		margin-left: 0px;
 		margin-top: 30px;
 		margin-bottom: 30px;
+	}
+
+	.figure-lg img {
+		margin-top: 0px;
+		margin-bottom: 0px;
 	}
 
 	.figure-lg figcaption {
@@ -181,6 +188,14 @@
 		margin-bottom: 30px;
 		float: none;
 		clear: both;
+	}
+
+	figcaption {
+		page-break-before: avoid;
+	}
+
+	#artswriters-logo {
+		background-image: url('../images/system/artswriters_logo_ffffff.png');
 	}
 
 }
