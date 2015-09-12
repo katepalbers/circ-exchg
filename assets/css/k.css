@@ -175,7 +175,8 @@ Home Page Post List
 	left:60px;
 	width: calc(100% - 140px);
 	height: 100%;
-	overflow: hidden;
+	overflow-y: hidden;
+	overflow-x: scroll;
 }
 #scroll ul {
 	width: 10000px;
