@@ -502,6 +502,8 @@ MailChimp Form
 	font-size: 1em;
 	padding-left: 5%;
 	letter-spacing: 1px;
+	border-radius: 6px;
+	border: none;
 }
 #mc-embedded-subscribe {
 	float: right;
@@ -509,15 +511,15 @@ MailChimp Form
 	background-color: #fffc01;
 	color: #555;
 	border: none;
-	border-radius: 3px;
+	border-radius: 6px;
 	font-size: 1em;
 	padding-left: 5%;
 	padding-right: 5%;
 	margin-top: 20px;
 }
 #mc-embedded-subscribe:hover {
-	color: #f5f5f5;
-	background-color: #111;
+	color: #fff;
+	background-color: #e5d30b;
 }
 
 
