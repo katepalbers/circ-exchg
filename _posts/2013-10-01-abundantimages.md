@@ -1,7 +1,8 @@
 ---
 layout: post
 category: articles
-title: "Abundant Images and the Collective Sublime"
+title: Abundant Images and the Collective Sublime
+subtitle:
 date: 2013-10-01
 author: Kate Palmer Albers
 thumbnail: abundantimages_01.jpg

@@ -18,13 +18,20 @@ layout: default-a
         <li id="welcome"><a href="{{site.baseurl}}/about.html"><h3>About</h3></a></li>
     
         {% for post in site.posts %}
+
+        {% if post.title.size >= 42 %}
+          {% capture full_title %}{{ post.title }}{% endcapture %}
+        {% else %}
+          {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}
+        {% endif %}
+
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">  
             {% if post.thumbnail %} 
             <img src="assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
             {% endif %}
             <div class="titlebox">
-              <h3>{{ post.title || truncate: 42, '...' }}</h3>
+              <h3>{{ full_title | truncate: 42, '...' }}</h3>
               <h4>{{ post.date | date: "%B %-d, %Y" }}</h4>
             </div>
           </a>

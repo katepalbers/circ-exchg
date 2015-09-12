@@ -1,7 +1,8 @@
 ---
 layout: post
 category: articles
-title: "It's a Cat's World: Ten Billion Adorable Photos and Counting"
+title: It's a Cat's World
+subtitle: Ten Billion Adorable Photos and Counting
 date: 2015-09-01
 author: Kate Palmer Albers
 thumbnail: placekitten.jpg

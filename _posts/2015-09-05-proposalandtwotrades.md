@@ -1,7 +1,8 @@
 ---
 layout: post
 category: articles
-title: "Penelope Umbrico: A Proposal and Two Trades, to start"
+title: Penelope Umbrico
+subtitle: A Proposal and Two Trades, to start
 date: 2015-09-05
 author: Kate Palmer Albers
 thumbnail: umbrico_proposal_01.jpg

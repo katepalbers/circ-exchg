@@ -1,7 +1,8 @@
 ---
 layout: post
 category: articles
-title: "In Praise of the Large-Format Selfie Stick"
+title: In Praise of the Large-Format Selfie Stick
+subtitle:
 date: 2015-09-15
 author: Kate Palmer Albers
 thumbnail: chehak_01.jpg
