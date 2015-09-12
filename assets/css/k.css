@@ -402,7 +402,8 @@ figcaption em {
 }
 
 .figure-lg {
-	width: 100%;
+	width: 1180px;
+	min-width: 1180px;
 	margin-left: -240px;
 }
 
