@@ -403,8 +403,8 @@ figcaption em {
 }
 
 .figure-lg {
-	width: 1180px;
-	min-width: 1180px;
+	width: 1220px;
+	min-width: 1220px;
 	margin-left: -240px;
 }
 
@@ -522,6 +522,132 @@ MailChimp Form
 #mc-embedded-subscribe:hover {
 	color: #fff;
 	background-color: #e5d30b;
+}
+
+
+@media screen and (max-width: 1219px) {
+   article {
+		width: 640px;
+		margin-left: 240px;
+	}
+	.figure-lg {
+		width: 840px;
+		min-width: 840px;
+		margin-left: -240px;
+		margin-bottom: 30px;
+	}
+	.figure-lg img {
+		margin-top: 30px;
+		margin-bottom: 5px;
+	}
+	.figure-lg figcaption {
+		margin-left: 240px;
+		width: 640px;
+		height: auto;
+	}
+	.figure-sm {
+		width: 640px;
+		margin-left: 0px;
+	}
+	.figure-sm img {
+		width: 240px;
+		margin-left: 20px;
+		float: right;
+		clear: both;
+	}
+	.figure-sm figcaption {
+		width: 240px;
+		margin-top: 10px;
+		margin-bottom: 30px;
+		margin-left: 20px;
+		float: right;
+		clear: both;
+	}
+}
+
+
+@media screen and (max-width: 959px) {
+   article {
+		width: 640px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.figure-lg {
+		width: 100%;
+		min-width: 100%;
+		max-width: 100%;
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.figure-lg img {
+		margin-top: 30px;
+		margin-bottom: 5px;
+	}
+	.figure-lg figcaption {
+		margin-left: 0px;
+		width: 100%;
+		height: auto;
+	}
+	.figure-sm {
+		width: 640px;
+		margin-left: 0px;
+	}
+	.figure-sm img {
+		width: 240px;
+		margin-left: 20px;
+		float: right;
+		clear: both;
+	}
+	.figure-sm figcaption {
+		width: 240px;
+		margin-top: 10px;
+		margin-bottom: 30px;
+		margin-left: 20px;
+		float: right;
+		clear: both;
+	}
+}
+
+@media screen and (max-width: 679px) {
+   article {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	.figure-lg {
+		width: 100%;
+		min-width: 100%;
+		max-width: 100%;
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.figure-lg img {
+		margin-top: 30px;
+		margin-bottom: 5px;
+	}
+	.figure-lg figcaption {
+		margin-left: 0px;
+		width: 100%;
+		height: auto;
+	}
+	.figure-sm {
+		width: 100%;
+		margin-left: 0px;
+	}
+	.figure-sm img {
+		width: 40%;
+		margin-left: 5%;
+		float: right;
+		clear: both;
+	}
+	.figure-sm figcaption {
+		width: 40%;
+		margin-top: 10px;
+		margin-bottom: 30px;
+		margin-left: 5%;
+		float: right;
+		clear: both;
+	}
 }
 
 
