@@ -736,6 +736,66 @@ MailChimp Form
 	.download {
 		position: relative;
 	}
+
+	/*
+	Home Page
+	*/
+	svg {
+		display: none;
+	}
+	.post-list {
+		height: auto;
+		position: relative;
+		background-color: transparent;
+	}
+	#prev {
+		display: none;
+	}
+	#next {
+		display: none;
+	}
+	#welcome {
+		display: none;
+	}
+	#scroll {
+		position: relative;
+		left:0;
+		width: 100%;
+		height: auto;
+		overflow-y: visible;
+		overflow-x: visible;
+	}
+	#scroll ul {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	.post-list {
+		margin-top: 160px;
+		z-index: -1;
+	}
+	.post-list ul {
+		list-style-type: none;
+	}
+	.post-list li {
+		float: none;
+		height: auto;
+		margin-left: 0;
+		border-left: none;
+		border-bottom: 1px solid #111;
+		margin-bottom: 40px;
+	}
+	.post-list img {
+		height: auto;
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-bottom: 10px;
+	}
+	.post-list .titlebox {
+		width: 70%;
+	}
+	
 }
 
 
