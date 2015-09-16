@@ -297,12 +297,14 @@ article {
 	width: 640px;
 	margin-left: 240px;
 	margin-bottom: 60px;
+	word-wrap: break-word;
 }
 
 article header {
 	margin-bottom: 40px;
 	margin-top: 160px;
 	font-family: CooperHewitt_Book;
+	word-wrap: normal;
 }
 
 article hr {
@@ -340,6 +342,7 @@ article h2 {
 	margin-bottom: 15px;
 	border-left: 4px solid #fffc01;
 	margin-left: -24px;
+	word-wrap: normal;
 }
 
 article a {
@@ -443,6 +446,7 @@ article header img {
 }
 
 article footer {
+	word-wrap: break-word;
 	font-family: CooperHewitt_Book;
 	font-size: .7em;
 	line-height: 1.75em;
