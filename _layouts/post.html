@@ -15,7 +15,7 @@ layout: default-b
 	{{ content }}
 
 	<footer>
-		<p>Kate Palmer Albers, "{{ page.title }}," in <em>Circulation|Exchange: Moving Images in Contemporary Art</em> ({{ page.date | date: "%B %-d, %Y" }}). http://www.circulationexchange.org{{ page.url }}.</p>
+		<p>Kate Palmer Albers, "{{ page.title }}," in <em>Circulation|Exchange: Moving Images in Contemporary Art</em> ({{ page.date | date: "%B %-d, %Y" }}). http://www.circulationexchange.org/articles/{{ page.url | replace: '/articles/','' }}.</p>
 		{% if page.previously_published %} 
 			<p>Previously published in {{ page.previously_published }}</p>	
 		{% endif %}
