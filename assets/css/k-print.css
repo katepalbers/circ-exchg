@@ -118,7 +118,7 @@
 		font-size: 13pt; 
 	}
 
-	.header, #prev, #next {
+	.banner, #prev, #next {
 		display: none;
 	}
 

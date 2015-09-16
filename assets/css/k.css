@@ -233,36 +233,54 @@ Home Page Post List
 /* 
 Header
 */
-.header {
+
+.background {
 	position: fixed;
 	width:100%;
 	top: 0px;
 	left: 0px;
 	height: 28px;
 	padding:15px;
-	/*font-family: CooperHewitt_Heavy;
-	font-size: .7em;			
-	font-weight: normal;*/
 	background-color: #f5f5f5;
 	opacity: .9;
+	z-index: 0;
 }
-.header .title {
-	float: left;
+.title-group {
+	position: fixed;
+	top: 0;
+	left: 0;
 }
-.header ul {
+.title {
+	margin-top: 15px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.separator {
+	margin-top: 15px;
+	display: inline-block;
+}
+.author {
+	margin-top: 15px;
+	display: inline-block;
+}
+.extras {
+	position: fixed;
+	top: 0;
+	right: 0;
 	list-style-type: none;
+	margin-top: 15px;
+	margin-right: 15px;
+	float: right;
 }
-.header .controls , .controls li {
+.extras li {
 	float: right;
 	text-align: right;
-	margin-right: 15px;
+	margin-left: 15px;
 	font-size: .9em;
 }
-.header .controls a:hover {
+.extras a:hover {
 	border-bottom: none;
 	color: #111;
-	/*text-shadow: 0 0 10px #e5d30b;*/
-	/*border-bottom-color: #fffc01;*/
 }
 
 
@@ -297,12 +315,14 @@ article {
 	width: 640px;
 	margin-left: 240px;
 	margin-bottom: 60px;
+	word-wrap: break-word;
 }
 
 article header {
 	margin-bottom: 40px;
 	margin-top: 160px;
 	font-family: CooperHewitt_Book;
+	word-wrap: normal;
 }
 
 article hr {
@@ -340,6 +360,7 @@ article h2 {
 	margin-bottom: 15px;
 	border-left: 4px solid #fffc01;
 	margin-left: -24px;
+	word-wrap: normal;
 }
 
 article a {
@@ -443,6 +464,7 @@ article header img {
 }
 
 article footer {
+	word-wrap: break-word;
 	font-family: CooperHewitt_Book;
 	font-size: .7em;
 	line-height: 1.75em;
@@ -462,28 +484,6 @@ article footer p {
 
 article footer img {
 	max-width: 100%;
-}
-
-/* 
-Site Banner
-*/
-/*.banner {
-	font-family: Raleway; 			
-	font-weight:300;
-	font-size: .75em;
-	width: 200px;
-	height: 100%;
-	position: fixed;
-	top: 0;
-	left: 0px;
-	background-color: #2c0202;
-	background-image: url('../images/spectrum-80px.png');
-	background-position: right top;
-	background-repeat: repeat-y;
-}*/
-
-.banner {
-
 }
 
 
@@ -660,6 +660,70 @@ MailChimp Form
 	}
 	article blockquote p {
 		padding-left: 5%;
+	}
+
+	.background {
+		position: fixed;
+		width:100%;
+		top: 0px;
+		left: 0px;
+		height: 28px;
+		padding:15px;
+		background-color: #f5f5f5;
+		opacity: .9;
+		z-index: 0;
+	}
+	.title-group {
+		position: relative;
+		top: auto;
+		left: auto;
+	}
+	.title {
+		position: fixed;
+		top: 0;
+		left: 0;
+		margin-top: 15px;
+		margin-left: 15px;
+		display: inline-block;
+	}
+	.separator {
+		display: none;
+	}
+	.author {
+		margin-top: 45px;
+		margin-left: 15px;
+		display: block;
+		height: 0px;
+	}
+	.extras {
+		position: relative;
+		top: 0;
+		right: 0;
+		list-style-type: none;
+		margin-top: 0;
+		margin-right: 15px;
+		float: right;
+	}
+	.extras li {
+		float: none;
+		text-align: right;
+		margin-left: 15px;
+		font-size: .9em;
+	}
+	.extras a:hover {
+		border-bottom: none;
+		color: #111;
+	}
+	.about {
+		position: fixed;
+		top: 15px;
+		right: 15px;
+	}
+	.subscribe {
+		position: relative;
+	}
+	.download {
+		position: relative;
 	}
 }
 
