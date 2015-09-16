@@ -661,7 +661,18 @@ MailChimp Form
 	article blockquote p {
 		padding-left: 5%;
 	}
-
+	article #next {
+		bottom: 20px;
+		margin-right: 5%;
+	}
+	article #prev {
+		bottom: 20px;
+		margin-left: 5%;
+	}
+	#next a, #prev a {
+		color: #e5d30b;
+		border-bottom: none;
+	}
 	.background {
 		position: fixed;
 		width:100%;
