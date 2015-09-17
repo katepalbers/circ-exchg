@@ -613,6 +613,9 @@ MailChimp Form
 		margin-left: 5%;
 		margin-right: 5%;
 	}
+	article header {
+		margin-top: 120px;
+	}
 	.figure-lg {
 		width: 100%;
 		min-width: 100%;
@@ -682,12 +685,13 @@ MailChimp Form
 		padding:15px;
 		background-color: #f5f5f5;
 		opacity: .9;
-		z-index: 0;
+		z-index: 1;
 	}
 	.title-group {
 		position: relative;
 		top: auto;
 		left: auto;
+		z-index: 2;
 	}
 	.title {
 		position: fixed;
@@ -714,6 +718,7 @@ MailChimp Form
 		margin-top: 0;
 		margin-right: 15px;
 		float: right;
+		z-index: 2;
 	}
 	.extras li {
 		float: none;
@@ -747,6 +752,34 @@ MailChimp Form
 		height: auto;
 		position: relative;
 		background-color: transparent;
+		z-index: 0;
+		margin-top: 160px;
+	}
+	.post-list ul {
+		list-style-type: none;
+	}
+	.post-list li {
+		float: none;
+		height: auto;
+		margin-left: 0;
+		border-left: none;
+		border-bottom: 1px solid #111;
+		margin-bottom: 40px;
+	}
+	.post-list img {
+		height: auto;
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-bottom: 10px;
+	}
+	.post-list .titlebox {
+		width: 80%;
+	}
+	.post-list .titlebox h3 {
+		font-size: 1.2em;
+		line-height: 1.4em;
+		margin-bottom: 5px;
 	}
 	#prev {
 		display: none;
@@ -770,32 +803,8 @@ MailChimp Form
 		margin-left: 5%;
 		margin-right: 5%;
 	}
-	.post-list {
-		margin-top: 160px;
-		z-index: -1;
-	}
-	.post-list ul {
-		list-style-type: none;
-	}
-	.post-list li {
-		float: none;
-		height: auto;
-		margin-left: 0;
-		border-left: none;
-		border-bottom: 1px solid #111;
-		margin-bottom: 40px;
-	}
-	.post-list img {
-		height: auto;
-		width: 100%;
-		margin-left: 0px;
-		margin-right: 0px;
-		margin-bottom: 10px;
-	}
-	.post-list .titlebox {
-		width: 70%;
-	}
 	
+
 }
 
 
