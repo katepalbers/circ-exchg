@@ -612,7 +612,8 @@ MailChimp Form
 	}
 }
 
-@media screen and (max-width: 959px) and (min-height: 959px) {
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
 	img.home {
 		width: 90%;
 		margin-left: 5%;
