@@ -91,6 +91,10 @@ h3 strong {
 	font-family: CooperHewitt_Book;
 	text-decoration: underline;
 }
+h3 em {
+	font-family: CooperHewitt_LightItalic;
+	font-style: normal;
+}
 h4 {
 	font-family: CooperHewitt_Bold;
 	font-size: .7em;			
@@ -522,7 +526,9 @@ MailChimp Form
 	color: #fff;
 	background-color: #e5d30b;
 }
-
+.button {
+	-webkit-appearance: none;
+}
 
 @media screen and (max-width: 1219px) {
    article {
@@ -803,8 +809,6 @@ MailChimp Form
 		margin-left: 5%;
 		margin-right: 5%;
 	}
-	
-
 }
 
 
