@@ -104,8 +104,8 @@ h4 strong {
 Links
 */
 a {
-  color: #111;
-  text-decoration: none; 
+	color: #111;
+	text-decoration: none; 
 }
 a:visited {
 	color: #111; 
@@ -114,6 +114,7 @@ a:hover {
 	color: #555;
 	border-bottom: 2px solid #555;
 }
+
 
 img.home {
 	width: 60%;
@@ -309,6 +310,23 @@ Header
   transform: scale(1.4);
 }
 
+
+.figure-profile {
+	float:right; 
+	margin-left:20px;
+	text-align: center;
+	border-bottom: 2px solid #555;
+	padding-bottom: 8px;
+	margin-bottom: 20px;
+}
+
+.figure-profile .fa {
+	vertical-align: middle;
+	margin: 8px;
+}
+.figure-profile a {
+	border-bottom: none;
+}
 
 
 /* 
