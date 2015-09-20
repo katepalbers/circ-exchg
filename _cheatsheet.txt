@@ -26,7 +26,6 @@ Posts and other pages are formatted using Markdown (.md)
 3. numbers
 
 
-
 IMAGES:
 ---------------------------------
 
@@ -53,6 +52,24 @@ Image files themselves go in the assets > images folder
 
 
 
+RE-SIZING IMAGES FOR THE WEB:
+---------------------------------
+
+1. Put any number of images in assets/images/originals
+2. Open a new Terminal window (Applications/Utilities/Terminal)
+3. Copy and paste, and hit enter:
+	
+	convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/
+	webready/%[filename:name].jpg
+
+4. Move re-sized images from the images/webready folder to wherever you need them, DELETE/REMOVE images from images/originals folder
+
+This converts all images, regardless of format, to JPGs with a quality/file-size setting appropriate for the web. It maintains the original image dimensions, and the original file name. 
+
+Note: There cannot be multiple files in images/originals that have the same name and different extenstions. They will overwrite eachother. Also, previsously processed images added to images/originals will be copied into images/webready but will not be further downsampled.
+
+
+
 NEW POSTS:
 --------------------
 
@@ -66,6 +83,7 @@ Template YAML metadata block:
 layout: post
 category: articles
 title: Your Title Here
+subtitle: Your Subtitle Here
 date: YYYY-MM-DD
 author: Kate Palmer Albers
 thumbnail: _________.jpg
