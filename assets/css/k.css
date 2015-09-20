@@ -1,5 +1,4 @@
-
-/*
+/* 
 Palette
 
 Black Hover: #555;
@@ -9,13 +8,13 @@ Mid Gray Inactive: #e5e5e5;
 Light Gray Background: #f5f5f5;
 Yellow Accent: #fffc01;
 Yellow Hover: #e5d30b;
-
 */
 
 
 /* 
 Reset
 */
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -43,12 +42,6 @@ p, ul, ol, h3 {
 }	
 sup {
 	line-height: 0;
-}
-#artswriters-logo {
-	background-image: url('../images/system/artswriters_logo_f5f5f5.png');
-	background-repeat: no-repeat;
-	width: 100%;
-	height: 166px;
 }
 
 
@@ -99,10 +92,10 @@ h4 strong {
 	letter-spacing: 1px;
 }
 
-
 /*
 Links
 */
+
 a {
 	color: #111;
 	text-decoration: none; 
@@ -115,6 +108,9 @@ a:hover {
 	border-bottom: 2px solid #555;
 }
 
+/*
+Home
+*/
 
 img.home {
 	width: 60%;
@@ -123,11 +119,6 @@ img.home {
 	margin-right: 20%;
 	margin-top: 100px;
 }
-
-/*
-Home Page Post List
-*/
-
 .post-list {
 	width: 100%;
 	height: 90px;
@@ -163,11 +154,6 @@ Home Page Post List
 #next i:hover, #prev i:hover  {
 	color: #e5d30b;
 }
-
-.inactive i {
-	color: #e5e5e5;
-}
-
 #welcome {
 	border-left: none;
 	margin-left: 20px;
@@ -193,33 +179,32 @@ Home Page Post List
 	height: 90px;
 	margin-left: 20px;
 	border-left: 1px solid #111;
-	padding: 0px;
+	padding: 0;
 }
 .post-list img {
 	display: inline;
-	float: left;
 	height: 100%;
 	margin-left: 20px;
 	margin-right: 20px;
-	padding: 0px;
+	padding: 0;
 }
 .post-list .titlebox {
 	display: inline-block;
 	vertical-align: top;
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 	width: 220px;
 	height: 100%;
 }
 .post-list h3 {
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
 .post-list h4 {
 	margin-top: 2px;
 } 
 .post-list li a {
-	margin: 0px; 
+	margin: 0; 
 	display: block; 
 	width: 100%; 
 	height: 100%;
@@ -233,16 +218,15 @@ Home Page Post List
 	border-bottom: 1px solid #111; 
 }
 
-
 /* 
-Header
+Banner
 */
 
 .background {
 	position: fixed;
 	width:100%;
-	top: 0px;
-	left: 0px;
+	top: 0;
+	left: 0;
 	height: 28px;
 	padding:15px;
 	background-color: #f5f5f5;
@@ -287,12 +271,12 @@ Header
 	color: #111;
 }
 
-
 /*
  Hover.css (http://ianlunn.github.io/Hover/)
  * Version: 2.0.2
  * Author: Ian Lunn @IanLunn
 */ 
+
 .hvr-grow {
   display: inline-block;
   -webkit-transform: translateZ(0);
@@ -310,7 +294,16 @@ Header
   transform: scale(1.4);
 }
 
+/*
+Pages
+*/
 
+#artswriters-logo {
+	background-image: url('../images/system/artswriters_logo_f5f5f5.png');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 166px;
+}
 .figure-profile {
 	float:right; 
 	margin-left:20px;
@@ -337,52 +330,44 @@ Header
 
 
 /* 
-Article
+Articles
 */
+
 article {
 	width: 640px;
 	margin-left: 240px;
 	margin-bottom: 60px;
 	word-wrap: break-word;
 }
-
 article header {
 	margin-bottom: 40px;
 	margin-top: 160px;
 	font-family: CooperHewitt_Book;
 	word-wrap: normal;
 }
-
 article hr {
 	border-style: solid;
 	border-color: #fffc01;
 	width: 90%;
 	margin-bottom: 1em;
 }
-
 article .theme, article .platform {
 	color: #f5f5f5;
 	background-color: #d5d5d5;
-	padding-left: .7em;
-	padding-right: .7em;
-	padding-top: .6em;
-	padding-bottom: .4em;
+	padding: 6em .7em .4em .7em;
 	margin-right: .3em;
 	margin-left: .3em;
 	border-radius: .5em;
 }
-
 article blockquote p {
 	padding-left: 40px;
 	font-family: Calendas_PlusItalic;
 	font-style: normal;
 }
-
 article blockquote em {
 	font-family: Calendas_Plus;
 	font-style: normal;
 }
-
 article h2 {
 	margin-top: 60px;
 	margin-bottom: 15px;
@@ -390,7 +375,6 @@ article h2 {
 	margin-left: -24px;
 	word-wrap: normal;
 }
-
 article a {
 	color: #555;
 	border-bottom: 3px solid #fffc01;
@@ -403,82 +387,69 @@ article a:hover {
     border-bottom-color: #000; 
 	text-decoration: none;
 }
-
 article sup {
 	font-family: CooperHewitt_Medium;
 	font-size: .7em;
 	color: #555;
 	margin-left: 2px;
 }    
-
 article.informational ul li {
 	list-style-type: none;
 	margin-bottom: .5em;
 }
-
 article #next {
 	position: fixed;
 	bottom: 88px;
-	right: 0px;
+	right: 0;
 }
 article #prev {
 	position: fixed;
 	bottom: 88px;
-	left: 0px;
+	left: 0;
 }
-
 figcaption {
 	font-family: CooperHewitt_Bold;
 	font-size: .7em;
 	color: #555;
 	line-height: 1.5em;
 }
-
 figcaption em {
 	font-family: CooperHewitt_BoldItalic;
-	font-style: none;
+	font-style: normal;
 }
-
 .figure {
 	width: 100%;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-
 .figure img {
 	width: 100%;
 	margin-bottom: 5px;
 }
-
 .figure-lg {
 	width: 1220px;
 	min-width: 1220px;
 	margin-left: -240px;
 }
-
 .figure-lg img {
 	width: 100%;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-
 .figure-lg figcaption {
 	margin-left: 940px;
 	width: 240px;
-	height: 0px;
+	height: 0;
 }
-
 .figure-sm {
 	width: 940px;
-	margin-left: 0px;
+	margin-left: 0;
 }
-
 .figure-sm img {
 	width: 240px;
 	float: right;
 	clear: both;
 }
-
 .figure-sm figcaption {
 	width: 240px;
 	margin-top: 10px;
@@ -486,11 +457,9 @@ figcaption em {
 	float: right;
 	clear: both;
 }
-
 article header img {
 	float: right;
 }
-
 article footer {
 	word-wrap: break-word;
 	font-family: CooperHewitt_Book;
@@ -501,19 +470,15 @@ article footer {
 	padding-top: 20px;
 	border-top: 1px solid #111;
 }
-
 article footer em {
 	font-family: CooperHewitt_BookItalic;
 }
-
 article footer p {
-	margin-left: 0px;
+	margin-left: 0;
 }
-
 article footer img {
 	max-width: 100%;
 }
-
 
 /* 
 MailChimp Form
@@ -527,7 +492,7 @@ MailChimp Form
 #mce-EMAIL {
 	width: 95%;
 	height: 3em;
-	margin-top: 0px;
+	margin-top: 0;
 	font-size: 1em;
 	padding-left: 5%;
 	letter-spacing: 1px;
@@ -552,7 +517,12 @@ MailChimp Form
 }
 .button {
 	-webkit-appearance: none;
+	-moz-appearance: none;
 }
+
+/* 
+@media queries
+*/
 
 @media screen and (max-width: 1219px) {
    article {
@@ -576,7 +546,7 @@ MailChimp Form
 	}
 	.figure-sm {
 		width: 640px;
-		margin-left: 0px;
+		margin-left: 0;
 	}
 	.figure-sm img {
 		width: 240px;
@@ -594,7 +564,6 @@ MailChimp Form
 	}
 }
 
-
 @media screen and (max-width: 959px) {
    article {
 		width: 640px;
@@ -605,7 +574,7 @@ MailChimp Form
 		width: 100%;
 		min-width: 100%;
 		max-width: 100%;
-		margin-left: 0px;
+		margin-left: 0;
 		margin-bottom: 30px;
 	}
 	.figure-lg img {
@@ -613,13 +582,13 @@ MailChimp Form
 		margin-bottom: 5px;
 	}
 	.figure-lg figcaption {
-		margin-left: 0px;
+		margin-left: 0;
 		width: 100%;
 		height: auto;
 	}
 	.figure-sm {
 		width: 640px;
-		margin-left: 0px;
+		margin-left: 0;
 	}
 	.figure-sm img {
 		width: 240px;
@@ -675,22 +644,22 @@ MailChimp Form
 		margin-left: 20px;
 		/*border-left: 1px solid #111;*/
 		border-left: none;
-		padding: 0px;
+		padding: 0;
 	}
 	.post-list img {
 		display: block;
 		float: none;
 		height: 60%;
 		margin-left: 20px;
-		margin-right: 0px;
-		padding: 0px;
+		margin-right: 0;
+		padding: 0;
 	}
 	.post-list .titlebox {
 		display: inline-block;
 		vertical-align: top;
 		margin-left: 20px;
 		margin-top: 10px;
-		padding: 0px;
+		padding: 0;
 		width: 220px;
 		height: 100%;
 	}
@@ -711,7 +680,7 @@ MailChimp Form
 		width: 100%;
 		min-width: 100%;
 		max-width: 100%;
-		margin-left: 0px;
+		margin-left: 0;
 		margin-bottom: 30px;
 	}
 	.figure-lg img {
@@ -719,13 +688,13 @@ MailChimp Form
 		margin-bottom: 5px;
 	}
 	.figure-lg figcaption {
-		margin-left: 0px;
+		margin-left: 0;
 		width: 100%;
 		height: auto;
 	}
 	.figure-sm {
 		width: 100%;
-		margin-left: 0px;
+		margin-left: 0;
 	}
 	.figure-sm img {
 		width: 40%;
@@ -770,8 +739,8 @@ MailChimp Form
 	.background {
 		position: fixed;
 		width:100%;
-		top: 0px;
-		left: 0px;
+		top: 0;
+		left: 0;
 		height: 28px;
 		padding:15px;
 		background-color: #f5f5f5;
@@ -799,7 +768,7 @@ MailChimp Form
 		margin-top: 45px;
 		margin-left: 15px;
 		display: block;
-		height: 0px;
+		height: 0;
 	}
 	.extras {
 		position: relative;
@@ -832,12 +801,10 @@ MailChimp Form
 	.download {
 		position: relative;
 	}
-
 	.figure-profile {
 		width: 40%;
 		margin-left: 15px;
 	}
-
 
 	/*
 	Home Page
@@ -866,8 +833,8 @@ MailChimp Form
 	.post-list img {
 		height: auto;
 		width: 100%;
-		margin-left: 0px;
-		margin-right: 0px;
+		margin-left: 0;
+		margin-right: 0;
 		margin-bottom: 10px;
 	}
 	.post-list .titlebox {
@@ -901,35 +868,3 @@ MailChimp Form
 		margin-right: 5%;
 	}
 }
-
-
-/*.credits {
-	color: #888;  }
-.twitter {
-	background-image: url("../images/twitter_thin.png"); 
-	background-repeat: no-repeat;
-	width: 29px;
-	height: 23px; 
-	margin: 0 auto; }
-.twitter:hover {
-	background-image: url("../images/twitter_fill.png"); }
-#footbackground {
-	width:100%;
-	height: 30px;
-	position:fixed;
-	bottom:0px;
-	background-color: #000;
-	opacity:.6; }
-#foottext {
-	width:100%;
-	height: 25px;
-	position:fixed;
-	bottom:0px; 
-	color: #ddd;
-	font-size: .75em;  }
-#foottext a:link, a:visited {
-	text-decoration: none; 
-	color: #ddd; }
-#foottext a:hover {
-	text-decoration: underline; }	
-	*/
