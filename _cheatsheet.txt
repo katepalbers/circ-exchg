@@ -59,8 +59,7 @@ RE-SIZING IMAGES FOR THE WEB:
 2. Open a new Terminal window (Applications/Utilities/Terminal)
 3. Copy and paste, and hit enter:
 	
-	convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/
-	webready/%[filename:name].jpg
+	convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/webready/%[filename:name].jpg
 
 4. Move re-sized images from the images/webready folder to wherever you need them, DELETE/REMOVE images from images/originals folder
 
