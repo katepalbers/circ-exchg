@@ -319,12 +319,19 @@ Header
 	padding-bottom: 8px;
 	margin-bottom: 20px;
 }
-
+.figure-profile figcaption {
+	color: #111;
+}
+.figure-profile img {
+	margin-bottom: 2px;
+	width: 100%;
+}
 .figure-profile .fa {
 	vertical-align: middle;
 	margin: 8px;
 }
 .figure-profile a {
+	color: #111;
 	border-bottom: none;
 }
 
@@ -632,7 +639,7 @@ MailChimp Form
 
 /* tablets in portrait */
 
-@media screen and ( orientation: portrait) and ( max-aspect-ratio: 7/8 ) {
+@media screen and (orientation: portrait) and (max-aspect-ratio: 7/8) {
 	img.home {
 		width: 90%;
 		margin-left: 5%;
@@ -825,6 +832,12 @@ MailChimp Form
 	.download {
 		position: relative;
 	}
+
+	.figure-profile {
+		width: 40%;
+		margin-left: 15px;
+	}
+
 
 	/*
 	Home Page
