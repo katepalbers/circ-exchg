@@ -9,37 +9,37 @@
 			font-size: 10pt;
 			content: "Circulation|Exchange";
 		}
-
 		@top-right {
 			font-family: CooperHewitt_Light;
 			font-size: 10pt;
 			content: "Kate Palmer Albers";
 		}
-
 		@bottom-right-corner {
 			font-family: CooperHewitt_Light;
 			font-size: 10pt;
 			content: counter(page);
 		}
-
 	}
 
 	@page:first {
-
 		@top-left {
 			content: "";
 		}
-
 		@top-right {
 			content: "";
 		}
-
 	}
 
 	@prince-pdf {
 			prince-pdf-page-layout: single-page;
 		}
 
+	h1, header > h2 { prince-bookmark-level: 1; }
+	h2 { prince-bookmark-level: none; }
+	h3 { prince-bookmark-level: none; }
+	h4 { prince-bookmark-level: none; }
+	h5 { prince-bookmark-level: none; }
+	h6 { prince-bookmark-level: none; }
 
 	@page cover {
 		margin: 1.25in 1in .75in 1in;
@@ -48,11 +48,9 @@
 		@top-left {
 			content: "";
 		}
-
 		@top-right {
 			content: "";
 		}
-
 		@bottom-right-corner {
 			content: "";
 		}
@@ -63,7 +61,6 @@
 		margin-top: 48pt;
 		page: cover;
 	}
-
 	.cover h2 {
 		border-top: 2px solid #fffc01;
 		border-left: none;
@@ -75,82 +72,65 @@
 		padding-top: 18pt;
 		text-shadow: 2px 2px #fff;
 	}
-
 	.cover h1 {
 		text-shadow: 2px 2px #fff;
 	}
-	
 	.cover strong {
 		font-family: CooperHewitt_Bold;
 		letter-spacing: 1px;
 		text-transform: uppercase;
 	}
-
 	.cover .date-stamp {
 		font-family: CooperHewitt_Medium;
 	}
-
 	.toc li {
 		padding-bottom: 6pt;
 	}
-
 	.toc li a {
 		font-family: Calendas_PlusItalic;
 	}
-
 	.toc li a:after { 
 		content: leader(dotted) " " target-counter(attr(href, url), page);
 		font-family: Calendas_PlusItalic;
 	}
-
 	.toc li.post a {
 		font-family: Calendas_Plus;
 	}
-
 	.toc li.post a:after { 
 		content: leader(dotted) " " target-counter(attr(href, url), page);
 		font-family: Calendas_Plus;
 	}
-
 	body {
 		color: #000;
 		background-color: #fff;
 		font-size: 13pt; 
 	}
-
 	.banner, #prev, #next {
 		display: none;
 	}
-
 	article {
 		width: 100%;
 		margin: 0;
 	}
-
 	article a, article a:visited {
 		color: #111;
 		border-bottom: 3px solid #fffc01;
 		text-decoration: none; 
 	}
-
 	article footer a, article footer a:visited {
 		color: #555;
 	}
-
 	h1 {
 		font-family: CooperHewitt_Light;
 		font-size: 48pt;
 	}
-
 	h2 {
 		font-family: CooperHewitt_Book;
 	}
-
 	.figure {
 		margin-top: 30px;
 		margin-bottom: 30px;
 	}
-
 	.figure-lg {
 		width: 100%;
 		min-width: initial;
@@ -158,32 +138,27 @@
 		margin-top: 30px;
 		margin-bottom: 30px;
 	}
-
 	.figure-lg img {
 		margin-top: 0px;
 		margin-bottom: 0px;
 	}
-
 	.figure-lg figcaption {
 		margin-top: 5px;
 		margin-left: 0px;
 		width: 100%;
 		height: auto;
 	}
-
 	.figure-sm {
 		float: right;
 		margin-left: .25in;
 		width: 240px;
 		clear: both;
 	}
-
 	.figure-sm img {
 		width: 100%;
 		float: none;
 		clear: both;
 	}
-
 	.figure-sm figcaption {
 		width: 240px;
 		margin-top: 5px;
@@ -191,13 +166,14 @@
 		float: none;
 		clear: both;
 	}
-
 	figcaption {
 		page-break-before: avoid;
 	}
-
 	#artswriters-logo {
 		background-image: url('../images/system/artswriters_logo_ffffff.png');
 	}
-
+	.figure-profile {
+		width: 200px;
+		border-bottom: 1px solid #555;
+	}
 }
