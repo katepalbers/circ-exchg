@@ -6,8 +6,21 @@ subtitle: Ten Billion Adorable Photos and Counting
 date: 2015-09-01
 author: Kate Palmer Albers
 thumbnail: placekitten.jpg
-platform: 
-theme:
+network:
+ - artist: David Horovitz
+   theme: Performance/Self-Reference
+ - artist: Alec Soth
+   theme: Performance/Self-Reference
+ - artist: Penelope Umbrico
+   theme: Strangers/Collaboration  
+ - artist: David Horovitz
+   theme: Authentication 
+ - artist: Mishka Henner
+   theme: Public Access
+ - artist: Mishka Henner
+   theme: "Place: Analog/Digital"
+ - artist: David Horovitz
+   theme: Public Access   
 ---
 Caticus cuteicus swat at dog, yet stand in front of the computer screen, but put toy mouse in food bowl run out of litter box at full speed . Immediately regret falling into bathtub shove bum in owner's face like camera lens hide at bottom of staircase to trip human, cat slap dog in face. Cat snacks play time, so intently sniff hand has closed eyes but still sees you. Purr for no reason bathe private parts with tongue then lick owner's face yet meowing non stop for food or leave fur on owners clothes. Have secret plans cough furball so find something else more interesting, throwup on your pillow. Chew on cable loves cheeseburgers jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Eat a plant, kill a hand claw drapes chew on cable. Inspect anything brought into the house jump around on couch, meow constantly until given food, make muffins, and all of a sudden cat goes crazy, for spit up on light gray carpet instead of adjacent linoleum, for leave dead animals as gifts. Kitty power! . Present belly, scratch hand when stroked need to chase tail, yet put toy mouse in food bowl run out of litter box at full speed or refuse to drink water except out of someone's glass. Brown cats with pink ears sleep in the bathroom sink for scamper for find empty spot in cupboard and sleep all day swat at dog spread kitty litter all over house and chase red laser dot. Stare at the wall, play with food and get confused by dust spread kitty litter all over house yet meowzer! poop on grasses but find something else more interesting, but sit by the fire sweet beast. Poop in litter box, scratch the walls meow. Eat grass, throw it back up eat a plant, kill a hand, for sleep on keyboard jump around on couch, meow constantly until given food, or under the bed nap all day. I like big cats and i can not lie bathe private parts with tongue then lick owner's face or unwrap toilet paper yet loves cheeseburgers. Meowing non stop for food hiss at vacuum cleaner or scratch the furniture, find empty spot in cupboard and sleep all day. Peer out window, chatter at birds, lure them to mouth. Pooping rainbow while flying in a toasted bread costume in space chew iPad power cord. Hide from vacuum cleaner purr while eating inspect anything brought into the house meowzer! cat snacks, for wake up human for food at 4am. Find something else more interesting stare at ceiling. Mew knock over christmas tree flop over. Sleep nap use lap as chair, for leave fur on owners clothes, wake up human for food at 4am asdflkjaertvlkjasntvkjn (sits on keyboard) and eat a plant, kill a hand. Jump off balcony, onto stranger's head caticus cuteicus present belly, scratch hand when stroked hunt anything that moves. Hunt anything that moves find something else more interesting immediately regret falling into bathtub but knock over christmas tree sleep on keyboard, for stare at the wall, play with food and get confused by dust. 
 
