@@ -38,7 +38,7 @@ layout: null
     {
       "id": "e{{ forloop.index }}",
       "source": "a-{{ item.artist | downcase | remove: ' ' }}",
-      "target": "th-{{ node_theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}"
+      "target": "th-{{ item.theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}"
     }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}{% endfor %}
   ]
 }
