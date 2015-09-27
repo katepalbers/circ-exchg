@@ -30,199 +30,87 @@ layout: default-a
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
   <script>
 
-  //Width and height
-        var w = window.innerWidth;
-        var h = 600;
+    //Width and height
+    var w = window.innerWidth;
+    var h = 600;
 
-        //Original data
-        var dataset = {
-    "nodes": [  
-      {
-        "id": "a-davidhorovitz",
-        "label": "David Horovitz",
-        "type": "artist",
-        "size": 3,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "a-alecsoth",
-        "label": "Alec Soth",
-        "type": "artist",
-        "size": 1,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "a-penelopeumbrico",
-        "label": "Penelope Umbrico",
-        "type": "artist",
-        "size": 1,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "a-mishkahenner",
-        "label": "Mishka Henner",
-        "type": "artist",
-        "size": 2,
-        "url": "contents.html"
-      },
-      {
-        "id": "th-performanceselfreference",
-        "label": "Performance/Self-Reference",
-        "type": "theme",
-        "size": 2,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "th-strangerscollaboration",
-        "label": "Strangers/Collaboration",
-        "type": "theme",
-        "size": 1,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "th-authentication",
-        "label": "Authentication",
-        "type": "theme",
-        "size": 1,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "th-publicaccess",
-        "label": "Public Access",
-        "type": "theme",
-        "size": 2,
-        "url": "contents.html"
-      }, 
-      {
-        "id": "th-placeanalogdigital",
-        "label": "Place: Analog/Digital",
-        "type": "theme",
-        "size": 1,
-        "url": "contents.html"
-      }
-    ],
-    "edges": [ 
-      {
-        "id": "e1",
-        "source": "a-davidhorovitz",
-        "target": "th-performanceselfreference"
-      },
-      {
-        "id": "e2",
-        "source": "a-alecsoth",
-        "target": "th-performanceselfreference"
-      },
-      {
-        "id": "e3",
-        "source": "a-penelopeumbrico",
-        "target": "th-strangerscollaboration"
-      },
-      {
-        "id": "e4",
-        "source": "a-davidhorovitz",
-        "target": "th-authentication"
-      },
-      {
-        "id": "e5",
-        "source": "a-mishkahenner",
-        "target": "th-publicaccess"
-      },
-      {
-        "id": "e6",
-        "source": "a-mishkahenner",
-        "target": "th-placeanalogdigital"
-      },
-      {
-        "id": "e7",
-        "source": "a-davidhorovitz",
-        "target": "th-publicaccess"
-      }
-    ]
-  }
+    var force = d3.layout.force()
+      .charge(-1000)
+      .linkDistance(150)
+      .size([w, h]);
 
-  var processededges = [];
+    var svg = d3.select("main")
+        .append("svg")
+        .attr("width", w)
+        .attr("height", h);
 
-  dataset.edges.forEach(function(e) { 
-      // Get the source and target nodes
-      var sourceNode = dataset.nodes.filter(function(n) { return n.id === e.source; })[0],
-          targetNode = dataset.nodes.filter(function(n) { return n.id === e.target; })[0];
+    d3.json("network.json", function(error, dataset) {
+      if (error) throw error;
 
-      // Add the edge to the array
-      processededges.push({source: sourceNode, target: targetNode});
-  });
+      // D3 expects edge source and target to be node array positions, not node IDs. 
+      // The following bit processes the JSON to switch IDs to array positions.
+      var processededges = [];
+      dataset.edges.forEach(function(e) { 
+          // Get the source and target nodes
+          var sourceNode = dataset.nodes.filter(function(n) { return n.id === e.source; })[0],
+              targetNode = dataset.nodes.filter(function(n) { return n.id === e.target; })[0];
+          // Add the edge to the array
+          processededges.push({source: sourceNode, target: targetNode});
+      });  
 
-
-        //Initialize a default force layout, using the nodes and edges in dataset
-        var force = d3.layout.force()
-                   .nodes(dataset.nodes)
-                   .links(processededges)
-                   .size([w, h])
-                   .linkDistance([150])
-                   .charge([-1000])
-                   .start();
-
-        var colors = d3.scale.category10();
-
-        //Create SVG element
-        var svg = d3.select("main")
-              .append("svg")
-              .attr("width", w)
-              .attr("height", h);
-        
-        //Create edges as lines
-        var edges = svg.selectAll("line")
-          .data(processededges)
-          .enter()
-          .append("line")
-          .style("stroke", "#e5e5e5")
-          .style("stroke-width", 2);
-
-        //Create nodes as circles with labels
-        var node = svg.selectAll(".node")
-          .data(dataset.nodes)
-          .enter()
-          .append("g")
-          .attr("class", "node")
-          .attr("class", function(d) { return d.type })
-          .call(force.drag);
-
-        node.append("circle")
-          .attr("r", function(d) { return d.size * 8; })
-          
-        node.append("a")
-            .attr("xlink:href", function(d) { return d.url })
-
-        svg.selectAll("a")    
-            .append("text")
-            .attr("dx", 12)
-            .attr("dy", ".35em")
-            .text(function(d) { return d.label });
-
-        //Every time the simulation "ticks", this will be called
-        force.on("tick", function() {
-
-          edges.attr("x1", function(d) { return d.source.x; })
-             .attr("y1", function(d) { return d.source.y; })
-             .attr("x2", function(d) { return d.target.x; })
-             .attr("y2", function(d) { return d.target.y; });
-
-          d3.selectAll("circle").attr("cx", function (d) { return d.x; })
-            .attr("cy", function (d) { return d.y; });
-      
-          d3.selectAll("text").attr("x", function (d) { return d.x })
-            .attr("y", function (d) { return d.y; });
-
-          // node.attr("transform", function(d) { return "translate(" + d.x + d.y + ")"; });   
-        
-          // nodes.attr("cx", function(d) { return d.x; })
-          //    .attr("cy", function(d) { return d.y; });
+    force
+        .nodes(dataset.nodes)
+        .links(processededges)
+        // .links(dataset.edges)
+        .start();
     
+    //Create edges as lines
+    var edges = svg.selectAll("line")
+      .data(processededges)
+      .enter()
+      .append("line")
+      .style("stroke", "#e5e5e5")
+      .style("stroke-width", 2);
+
+    //Create nodes as circles with labels
+    var node = svg.selectAll(".node")
+      .data(dataset.nodes)
+      .enter()
+      .append("g")
+      .attr("class", "node")
+      .attr("class", function(d) { return d.type })
+      .call(force.drag);
+
+    node.append("circle")
+      .attr("r", function(d) { return d.size * 8; })
+      
+    node.append("a")
+        .attr("xlink:href", function(d) { return d.url })
+
+    svg.selectAll("a")    
+        .append("text")
+        .attr("dx", 12)
+        .attr("dy", ".35em")
+        .text(function(d) { return d.label });
+
+    //Every time the simulation "ticks", this will be called
+    force.on("tick", function() {
+
+      edges.attr("x1", function(d) { return d.source.x; })
+         .attr("y1", function(d) { return d.source.y; })
+         .attr("x2", function(d) { return d.target.x; })
+         .attr("y2", function(d) { return d.target.y; });
+
+      d3.selectAll("circle").attr("cx", function (d) { return d.x; })
+        .attr("cy", function (d) { return d.y; });
+  
+      d3.selectAll("text").attr("x", function (d) { return d.x })
+        .attr("y", function (d) { return d.y; });
         });
 
+      });
 
   </script>
-
-  <!-- <img src="assets/images/system/network-lg.png" alt="nodes" class="home" /> -->
   
   <nav class="post-list">
 
