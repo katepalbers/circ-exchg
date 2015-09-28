@@ -1,0 +1,64 @@
+---
+title: Site Index
+layout: page
+---
+<style type="text/css">
+	td {
+		padding-right: 1em;
+	}
+	ul ul {
+		padding-left: 1em;
+		margin-top: 5px;
+		margin-bottom: 30px;
+		list-style-type: circle;
+	}
+	article.informational ul ul li {
+		/*list-style-type: circle;*/
+		font-family: CooperHewitt_Medium;
+		font-size: .7em;			
+		font-weight: normal;
+		color: #555;
+		line-height: 1.6em;
+	}
+	ul ul a {
+		border-bottom: none;
+	}
+</style>
+{% capture artist_data %}{% for post in site.posts %}{% for item in post.network %}{{ item.artist }}|{% endfor %}{% endfor %}{% endcapture %}
+{% assign artist_array = artist_data | split: '|' %}
+
+{% for item in artist_array %}{% unless unique_artists contains item %}{% capture unique_artists %}{{ unique_artists }}{{ item }}|{% endcapture %}{% else %}{% capture artist_dupes %}{{ artist_dupes }}{{ item }}|{% endcapture %}{% endunless %}{% endfor %}
+
+{% assign unique_artists_array = unique_artists | split: '|' %}
+{% assign artist_dupes_array = artist_dupes | split: '|' %}
+
+{% capture theme_data %}{% for post in site.posts %}{% for item in post.network %}{{ item.theme }}|{% endfor %}{% endfor %}{% endcapture %}
+{% assign theme_array = theme_data | split: '|' %}
+
+{% for item in theme_array %}{% unless unique_themes contains item %}{% capture unique_themes %}{{ unique_themes }}{{ item }}|{% endcapture %}{% else %}{% capture theme_dupes %}{{ theme_dupes }}{{ item }}|{% endcapture %}{% endunless %}{% endfor %}
+
+{% assign unique_themes_array = unique_themes | split: '|' %}
+{% assign theme_dupes_array = theme_dupes | split: '|' %}
+
+<table>
+<tr>
+<td><h3><strong>Artists</strong></h3>
+<ul>
+	{% for item in unique_artists_array %}{% assign node_artist = item %}<li id="{{ node_artist | downcase | remove: ' ' }}">{{ node_artist }}
+	<ul>
+		{% for post in site.posts %}{% for item in post.network %}{% if item.artist == node_artist %}<li><a href="{{ post.url }}">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}{% endif %}</a></li>{% endif %}{% endfor %}{% endfor %}
+	</ul></li>{% endfor %}
+</ul>
+</td>
+<td><h3><strong>Themes</strong></h3>
+<ul>
+	{% for item in unique_themes_array %}{% assign node_theme = item %}<li id="{{ node_theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}">{{ node_theme }}
+	<ul>
+		{% for post in site.posts %}{% for item in post.network %}{% if item.theme == node_theme %}<li><a href="{{ post.url }}">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}{% endif %}</a></li>{% endif %}{% endfor %}{% endfor %}
+	</ul></li>{% endfor %}
+</ul>
+</td>
+</tr>
+</table>
+
+

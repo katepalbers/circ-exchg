@@ -25,12 +25,14 @@ layout: null
       "id": "a-{{ node_artist | downcase | remove: ' ' }}",
       "label": "{{ node_artist }}",
       "type": "artist",
+      "url": "siteindex.html#{{ node_artist | downcase | remove: ' ' }}",
       "size": {% assign size = 1 %}{% for item in artist_dupes_array %}{% if item == node_artist %}{% capture size %}{{ size | plus: 1 }}{% endcapture %}{% endif %}{% endfor %}{{ size }}
     },{% endfor %}{% for item in unique_themes_array %}{% assign node_theme = item %} 
     {
       "id": "th-{{ node_theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}",
       "label": "{{ node_theme }}",
       "type": "theme",
+      "url": "siteindex.html#{{ node_theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}",
       "size": {% assign size = 1 %}{% for item in theme_dupes_array %}{% if item == node_theme %}{% capture size %}{{ size | plus: 1 }}{% endcapture %}{% endif %}{% endfor %}{{ size }}
     }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}
   ],
