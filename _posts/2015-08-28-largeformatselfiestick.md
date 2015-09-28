@@ -6,10 +6,9 @@ subtitle:
 date: 2015-09-15
 author: Kate Palmer Albers
 thumbnail: chehak_01.jpg
-platform: 
- - The Selfie
-theme:
- - "Performance/Self-Reference"
+network:
+ - artist: Jesse Chehak
+   theme: Performance/Self-Reference
 ---
 I was introduced to the Large Format Selfie Stick via Snapchat which, in hindsight, seems just perfect. As friends of mine know, I’ve developed a mild obsession with the app, on which the default setting is for photographs to disappear shortly after they are viewed. I’ll be writing about Snapchat more in posts to come, but for now I’ll say that the alternative it proposes to our cultural captivation with the promises of the archive has been irresistible to me. And so, it was fitting to find a sketch for the Large Format Selfie Stick in that conceptually charged viewing setting because it offered a glimpse – but just a glimpse – at an idea that seemed to simultaneously resist and embrace one of the most popular, and popularly-loathed, contemporary photographic manias: the selfie. It also seemed to address the heart of that loathing – at least that part of it which might be summarized as the large format photography community – while gently mocking its pretensions to superiority over the “common” photographers of daily life, people who have in the past been disparagingly referred to as amateurs, shutterbugs, hobbyists, or, my favorite, “enthusiastic Button Pressers”.
 

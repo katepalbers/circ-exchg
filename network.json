@@ -34,15 +34,25 @@ layout: null
       "size": {% assign size = 1 %}{% for item in theme_dupes_array %}{% if item == node_theme %}{% capture size %}{{ size | plus: 1 }}{% endcapture %}{% endif %}{% endfor %}{{ size }}
     }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}
   ],
-  "edges": [ {% for post in site.posts %}{% for item in post.network %}
+  "edges": [ {% for post in site.posts %}{% if forloop.last == true %}{% for item in post.network %}
     {
-      "id": "e{{ forloop.index }}",
+      "id": "e{{ forloop.index }}-{{ post.date | date: "%F" }}",
       "source": "a-{{ item.artist | downcase | remove: ' ' }}",
       "target": "th-{{ item.theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}"
-    }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}{% endfor %}
-  ]
+    }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}{% else %}{% for item in post.network %}
+    {
+      "id": "e{{ forloop.index }}-{{ post.date | date: "%F" }}",
+      "source": "a-{{ item.artist | downcase | remove: ' ' }}",
+      "target": "th-{{ item.theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}"
+    },{% endfor %}{% endif %}{% endfor %}
+  ]  
 }
 
+
+{% comment %}
+  For the edges:
+  I ran into a problem with the two for loops: for post in site.posts, and then for item in post.network. Because of this nesting I was having trouble getting it to recognize the last edge array in the series and omitting the final comma in that case. This is the best I cam up with. It works, but requires that there is a network artist and theme listed on the earliest post.
+{% endcomment %}
 
 {% comment %}
   For the nodes:
