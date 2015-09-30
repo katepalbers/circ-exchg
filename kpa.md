@@ -9,8 +9,7 @@ medium: katepalbers
 <figure class="figure-profile">
 	<img src="assets/images/{{ page.thumbnail }}" alt="{{ page.title }}" />
 	<figcaption>
-		@katepalbers<br />
-		<a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-2x hvr-grow"></i></a> | <a href="https://www.medium.com/{{ page.medium }}"><i class="fa fa-medium fa-2x hvr-grow"></i></a>
+		<a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-2x hvr-grow"></i></a> | <a href="https://www.medium.com/@{{ page.medium }}"><i class="fa fa-medium fa-2x hvr-grow"></i></a>
 	</figcaption>	
 </figure>
 
