@@ -51,6 +51,11 @@ For the caption (<figcaption>) Text can be formatted and contain links, however,
 Image files themselves go in the assets > images folder
 
 
+FOR PDFs:
+[“Accessing the Landscape: Photography, Technology and Place Today”](assets/pdfs/nameoffile.pdf)
+
+
+
 
 RE-SIZING IMAGES FOR THE WEB:
 ---------------------------------
