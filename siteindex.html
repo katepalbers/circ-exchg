@@ -7,14 +7,14 @@ layout: page
 		padding-right: 1em;
 	}
 	ul ul {
-		padding-left: 1em;
+		padding-left: 40px;
 		margin-top: 5px;
 		margin-bottom: 30px;
 		list-style-type: circle;
 	}
 	article.informational ul ul li {
 		/*list-style-type: circle;*/
-		font-family: CooperHewitt_Medium;
+		font-family: CooperHewitt_Book;
 		font-size: .7em;			
 		font-weight: normal;
 		color: #555;
@@ -22,6 +22,10 @@ layout: page
 	}
 	ul ul a {
 		border-bottom: none;
+	}
+	svg.icon {
+		float: left;
+		margin-right: 15px;
 	}
 </style>
 {% capture artist_data %}{% for post in site.posts %}{% for item in post.network %}{{ item.artist }}|{% endfor %}{% endfor %}{% endcapture %}
@@ -42,7 +46,7 @@ layout: page
 
 <table>
 <tr>
-<td><h3><strong>Artists</strong></h3>
+<td><svg class="icon" height="24" width="24"><circle cx="12" cy="12" r="12" fill="#8addea" /></svg> <h3>Artists</h3>
 <ul>
 	{% for item in unique_artists_array %}{% assign node_artist = item %}<li id="{{ node_artist | downcase | remove: ' ' }}">{{ node_artist }}
 	<ul>
@@ -50,7 +54,7 @@ layout: page
 	</ul></li>{% endfor %}
 </ul>
 </td>
-<td><h3><strong>Themes</strong></h3>
+<td><svg class="icon" height="24" width="24"><circle cx="12" cy="12" r="12" fill="#64a1aa" /></svg> <h3>Themes</h3>
 <ul>
 	{% for item in unique_themes_array %}{% assign node_theme = item %}<li id="{{ node_theme | downcase | remove: ' ' | remove: '/' | remove: ':' | remove: '-' }}">{{ node_theme }}
 	<ul>
