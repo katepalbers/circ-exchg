@@ -113,10 +113,10 @@ Home
 */
 
 img.home {
-	width: 60%;
+	width: 50%;
 	overflow: hidden;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 	margin-top: 100px;
 }
 .post-list {
@@ -311,6 +311,7 @@ Pages
 	border-bottom: 2px solid #555;
 	padding-bottom: 8px;
 	margin-bottom: 20px;
+	width: 160px;
 }
 .figure-profile figcaption {
 	color: #111;
