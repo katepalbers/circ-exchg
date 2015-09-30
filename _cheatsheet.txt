@@ -41,6 +41,7 @@ Figures use basic HTML. Copy and paste the above template, and fill in the blank
 	class="figure": Goes full-width of text column
 	class="figure-lg":  Goes full-width of browser window
 	class="figure-sm": Goes small and to the right of the text column
+	class="figure-profile": Goes smallest, and floats inside the text on the right side.
 
 For the caption (<figcaption>) Text can be formatted and contain links, however, it needs to be formatted as HTML rather than Markdown:
 
@@ -48,7 +49,7 @@ For the caption (<figcaption>) Text can be formatted and contain links, however,
 	<strong>Bold Text</strong>
 	<a href="http://www.linkadress.com">Link Text</a>
 
-Image files themselves go in the assets > images folder
+Image files themselves go in the assets/images folder
 
 
 
@@ -56,11 +57,8 @@ RE-SIZING IMAGES FOR THE WEB:
 ---------------------------------
 
 1. Put any number of images in assets/images/originals
-2. Open a new Terminal window (Applications/Utilities/Terminal)
-3. Copy and paste, and hit enter:
-	
-	convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/webready/%[filename:name].jpg
-
+2. Open a new Terminal window: Applications/Utilities/Terminal
+3. Type "convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/webready/%[filename:name].jpg" without the exterior quotes, and hit enter
 4. Move re-sized images from the images/webready folder to wherever you need them, DELETE/REMOVE images from images/originals folder
 
 This converts all images, regardless of format, to JPGs with a quality/file-size setting appropriate for the web. It maintains the original image dimensions, and the original file name. 
@@ -93,7 +91,7 @@ theme:
 
 SITE PREVIEW:
 --------------------
-1. Open Applications > Utilities > Terminal
+1. Open a new Terminal window: Applications/Utilities/Terminal
 2. Type "cd /Users/kpalbers/circ-exchg" without the quotes and hit enter
 3. Type "bundle exec jekyll serve --drafts" without the quotes and hit enter
 4. Open a browser and go to: http://localhost:4000/circ-exchg/
@@ -113,7 +111,7 @@ INCREMENTAL UPDATES:
 PUBLISHING:
 --------------------
 1. Move post into _posts folder
-2. Open Applications > GitHub. Default branch should be gh-pages
+2. Open Applications/GitHub. Default branch should be gh-pages
 3. In the left column, select the post file and any relevant images
 4. At the bottom, write a brief Summary of the change (required), ie., "New post with images, on Instagram". And a long description if desired. Click "Commit and Synch gh-pages"
 
