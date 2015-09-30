@@ -333,7 +333,9 @@ Pages
 	color: #111;
 	border-bottom: none;
 }
-
+.figure-profile .fa-envelope {
+	margin-top: 5px;
+}
 
 /* 
 Articles
