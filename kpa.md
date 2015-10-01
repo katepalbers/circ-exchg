@@ -46,4 +46,5 @@ Albers has an ongoing interest, as well, in the intersection of photography, geo
 - [“It’s Not an Archive”: Christian Boltanksi’s Les Archives de C.B. 1965-1988”](assets/pdfs/Albers_Boltanski_2011 copy.pdf) *Visual Resources* 27:3 (August 2011), 249-266.
 - [“Cartographic Postings: GPS, Photography, and Landscape”](assets/pdfs/Albers_Cartographic Postings copy.pdf) *Afterimage: The Journal of Media Arts and Cultural Criticism* (March/April 2010). Artists include Andrew Freeman and Frank Gohlke.
 
+### **[Full CV](assets/pdfs/Albers_CV_2015 copy.pdf)**
 

@@ -16,7 +16,7 @@ Earlier this year, the New York-based artist [Penelope Umbrico](http://www.penel
 <figure class="figure-lg">
 	<img src="../assets/images/umbrico_Images/umbrico_39-Alt+1000 collboration.jpg" alt="" />
 	<figcaption>
-		Penelope Umbrico, images from “A Proposal and Two Trades”, 2013–present
+		Penelope Umbrico, images from “A Proposal and Two Trades”, 2013–present. Courtesy the artist.
 	</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ The project began with Umbrico posting her proposal at the festival, outdoors, o
 <figure class="figure">
 	<img src="../assets/images/umbrico_Images/altplus_01.jpg" alt="" />
 	<figcaption>
-		Penelope Umbrico, “A Proposal and Two Trades” proposal, Rossinière, Switzerland, 2013
+		Penelope Umbrico, “A Proposal and Two Trades” proposal, Rossinière, Switzerland, 2013. Courtesy Alt+1000 Festival.
 	</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ In “A Proposal and Two Trades”, Umbrico defines the first “trade” as one
 <figure class="figure">
 	<img src="../assets/images/umbrico_Images/Umbrico_screen_roll_alfred_bornet.jpg" alt="" />
 	<figcaption>
-		Screenshot of an image as it moves through 33 filters on Umbrico's phone
+		Screenshot of an image as it moves through 33 filters on Umbrico's phone. Courtesy the artist.
 	</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ In a remarkable display of modesty (or, more likely, a provocative abdication of
 <figure class="figure">
 	<img src="../assets/images/umbrico_Images/Umbrico_screen_roll_jonawow.jpg" alt="" />
 	<figcaption>
-		Screenshot of an image as it moves through 19 filters on Umbrico's phone
+		Screenshot of an image as it moves through 19 filters on Umbrico's phone. Courtesty the artist.
 	</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Umbrico received, altered, and emailed back 659 images of the mountain in Switze
 <figure class="figure-lg">
 	<img src="../assets/images/umbrico_Images/first 6-IMG_4180.jpg" alt="" />
 	<figcaption>
-		The first six prints Umbrico received from her collaborators
+		The first six prints Umbrico received from her collaborators. Courtesy the artist.
 	</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ This set of transactions, currently in process, transforms the initially immater
 <figure class="figure">
 	<img src="../assets/images/umbrico_Images/altplus_expo_2015-75.jpg" alt="" />
 	<figcaption>
-		Umbrico's intial iterations of the images, installed at the Alt+1000 festival, July 12–September 21, 2015
+		Umbrico's intial iterations of the images, installed at the Alt+1000 festival, July 12–September 21, 2015. Courtesy Alt+1000 Festival.
 	</figcaption>
 </figure>
 
