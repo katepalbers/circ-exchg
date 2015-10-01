@@ -1,5 +1,5 @@
 ---
-layout: default-a
+layout: default
 ---
 
 <main>
@@ -15,7 +15,7 @@ layout: default-a
     <div id="scroll">
       <ul>
 
-        <li id="welcome"><a href="{{site.baseurl}}/about.html"><h3>About</h3></a></li>
+        <li id="welcome"><a href="{{ "/about.html" | prepend: site.baseurl }}"><h3>About</h3></a></li>
     
         {% for post in site.posts %}
 

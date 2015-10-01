@@ -1,10 +1,9 @@
 # Site settings
 title: Circulation | Exchange
-email: circ-exchg@gmail.com
+subtitle: Moving Images in Contemporary Art
 description: "Circulation Exchange is an online publication dedicated to artists exploring innovative and creative intersections of photography and social media. It will feature interviews, short critical essays on specific projects and historical precedents, and notable work made on and about specific social media platforms. Supported by the Creative Capital | Warhol Foundation Arts Writers Grant Program"
-baseurl: "/circ-exchg" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: circ-exchg
+baseurl: "http://circulationexchange.org" # the subpath of your site, e.g. /blog/
+twitter_username:
 permalink: none
 
 # Build settings

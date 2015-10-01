@@ -100,12 +100,12 @@ SITE PREVIEW:
 --------------------
 1. Open Applications > Utilities > Terminal
 2. Type "cd /Users/kpalbers/circ-exchg" without the quotes and hit enter
-3. Type "bundle exec jekyll serve --drafts" without the quotes and hit enter
-4. Open a browser and go to: http://localhost:4000/circ-exchg/
+3. Type "bundle exec jekyll serve --baseurl '' --drafts" without the quotes and hit enter
+4. Open a browser and go to: http://localhost:4000
 
 The preview site will automatically be updated when you save changes to documents in the site, but you need to refresh to see them. Hit Control-C or close the Terminal window to stop the site preview.
 
-To preview a version of the site without any draft posts included, use the command "bundle exec jekyll serve", after stopping the current site preview with Control-C or by closing the Terminal and starting a new session.
+To preview a version of the site without any draft posts included, use the command "bundle exec jekyll serve --baseurl ''", after stopping the current site preview with Control-C or by closing the Terminal and starting a new session.
 
 
 
