@@ -40,6 +40,7 @@ Figures use basic HTML. Copy and paste the above template, and fill in the blank
 
 	class="figure": Goes full-width of text column
 	class="figure-lg":  Goes full-width of browser window
+	class="figure-md":  Goes 70% the width of text column and centers within it
 	class="figure-sm": Goes small and to the right of the text column
 
 For the caption (<figcaption>) Text can be formatted and contain links, however, it needs to be formatted as HTML rather than Markdown:

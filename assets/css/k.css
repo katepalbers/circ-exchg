@@ -449,6 +449,15 @@ figcaption em {
 	width: 240px;
 	height: 0;
 }
+.figure-md {
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.figure-md img, .figure-md figcaption {
+	width: 70%;
+	margin: 0 18% 5px 12%;
+}
 .figure-sm {
 	width: 940px;
 	margin-left: 0;
@@ -465,6 +474,7 @@ figcaption em {
 	float: right;
 	clear: both;
 }
+
 article header img {
 	float: right;
 }
@@ -709,6 +719,10 @@ MailChimp Form
 		margin-left: 0;
 		width: 100%;
 		height: auto;
+	}
+	.figure-md img, .figure-md figcaption {
+		width: 100%;
+		margin: 0 0 5px 0;
 	}
 	.figure-sm {
 		width: 100%;
