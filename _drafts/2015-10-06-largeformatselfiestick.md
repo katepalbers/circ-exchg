@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: In Praise of the Large-Format Selfie Stick
 subtitle:
-date: 2015-09-15
+date: 2015-10-06
 author: Kate Palmer Albers
 thumbnail: chehak_01.jpg
 platform: 
@@ -19,8 +19,8 @@ The idea alone prompted a number of questions: Was the Large Format Selfie Stick
 
 I almost never screenshot Snapchats (it’s the easiest way to save a Snapchat, but I mostly think of it as cheating myself out of a properly ephermeral experience), but I did screenshot the LFFS because, like everyone else, I like to think I know genius when I see it:
 
-<figure class="figure-sm">
-	<img src="../assets/images/Chehak_LFFS_Snapchat.png" alt="__________" />
+<figure class="figure">
+	<img src="../assets/images/Chehak_LFFS_Snapchat_cropped.png" alt="__________" />
 	<figcaption>
 		from May 2015
 	</figcaption>
@@ -38,27 +38,27 @@ The snap came from the photographer Jesse Chehak. Chehak is a “real” photogr
 I’ve seen enough brilliant and playful ideas sketched out in his studio that it somehow didn’t occur to me that Chehak would go to the trouble of actually fabricating the thing, and, anyway, it existed provocatively enough just as an idea and a sketch. But a few weeks later, this showed up on Instagram: 
 
 <figure class="figure">
-	<img src="../assets/images/Chehak_with_LFFS.png" alt="__________" />
+	<img src="../assets/images/Chehak_with_LFFS_cropped.png" alt="__________" />
 	<figcaption>
-		____________________________
+		
 	</figcaption>
 </figure>
 
 And this, for a better view, tagged, naturally #TheLargeFormatSelfieStick:
 
 <figure class="figure">
-	<img src="../assets/images/chehak_01.jpg" alt="__________" />
+	<img src="../assets/images/chehak_01_cropped.jpg" alt="__________" />
 	<figcaption>
-		____________________________
+		
 	</figcaption>
 </figure>
 
 Clearly I had to try it myself, so the next time I was in Tucson, where Chehak was living at the time (he’s since moved to Milwaukee with his family), we made a date. And I should be clear here: I’m not opposed to selfies and I’ve made plenty of them myself, whether or not I’ve posted them publically. (This 2012 essay by Jerry Saltz covers most of what I think is interesting and notable about selfies, and this recent article is a nice supplement for any ongoing confusion about what a selfie is.) The process of making this large format selfie, however, was both familiar and strange as two worlds collided in practice. First of all, as was clear from the initial images I had seen, but all the more evident in person: the contraption is a beast, made particularly unwieldy by the physics of extending a heavy object out a pole and trying to hold it from the other end. It was a two-person job: Chehak wrangled the 8-foot pole and camera and I had the honor of holding the shutter release cord. As there was one sheet of film in the camera, we made one exposure:
 
 <figure class="figure">
-	<img src="../assets/images/Chehak_print_in_housing.jpg" alt="__________" />
+	<img src="../assets/images/Chehak_print_in_housing_cropped.jpg" alt="__________" />
 	<figcaption>
-		____________________________
+		
 	</figcaption>
 </figure>
 
