@@ -135,7 +135,7 @@ CREATING PDF:
 --------------------
 1. Open Applications > Utilities > Terminal
 2. Type "cd /Users/kpalbers/circ-exchg/_site" without the quotes and hit enter
-3. Type "prince --fileroot=/Users/galbers/GitHub/circ-exchg/_site/ --input-list=toc.txt -o ../assets/pdfs/circexchg_kpalbers.pdf" without the quotes and hit enter
+3. Type "prince --fileroot=/Users/kpalbers/circ-exchg/_site/ --input-list=toc.txt -o ../assets/pdfs/circexchg_kpalbers.pdf" without the quotes and hit enter
 4. Open Applications > GitHub, and commit the new PDF.
 
 
