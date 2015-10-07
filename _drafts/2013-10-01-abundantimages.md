@@ -5,7 +5,7 @@ title: Abundant Images and the Collective Sublime
 subtitle:
 date: 2013-10-01
 author: Kate Palmer Albers
-thumbnail: abundantimages_01.jpg
+thumbnail: abundant-images/abundantimages_01.jpg
 previously_published: "<em>Exposure</em> 46:2 (Fall 2013), 4-14."
 platform: 
  - Flickr
@@ -15,7 +15,7 @@ theme:
 This past November, the Dutch artist Erik Kessels printed out every photograph that was uploaded to the popular photo-sharing website Flickr in a twenty-four-hour period. The resulting installation, appropriately titled “Photography in Abundance,” made literal, both visibly and viscerally, what is in fact only an infinitesimal fraction of the digital photographic images circulating online[^1]  (*Figure 1*). One day’s haul on Flickr—about a million individual images—is clearly a staggering and incomprehensible quantity of photographs from which to draw a clear meaning. This digital deluge, underway for more than a decade now, has caused considerable hand-wringing among photographers and photography theorists, including concerns about the potential meaninglessness of such a profusion of images, the demise of craftsmanship, and the loss of editing skills within contemporary photographic practice.
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_01.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_01.jpg" alt="figure" />
 	<figcaption>
 	Figure 1. Erik Kessels, <em>24HRS IN PHOTOS</em>, 2011, installed at Foam Photography Museum, Amsterdam, 4 x 6-inch photoprints, dimensions variable. Photograph by Gijs van den Berg. Courtesy of the artist.
 	</figcaption>
@@ -29,7 +29,7 @@ Kessels’s Flickr extravaganza is just one example of several recent photograph
 
 
 <figure class="figure-lg">
-	<img src="../assets/images/abundantimages_02.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_02.jpg" alt="figure" />
 	<figcaption>
 	Figure 2. Penelope Umbrico, <em>2,303,057 Suns from Flickr (Partial) 9/25/07</em>, 2007, installation detail, Gallery of Modern Art, Brisbane, Australia, 1,638 Kodak EasyShare C-prints, 4 x 6 inches each. Photograph by Huw Porter. Courtesy of the artist.
 	</figcaption>
@@ -40,7 +40,7 @@ Flickr, in particular, has captured the interest of several artists. Notable amo
 The collaborative team of Mark Klett and Byron Wolfe has also worked with the Flickr data stream. Though they also mine the site for images of suns, both rising and setting, their approach is distinctly different than Umbrico’s. Klett and Wolfe’s work is distinct to place, in particular, to the Grand Canyon. Their 2011 piece, *One hundred setting suns at the Grand Canyon arranged by hue; pictures from a popular image-sharing web site,* measures 82 inches in width (*Figure 3*). Their process begins in a similar way to Umbrico’s, searching Flickr’s site for particular terms. Yet because of the specificity of location, the project begins to address the artists’ notion of “image density,” tracking locations and views that tourists and visitors to the Grand Canyon repeatedly photograph.[^6] This image density of a place tells us what people look at and what they choose to record, often in extraordinary numbers. Viewers may already be well aware that the Grand Canyon is one of the most photographed landscapes in the United States, but the project presents the specific photographic views that are made time and again by many different visitors. Wolfe refers to this as “quantifying the sublime,” an idea to which I will return at the end of this essay in a case study of aesthetic approaches to both quantity and sunsets.[^7]
 
 <figure class="figure-lg">
-	<img src="../assets/images/abundantimages_03.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_03.jpg" alt="figure" />
 	<figcaption>
 	Figure 3. Mark Klett and Byron Wolfe, <em>One hundred setting suns at the Grand Canyon arranged by hue; pictures from a popular image-sharing web site</em>, 2011, digital inkjet print, 17 x 82 inches. Courtesy of the artists.
 	</figcaption>
@@ -49,14 +49,14 @@ The collaborative team of Mark Klett and Byron Wolfe has also worked with the Fl
 These recent photographic projects indicate a profound shift in how we make, share, and consume photographic images in the twenty-first century, but the aesthetic emphasis on the fact of accumulation and quantity as emblematic of the photographic medium is a pre-digital phenomenon. This is evidenced by the massive storehouses of photographs that exist, including the Smithsonian archive of more than 13 million photographs and the Bettman Archive of 17 million images, to name just two examples. The accumulative impulse is found within fine art photography as well: Garry Winogrand, upon his death, famously left more than 400,000 images he took but never saw.[^8] Other artists, too, have considered the aesthetics of presenting large volumes of photographic images. Conceptual works by artists such as Douglas Huebler, Hanne Darboven, and Robert Smithson in the late 1960s established the visual and conceptual foundation for today’s cornucopia aesthetic.[^9]
 
 <figure class="figure-sm">
-	<img src="../assets/images/abundantimages_04.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_04.jpg" alt="figure" />
 	<figcaption>
 	Figure 4. Jamie Livingston, detail from <em>Photo of the Day</em>, 1979–1997, Polaroid Time-Zero Supercolor, 41⁄4 x 31⁄2 inches. Courtesy of Hugh Crawford.
 	</figcaption>
 </figure>
 
 <figure class="figure-sm">
-	<img src="../assets/images/abundantimages_05.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_05.jpg" alt="figure" />
 	<figcaption>
 	Figure 5. Jamie Livingston, detail from <em>Photo of the Day</em>, 1979–1997, Polaroid Time-Zero Supercolor, 41⁄4 x 31⁄2 inches. Courtesy of Hugh Crawford.
 	</figcaption>
@@ -67,7 +67,7 @@ Also, some established modes of photography function, through a gradual accumula
 One can wonder what Livingston’s project would have looked like in the digital age.[^13] There is no question, however, that digital photography now makes accessible to a far broader spectrum of photographers the kind of photographic accumulation that once was isolated to somewhat unusual cases such as Garry Winogrand or Jamie Livingston. To accumulate even tens of thousands of photographs fazes no one. But the impulse to obsessively mark time via photography is enabled in a new way, with yet again different, and decidedly more mundane, aesthetics. Starting thirteen years ago, on January 11, 2000, Noah Kalina began making a digital picture of himself every day: his video, tracking six years of progress and 2,356 images, is a viral hit on YouTube, having been seen more than 24 million times[^14]  (*Figure 6*). Notably, the aesthetics of presentation have shifted. Nixon’s thirty-some gelatin silver prints require at least a large wall to exhibit, and Livingston’s 6,000 Polaroids required 120 linear feet of exhibition space, with the small prints arranged frameless and touching one another, stacked seven feet high. Kalina’s project, by contrast, exists only digitally and is presented as a time-lapse sequence on a monitor. Though his work is certainly seen most often as a YouTube video, Kalina has also presented it on a freestanding video screen in a gallery space.[^15]
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_06.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_06.jpg" alt="figure" />
 	<figcaption>
 	Figure 6. Noah Kalina, YouTube screenshot of <em>Everyday</em>, January 11, 2000–present. Courtesy of the artist and YouTube.
 	</figcaption>
@@ -82,14 +82,14 @@ Many more photographic examples could be cited here, yet the selection I have in
 German artist Gerhard Richter’s massive and ongoing *Atlas*—a now monumental work that was first exhibited in 1972 with a “mere” few thousand photographic images—is a cornerstone of accumulative aesthetic and photographic practices. Some forty years in the making, *Atlas* is now composed of upwards of 8,000 individual images: a number that, while admittedly a far cry from Kessels’s one million images, still evinces volume on a scale that resists easy consumption or interpretation (*Figures 7 and 8*).
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_07.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_07.jpg" alt="figure" />
 	<figcaption>
 Figure 7. Gerhard Richter, <em>Atlas</em>, installed at Lenbachhaus und Kunstbau, Munich, 2005. Photograph by Städtische Galerie im Lenbachhaus und Kunstbau, Munich. © Gerhard Richter, 2013.
 	</figcaption>
 </figure>
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_08.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_08.jpg" alt="figure" />
 	<figcaption>
 	Figure 8. Gerhard Richter, <em>Atlas</em>, Panels 175, 176, and 178, “Landscapes” 1969–1971, color postcards, 51.7 x 36.7 cm each. Photograph by Städtische Galerie im Lenbachhaus und Kunstbau, Munich. © Gerhard Richter, 2013.
 	</figcaption>
@@ -120,7 +120,7 @@ Penelope Umbrico’s anonymous sunsets in *Suns from Flickr* are more distinctly
 Umbrico resists calling her sunsets an archive, saying that the piece “uses an archive (all the sunset pictures on Flickr) which is made up of data … as the means (not an end) to make art.”[^25] But, as with Richter’s *Atlas*, the categorical tension between her accumulations and a known cultural structure—Flickr—proves productive, provoking an analysis of the archival qualities of the Internet. Both photography and the Internet, Umbrico suggests, “function as indexical records of our collective culture—a visual index of data that represents us: a constantly changing and spontaneous auto-portrait.”[^26] Unlike Richter’s sunsets, operating as the product of one individual’s thought process, Umbrico’s sunsets engage the implications of an anonymous social and technological collective of accumulation. What may have started as a deeply personal moment—the contemplation of a sunset—becomes, as the experience is photographed and subsequently uploaded to Flickr, a participation in a decidedly routine collective cultural ritual. As Umbrico has noted, photographing sunsets, “is something we all engage in, despite our better artistic judgment, knowing that there have been millions before and there will be millions after.”[^27]
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_09.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_09.jpg" alt="figure" />
 	<figcaption>
 	Figure 9. Penelope Umbrico, <em>People in front of Suns (From Sunsets) from Flickr</em>, 2011–ongoing, digital C-prints, 5 x 7 inches each. Courtesy of the artist.
 	</figcaption>
@@ -139,7 +139,7 @@ The artists’ interest in the idea of image density—of quantifying how many p
 A second piece by Klett and Wolfe, *Fifty sunrises at Mather Point arranged by a shared horizon; pictures from a popular image-sharing web site*, 2011, gets at this point more directly (*Figure 10*). In this case, Wolfe mined Flickr for literally overlapping photographs of the same site and graphed them onto one another in a kind of “average” view of a Grand Canyon sunrise. By lining up familiar topographic features and adjusting the opacity of the overlaid images, Wolfe could virtually “stand,” from the comfort of his home in northern California, where the fifty Flickr photographers had stood to watch the sunset. Unknown family members and friends appear as ghostly forms, their images not quite strong enough in the composite layering of separate photographs to be recorded for posterity in this iteration. Nevertheless, their forms humanize the Grand Canyon pilgrimage, the ritual of rising early to watch the sunrise, and its subsequent photographic capture. 
 
 <figure class="figure">
-	<img src="../assets/images/abundantimages_10.jpg" alt="figure" />
+	<img src="../assets/images/abundant-images/abundantimages_10.jpg" alt="figure" />
 	<figcaption>
 	Figure 10. Mark Klett and Byron Wolfe, <em>Fifty sunrises at Mather Point arranged by a shared horizon</em>; pictures from a popular image-sharing web site, 2011, digital inkjet print, 36 x 48 inches. Courtesy of the artists.
 	</figcaption>
