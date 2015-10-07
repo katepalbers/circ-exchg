@@ -96,6 +96,13 @@ theme:
 ---
 
 
+DATE CHANGES:
+--------------------
+
+Remember: When you update the date of the post to coincide with the actual publication date, it should be done in the text of the post AND in the file name itself.
+
+
+
 SITE PREVIEW:
 --------------------
 1. Open Applications > Utilities > Terminal
