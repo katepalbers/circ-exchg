@@ -5,7 +5,7 @@ title: Penelope Umbrico
 subtitle: A Proposal and Two Trades, to start
 date: 2015-09-30
 author: Kate Palmer Albers
-thumbnail: umbrico_proposal_01.jpg
+thumbnail: umbrico/umbrico_proposal_01.jpg
 platform:
  - The Selfie
 theme:
@@ -14,7 +14,7 @@ theme:
 Earlier this year, the New York-based artist [Penelope Umbrico](http://www.penelopeumbrico.net) started an Instagram feed devoted to her project, “A Proposal and Two Trades,” which was initially conceived two years ago for the 2013 Alt+ 1000 Festival de Photographie, a biennial event in the Swiss Alps village of Rossinière. The continuous stream of images struck me as a natural home for this ongoing project: a perfect example of an artist taking seriously both the possibilities and parameters of a currently popular platform, and, in a particularly mobile manner, extending the project’s commitment to moving images through material and immaterial spaces, touching a range of strangers and audiences along the way.  
 
 <figure class="figure-lg">
-	<img src="../assets/images/umbrico_Images/umbrico_39-Alt+1000 collboration.jpg" alt="" />
+	<img src="../assets/images/umbrico/umbrico_39-Alt+1000 collboration.jpg" alt="" />
 	<figcaption>
 		Penelope Umbrico, images from “A Proposal and Two Trades”, 2013–present. Courtesy the artist.
 	</figcaption>
@@ -25,7 +25,7 @@ Earlier this year, the New York-based artist [Penelope Umbrico](http://www.penel
 The project began with Umbrico posting her proposal at the festival, outdoors, on a tree overlooking the Alps. 
 
 <figure class="figure">
-	<img src="../assets/images/umbrico_Images/altplus_01.jpg" alt="" />
+	<img src="../assets/images/umbrico/altplus_01.jpg" alt="" />
 	<figcaption>
 		Penelope Umbrico, “A Proposal and Two Trades” proposal, Rossinière, Switzerland, 2013. Courtesy Alt+1000 Festival.
 	</figcaption>
@@ -44,7 +44,7 @@ I was lucky to see the project in its early, unformed stage, upon Umbrico’s re
 In “A Proposal and Two Trades”, Umbrico defines the first “trade” as one “between the original photograph of a mountain and a new construct of that mountain produced through digital ideas about analogue photography.” The production, in other words, of this first trade was not the collaboration between the festival visitor and the artist, but a trade conceptualized as one taking place between the initial digital photograph the viewer made and the filters in Umbrico’s apps. It was a “trade”, then, in which the technology of the smartphone camera, the makers of the filters, and even the growing photographic culture of “digital ideas about analogue photography” that produced the filter were the most active participants.
 
 <figure class="figure">
-	<img src="../assets/images/umbrico_Images/Umbrico_screen_roll_alfred_bornet.jpg" alt="" />
+	<img src="../assets/images/umbrico/Umbrico_screen_roll_alfred_bornet.jpg" alt="" />
 	<figcaption>
 		Screenshot of an image as it moves through 33 filters on Umbrico's phone. Courtesy the artist.
 	</figcaption>
@@ -53,7 +53,7 @@ In “A Proposal and Two Trades”, Umbrico defines the first “trade” as one
 In a remarkable display of modesty (or, more likely, a provocative abdication of authorial control) Umbrico writes: “The camera app will give me back its digitally infused mountain”. With this line, Umbrico references an entire history of debate about the relationship in photography between, on the one hand, mechanized and automatic production and, on the other, an artist’s authorial control. The very questions that animated the confused beginning of the photographic medium are summoned here, but rather than pointing to a nineteenth century rift between the painter’s labor vs. a photographer’s lack thereof, the viewer must consider the authorial contributions of not just artist and unknown human collaborator, but the app makers, filter designers, and automated algorithmic patterns necessary for the subsequent image production. 
 
 <figure class="figure">
-	<img src="../assets/images/umbrico_Images/Umbrico_screen_roll_jonawow.jpg" alt="" />
+	<img src="../assets/images/umbrico/Umbrico_screen_roll_jonawow.jpg" alt="" />
 	<figcaption>
 		Screenshot of an image as it moves through 19 filters on Umbrico's phone. Courtesty the artist.
 	</figcaption>
@@ -66,7 +66,7 @@ And, finally: “I will send you this new mountain.” In its new iteration, “
 Umbrico received, altered, and emailed back 659 images of the mountain in Switzerland. Upon completion of the first trade (after the “new mountain” has been emailed back to the festival viewer), Umbrico invites her viewer/collaborator, wherever she or he may be, to print out two copies of the new file, in any material form they choose, and mail one back to the artist along with a self-addressed and stamped envelope in which to receive a certificate of authenticity for this new print edition of 2. 
 
 <figure class="figure-lg">
-	<img src="../assets/images/umbrico_Images/first 6-IMG_4180.jpg" alt="" />
+	<img src="../assets/images/umbrico/first 6-IMG_4180.jpg" alt="" />
 	<figcaption>
 		The first six prints Umbrico received from her collaborators. Courtesy the artist.
 	</figcaption>
@@ -77,7 +77,7 @@ This set of transactions, currently in process, transforms the initially immater
  While the material return of this second trade is underway, Umbrico is currently exhibiting a uniform suite of 119 new images (their print formats determined, in this case, solely by the artist) at the 2015 Alt+1000 Festival, returning their new material forms to the place and space of their initial starting points. Though the image may move freely through digital space, materiality, in a way, slows it down; the mountain is restabilized, at least momentarily, before drifting into its new, and divergent, futures.
 
 <figure class="figure">
-	<img src="../assets/images/umbrico_Images/altplus_expo_2015-75.jpg" alt="" />
+	<img src="../assets/images/umbrico/altplus_expo_2015-75.jpg" alt="" />
 	<figcaption>
 		Umbrico's intial iterations of the images, installed at the Alt+1000 festival, July 12–September 21, 2015. Courtesy Alt+1000 Festival.
 	</figcaption>
