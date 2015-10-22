@@ -6,8 +6,10 @@ title: "Contents"
 	<li><a href="about.html">Introduction</a></li>
 
 	{% for post in site.posts %}
-    <li class="post"><a href="{{ post.url | replace:'/articles','articles' }}">{{ post.title }}: {{ post.subtitle }}:</a></li>
-    {% endfor %}
+		{% if post.subtitle %}<li class="post"><a href="{{ post.url | replace:'/articles','articles' }}">{{ post.title }}: {{ post.subtitle }}</a></li>
+		{% else %}<li class="post"><a href="{{ post.url | replace:'/articles','articles' }}">{{ post.title }}</a></li>
+		{% endif %}
+	{% endfor %}
 
    	<li><a href="kpa.html">About the Author</a></li>
 </ul>
