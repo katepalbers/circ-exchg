@@ -11,27 +11,18 @@ theme:
 ---
 There is no shortage of short biographies of Alec Soth. Most of them follow standard art world protocol for any artist biography: brief personal background; significant bodies of work; notable exhibitions and publications; awards, fellowships, and accolades; and institutions that have collected the artist’s work. Some seek to provide an overarching thematic arch, others aim to humanize with a short anecdote. They’re necessarily brief, and meant to provide an overview of a career to ground the reader, listener, or viewer to whatever fraction of that career is presented to them at that moment. 
 
-In my roles over the last twenty years as gallery assistant, label-writer, researcher and lecture series organizer, I’ve written plenty of these short bios for others. And, about six months ago, I was asked to write one about Soth, to contribute to a forthcoming edition of a scholarly art encyclopedia. But as I thought about the dozens and dozens of short biographies that already exist about Soth, the assignment came to feel both more daunting and more redundant: couldn’t there be an art history bot that could aggregate the best of all the existing biographies to produce what I had been asked to do?
-
-<figure class="figure-sm">
-	<img src="../assets/images/Snapchat/lbm_tired_of_art_cropped.jpg" alt="So cute!" />
-	<figcaption>
-	
-	</figcaption>
-</figure>
-
-<figure class="figure-sm">
-	<img src="../assets/images/Snapchat/lbm_Istanbul_cropped.jpg" alt="So cute!" />
-	<figcaption>
-	Snapchats archived in Alec Soth's Instagram feed, 2014
-	</figcaption>
-</figure>
+In my roles over the last twenty years as gallery assistant, label-writer, researcher and lecture series organizer, I’ve written plenty of these short bios for others. And, a few months ago, I was asked to write one about Soth, to contribute to a forthcoming edition of a scholarly art encyclopedia. But as I thought about the dozens and dozens of short biographies that already exist about Soth, the assignment came to feel both more daunting and more redundant: couldn’t there be an art history bot that could aggregate the best of all the existing biographies to produce what I had been asked to do?
 
 Soth has become an unusually public and prolific artist, and is also sufficiently beloved by a wide enough audience that anyone with at least a passing interest in contemporary American photography has had opportunity to become familiar with the basic contours of his career. The predominant storyline begins in 2004 with the twin origin stories of his inclusion in that year’s Whitney Biennial and the acclaimed publication, by Steidl, of his first major book, *Sleeping By the Mississippi*, and follows his subsequent major projects (including *Niagara*, 2006; *Broken Manual*, 2010; the Dispatches, and now *Songbook*, 2015); notes the influential role of his bookmaking and independent publishing venture, Little Brown Mushroom, in the contemporary photo book boom; and his membership in the esteemed photojournalism collective Magnum. Also, he lives in Minnesota. 
 
 I (or anyone) can know all of this without paying any particularly close attention to his career. It’s a biography of major and documentable accomplishments and a shorthand for calculating artworld value. But rather apart from these projects of obvious credibility, I had been following Soth on the ephemeral image app Snapchat for a few months, after he posted a series of musings on Twitter about the app along with his username, littlebrownmush. We’d had a phone conversation as I prepared a conference paper on ephemeral photography, but had never met: he was essentially a stranger to me. I began to wonder what a biography, culled only from his Snapchat posts, would look like. Emerging from an accumulation of fleeting images, it would be an alternative form to the conventional artist biography, certainly, but might it have a value of its own? 
 
-
+<figure class="figure">
+	<img src="../assets/images/Snapchat/lbm_snapchats.png" alt="So cute!" />
+	<figcaption>
+	Snapchats archived in Alec Soth's Instagram feed, 2014
+	</figcaption>
+</figure>
 
 ##### Biography as a fraught enterprise 
 
@@ -77,7 +68,7 @@ So I gave myself an assignment to imagine—and write—a Snapchat biography. Ch
 
 Despite the obvious silliness, on some level, of all of this, I couldn’t help but wonder if Soth’s Snapchat biography revealed something about the “real” him. And if it did, how would I know? Had I even accurately remembered the images (or correctly perceived them in the first place)? Would an Instagram biography—publicly archived and cross-verifiable—be better? Are either more or less useful than a typical artist biography? Acting off-script, does a Snapchat biography reveal too much? Or, conversely, does it reveal only what I think I saw? 
 
-I can’t say that I know. But I can say that the exercise had the effect of lifting a certain flattening effect of hearing the same story line over and over. And with regular (sometimes daily) infusions of watching Soth work his way through this new form of photographic language, the narrative arc of Soth’s biography that focuses on sheer breadth of visual and material photographic experimentation emerged into prominence. Over the past decade, there have been large format color photographs, of course, but also road-trippy Polaroids, photographs taken with a disposable camera in the language of “bad” photography, work with found vernacular photographs, a discovery of the languages of Instagram, and a mid-century black and white photojournalism flash photography aesthetic. Those modes have, subsequently, been funneled into a correspondingly rich range of distribution: fine art books, yes, but also newsprint, pop-up exhibitions, quirky publications, slide shows, posters, billboards, and t-shirts, as well as the more expected prints in museum and gallery exhibitions.
+I can’t say that I know. But I can say that the exercise had the effect of lifting a certain flattening effect of hearing the same story line over and over. And with regular (sometimes daily) infusions of watching Soth work his way through this new form of photographic language, the narrative arc of Soth’s biography that focuses on sheer breadth of visual and material photographic experimentation emerged into prominence. Over the past decade, there have been large format color photographs, of course, but also road-trippy Polaroids, photographs taken with a disposable camera in the language of “bad” photography, projects with found vernacular photographs, a discovery of the languages of Instagram, and a mid-century black and white photojournalism flash aesthetic. Those modes have, subsequently, been funneled into a correspondingly rich range of distribution: fine art books, yes, but also newsprint, pop-up exhibitions, quirky publications, slide shows, posters, billboards, and t-shirts, as well as the more expected prints in museum and gallery exhibitions.
 
 I am hard pressed to think of an artist more fluent through the spectrum of visual languages of 20th century American photography, or who more visibly leverages the movement of multiple forms of photographic images through digital and material spaces, into their consequently contextually contingent meanings. And, this, ultimately, while all the while exploring the capacity and failures of a photograph or photographs to reveal human connections and disconnections.
 
