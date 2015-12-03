@@ -89,21 +89,21 @@
 	.toc li a {
 		font-family: Calendas_PlusItalic;
 	}
-	.toc li a:after { 
+	.toc li a:after {
 		content: leader(dotted) " " target-counter(attr(href, url), page);
 		font-family: Calendas_PlusItalic;
 	}
 	.toc li.post a {
 		font-family: Calendas_Plus;
 	}
-	.toc li.post a:after { 
+	.toc li.post a:after {
 		content: leader(dotted) " " target-counter(attr(href, url), page);
 		font-family: Calendas_Plus;
 	}
 	body {
 		color: #000;
 		background-color: #fff;
-		font-size: 13pt; 
+		font-size: 13pt;
 	}
 	.banner, #prev, #next {
 		display: none;
@@ -115,7 +115,7 @@
 	article a, article a:visited {
 		color: #111;
 		border-bottom: 3px solid #fffc01;
-		text-decoration: none; 
+		text-decoration: none;
 	}
 	article footer a, article footer a:visited {
 		color: #555;
@@ -123,6 +123,9 @@
 	h1 {
 		font-family: CooperHewitt_Light;
 		font-size: 48pt;
+	}
+	h1 em {
+		font-family: CooperHewitt_LightItalic;
 	}
 	h2 {
 		font-family: CooperHewitt_Book;
