@@ -55,6 +55,9 @@ h1 {
 	font-weight: normal;
 	line-height: 1.35em;
 }
+h1 em {
+	font-family: CooperHewitt_ThinItalic;
+}
 h2 {
 	font-family: CooperHewitt_Light;
 	font-size: 1.7em;
@@ -95,7 +98,7 @@ h5 {
 	font-family: Calendas_PlusBold;
 	font-size: 1em;
 	font-weight: normal;
-  margin-top: 2em;
+  	margin-top: 2em;
 }
 
 /*
