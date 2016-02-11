@@ -43,6 +43,16 @@ Figures use basic HTML. Copy and paste the above template, and fill in the blank
 	class="figure-md":  Goes 70% the width of text column and centers within it
 	class="figure-sm": Goes small and to the right of the text column
 
+Alternatively, the following markup can be used for two side-by-side images, with a single caption beneath. This works best when the images are the same height.
+
+<figure class="figure-pair">
+	<img src="../assets/images/__________.jpg" class="left" alt="__________" />
+  <img src="../assets/images/__________.jpg" class="right" alt="__________" />
+	<figcaption>
+		____________________
+	</figcaption>
+</figure>
+
 For the caption (<figcaption>) Text can be formatted and contain links, however, it needs to be formatted as HTML rather than Markdown:
 
 	<em>Italic Text</em>
@@ -64,12 +74,12 @@ RE-SIZING IMAGES FOR THE WEB:
 1. Put any number of images in assets/images/originals
 2. Open a new Terminal window (Applications/Utilities/Terminal)
 3. Copy and paste, and hit enter:
-	
+
 	convert circ-exchg/assets/images/originals/* -colorspace RGB -quality 60%  -set filename:name "%t" circ-exchg/assets/images/webready/%[filename:name].jpg
 
 4. Move re-sized images from the images/webready folder to wherever you need them, DELETE/REMOVE images from images/originals folder
 
-This converts all images, regardless of format, to JPGs with a quality/file-size setting appropriate for the web. It maintains the original image dimensions, and the original file name. 
+This converts all images, regardless of format, to JPGs with a quality/file-size setting appropriate for the web. It maintains the original image dimensions, and the original file name.
 
 Note: There cannot be multiple files in images/originals that have the same name and different extenstions. They will overwrite eachother. Also, previsously processed images added to images/originals will be copied into images/webready but will not be further downsampled.
 
@@ -137,9 +147,3 @@ CREATING PDF:
 2. Type "cd /Users/kpalbers/circ-exchg/_site" without the quotes and hit enter
 3. Type "prince --fileroot=/Users/kpalbers/circ-exchg/_site/ --input-list=toc.txt -o ../assets/pdfs/circexchg_kpalbers.pdf" without the quotes and hit enter
 4. Open Applications > GitHub, and commit the new PDF.
-
-
-
-
-
-
