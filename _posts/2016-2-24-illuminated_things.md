@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: Becoming an Image
 subtitle: Amanda Ross-Ho's <em>The Character and Shape of Illuminated Things</em>
-date: 2016-2-10
+date: 2016-2-24
 author: Kate Palmer Albers
 thumbnail: Ross-Ho/RossHoInstall_MCA.jpg
 platform:
@@ -33,7 +33,7 @@ Even if you like the art itself, it’s easy to become cynical about viewer resp
 
 Ultimately what interests me in these examples, perhaps even more than the object on display or its image being shared, are the new configurations and possibilities of photographic scale, and the relationship between material objects and their image-based counterparts. By extension, I’m curious about the effects on how viewers—who are also implicated as producers—are learning how to look, how to see, based on these conceptualizations of materiality and scale. Though none of the projects named above are specifically photographic in the basic form of their physical manifestations, they are all deeply photographic as the response of a viewer is activated, and as they spread virally through immaterial (but entirely real) space.
 
-<figure class="figure-lg">
+<figure class="figure">
 	<img src="../assets/images/Ross-Ho/RossHoInstall_MCA.jpg" alt="" />
 	<figcaption>Amanda Ross-Ho, <em>The Character and Shape of Illuminated Things</em>, Museum of Contemporary Art, Chicago, 2013-2014
 
@@ -46,13 +46,18 @@ Los Angeles-based artist Amanda Ross-Ho’s 2013 piece *The Character and Shape 
 
 *The Character and Shape of Illuminated Things* has had two distinct physical iterations, and these iterations share a common (and ongoing) immaterial life. Ross-Ho initially realized the piece in 2013 as a [public sculpture commission](https://mcachicago.org/Exhibitions/2013/Amanda-Ross-Ho) for the Museum of Contemporary Art, Chicago, in the artist’s hometown. In the large-scale sculpture, Ross-Ho materialized a photographic illustration from a 1980s how-to instructional manual that sought to teach its readers about photographic lighting. It was presented as three separate sculptures accompanied by an oversized color correction card on MCA’s front plaza, the tallest component measuring some 25 feet in height. In 2015, the trio of sculptures was re-materialized (the original was destroyed upon de-installation) at a smaller scale in New York’s City Hall Park, as part of a [Public Art Fund](https://www.publicartfund.org/view/exhibitions/6079_image_objects) commission for the exhibition *Image Objects*. The color card nod to an analog era was replaced in this version with a green neon element referencing the facial recognition software installed on many smartphone cameras.
 
-SOMEWHERE HAVE FULL VIEW
+<figure class="figure-lg">
+	<img src="../assets/images/Ross-Ho/Ross_Ho_IlluminatedThings_generalview_Chicago.jpg" alt="" />
+	<figcaption>Amanda Ross-Ho, <em>The Character and Shape of Illuminated Things</em>, Museum of Contemporary Art, Chicago, 2013-2014. Courtesy the artist.
+
+	</figcaption>
+</figure>
 
 In both cases, the physical forms of the sculpture lived parallel lives online, largely via the shared hashtag #illuminatedthings, where an ongoing stream of individual viewers digitally enacted the premise and promise of the instructional photograph in the first place: as a blank slate of possibility for all the conditions of lighting and filters a photographer might encounter. Indeed, in both locations (Chicago and New York), the sculpture was subject not only to the naturally shifting outdoor lighting conditions of time of day and weather, but to the readily-at-hand filters and in-camera lighting and color effects available on all smart phone cameras. In other words, it was the viewing public that tested and produced the conditions set forth initially by the instructional manual, thereby moving a set of skills that once had to be explicitly learned by serious and aspiring photographers, into the vastly more ubiquitous province of any passer-by with an in-camera filter.
 
 <figure class="figure">
 	<img src="../assets/images/Ross-Ho/Illuminated_Things_grid.jpg" alt="" />
-	<figcaption>Audience submitted views of to Instagram feed #illuminatedthings, illustrating the effects of light and filters on Ross-Ho's sculpture
+	<figcaption>Audience submitted views to #illuminatedthings, illustrating the effects of light and filters on Ross-Ho's sculpture
 
 	</figcaption>
 </figure>
@@ -96,19 +101,25 @@ Artists [John Baldessari](http://collections.lacma.org/node/237769), [Piotr Ukla
 Despite the general perception that photography is getting easier with every passing software update, this same type of guidebook is [as](http://artofiphoneography.com/) [prevalent](http://www.chroniclebooks.com/titles/snapp-shots.html) [as](http://jenniferyoungstudio.com/categories/picture-perfect-social-media-author/) [ever](http://www.amazon.com/dp/1781579814/?tag=narwhal-20). And now, as the smartphones we use get smarter and more responsive with each generation, the camera itself can teach us how to use it, can anticipate what we want to see and what we want to record. These machines know, for the most part, that what we people like to photograph is other people’s faces.
 
 <figure class="figure-lg">
-	<img src="../assets/images/Ross-Ho/Ross-Ho_PublicArtFund.png" alt="" />
-	<figcaption>Amanda Ross-Ho, <em>The Character and Shape of Illuminated Things (Facial Recognition)</em>, City Hall Park, New York, 2015
+	<img src="../assets/images/Ross-Ho/Ross_Ho_Generalview_PAF.jpg" alt="" />
+	<figcaption>Amanda Ross-Ho, <em>The Character and Shape of Illuminated Things (Facial Recognition)</em>, City Hall Park, New York, 2015. Courtesy the artist.
 
 	</figcaption>
 </figure>
 
-BETTER IMAGE ABOVE
+
 The 2015 iteration of Ross-Ho’s sculpture, in New York’s City Hall Park, points us to a discrete form of this instruction: the automated facial recognition software built into most smartphone cameras. Our cameras can light up upon recognizing a human face, and automatically focus and determine the correspondingly suitable overall exposure for the image, knowing that what the photographer probably cares about most is seeing that face again later. Here, in full-circle effect, passers-by could enjoy the meta-experience of watching their cameras instruct them both to photograph their own faces alongside the sculptural ideal face—its character and shape now a literally illuminated thing—that had appeared on the page as its own instructional aid decades prior.
 
-ANOTHER IMAGE HERE
+<figure class="figure-pair">
+	<img src="../assets/images/Ross-Ho/RossHo_FacialRecognition_2.jpg" class="left" alt="Instagram, Levitated Mass" />
+  <img src="../assets/images/Ross-Ho/RossHo_FacialRecognition.jpg" class="right" alt="Instagram, Urban Light" />
+	<figcaption>
+Instagram posts collected by the artist. 
+	</figcaption>
+</figure>
 
 Like other large-scale artworks that produce an automatic impulse in viewers to perpetuate the immaterial image of those very physically-based works through the current networks of social distribution, Ross-Ho’s piece consciously participates in, and is enacted by, its audience—in a logical extension of the goals of public art. And yet it also does something more. *The Character and Shape of Illuminated Things*, through its multiple iterations, at once enables, produces, reflects, and reveals the reconfiguration of the habits and patterns of image creation, consumption, exchange, and storage, all while nodding both to the medium’s past and present popular appeal.  
 
 
 ### **Notes**
-All quotations are from a conversation with the artist, January 12, 2015.
+All quotations are from a conversation with the artist, Los Angeles, January 12, 2015.
