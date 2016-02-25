@@ -2,8 +2,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title }}: {{ site.subtitle }}</title>
-  <meta name="description" content="{{ site.description }}">
+  {% if page.category == "articles" %}
+  <title>{{ page.title | strip_html }}{% if page.subtitle %}: {{ page.subtitle | strip_html }}{% endif %} ({{ site.title }})</title>
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title | strip_html }}{% if page.subtitle %}: {{ page.subtitle | strip_html }}{% endif %}" />
+  <meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ page.thumbnail }}" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {% else %}<title>{{ site.title }}: {{ site.subtitle }}</title>
+  <meta name="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ site.baseurl }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {% for post in site.posts %}<meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ post.thumbnail }}" />
+  {% endfor %}{% endif %}
   <link rel="icon" href="{{ "/assets/images/system/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
   <link rel="stylesheet" href="{{ "/assets/css/calendas-plus-font.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/cooperhewitt-font.css" | prepend: site.baseurl }}">
@@ -20,6 +31,5 @@
 
   ga('create', 'UA-68312936-1', 'auto');
   ga('send', 'pageview');
-
-</script>
+  </script>
 </head>
