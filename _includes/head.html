@@ -8,7 +8,8 @@
   <meta property="og:title" content="{{ page.title | strip_html }}{% if page.subtitle %}: {{ page.subtitle | strip_html }}{% endif %}" />
   <meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ page.thumbnail }}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}" />
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta name="og:description" content="{{ page.date | | date: "%B %d, %Y" }} -- {{ page.excerpt | strip_html }}">
+  <meta property="og:site_name" content="{{ site.title }}: {{ site.subtitle }}" />
   {% else %}<title>{{ site.title }}: {{ site.subtitle }}</title>
   <meta name="og:description" content="{{ site.description }}">
   <meta property="og:url" content="{{ site.baseurl }}" />
