@@ -12,8 +12,8 @@
   <meta property="og:site_name" content="{{ site.title }}: {{ site.subtitle }}" />
   {% else %}<title>{{ site.title }}: {{ site.subtitle }}</title>
   <meta name="og:description" content="{{ site.description }}">
-  <meta property="og:url" content="{{ site.baseurl }}" />
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}" />
+  <meta property="og:site_name" content="{{ site.title }}: {{ site.subtitle }}" />
   {% for post in site.posts %}<meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ post.thumbnail }}" />
   {% endfor %}{% endif %}
   <link rel="icon" href="{{ "/assets/images/system/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
