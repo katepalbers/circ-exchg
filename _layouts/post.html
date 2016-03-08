@@ -7,25 +7,26 @@ layout: default
 		<h1>{{ page.title }}{% if page.subtitle %}:<br /> {{ page.subtitle }}{% endif %}</h1>
 		<hr />
 		<p><span class="date">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+		{% if previously_published %}<p><em>Previously published in {{ page.previously_published }}</em></p>{% endif %}
 	</header>
 
 	{{ content }}
 
 	<footer>
 		<p>Kate Palmer Albers, "{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}," in <em>Circulation|Exchange: Moving Images in Contemporary Art</em> ({{ page.date | date: "%B %-d, %Y" }}). {{ site.baseurl }}{{ page.url }}.</p>
-		{% if page.previously_published %} 
-			<p>Previously published in {{ page.previously_published }}</p>	
+		{% if page.previously_published %}
+			<p>Previously published in {{ page.previously_published }}</p>
 		{% endif %}
 		<p>Any updates or corrections to this article made after {{ page.date | date: "%B %-d, %Y" }}, are tracked in full in the GitHub repository for this project: <i class="fa fa-github"></i> <a href="https://github.com/katepalbers/circ-exchg/commits/gh-pages/_posts/{{ page.date | date: "%F" }}{{ page.url | replace:'/articles/','-' | replace:'.html','.md' }}">https://github.com/katepalbers/circ-exchg/commits/gh-pages/_posts/{{ page.date | date: "%F" }}{{ page.url | replace:'/articles/','-' | replace:'.html','.md' }}</a></p>
-	</footer>	
+	</footer>
 
   	<nav>
-		{% if page.next %} 
+		{% if page.next %}
 	    <div id="prev">
 	      <a href="{{ site.baseurl }}{{page.next.url}}"><i class="fa fa-chevron-circle-left"></i></a>
 	    </div>
 	    {% endif %}
-	    {% if page.previous %} 
+	    {% if page.previous %}
 	    <div id="next" >
 	      <a href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-chevron-circle-right"></i></a>
 	    </div>
