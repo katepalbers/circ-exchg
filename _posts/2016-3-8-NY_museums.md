@@ -14,10 +14,10 @@ On a visit to New York last month, I was struck by the different ways in which t
 
 Artists and curators alike are grappling with the relentless movement of photographic images in and through these multiple forms—whether that is conceived as “complex negotiations between the old order and the new networks that silently and invisibly shape individual and collective experience” (the Met); an argument that "'real-time looking' is closer to reading than the cursory scanning fostered by the clicking and swiping functionalities of smartphones and social media” (the Guggenheim); or that photography is “a field of experimentation and intellectual inquiry, where digital and analog, online and offline, virtual and real dimensions intersect” (MoMA).
 
-It’s difficult not to sense a degree of temptation to draw allegiances. But I remain most compelled by work—curatorial or artistic—that manages to set the seemingly contradictory modes of the photographic image into productive dialogue with one another, rather than disavowing one for the other. That said, it’s worth noting that the one object in all three shows that stopped me in my tracks and left me slack-jawed with visual appreciation was one that has almost nothing to do with this set of themes—and would be pointless to try to reproduce in print or on a screen: Miles Coolidge’s *Coal Seam, Bergwerk Prosper-Haniel #1*, a 2013 ink-jet print. [(And it's smart work, to boot.)](http://artillerymag.com/miles-coolidge/)
+It’s difficult not to sense a degree of temptation to draw allegiances. But I remain most compelled by work—curatorial or artistic—that manages to set the seemingly contradictory modes of the photographic image into productive dialogue with one another, rather than disavowing one for the other.[^1] 
 
 ## Reconstructions: Recent Photographs and Video from the Met Collection##
-[On view at the Metropolitan Museum of Art through March 13, 2016](http://www.metmuseum.org/exhibitions/listings/2015/reconstructions)
+On view at the Metropolitan Museum of Art through March 13, 2016
 
 <figure class="figure">
 	<img src="../assets/images/NYMuseums/Reconstructions.png" alt="" />
@@ -25,6 +25,8 @@ It’s difficult not to sense a degree of temptation to draw allegiances. But I 
 
 	</figcaption>
 </figure>
+
+Introductory exhibition wall text:
 
 *This installation, the thirteenth since the Joyce and Robert Menschel Hall for Modern Photography opened in 2007, is a snapshot—not comprehensive, but representative—of the collecting interests of the Department of Photographs through recently acquired works made by artists during the last seven years. The concept of reconstruction chimes with many of the works that may be seen, at least in part, as indirect responses to how perception and cognition are being remapped to accommodate our newly bifurcated existences—online and "in real life.”*
 
@@ -46,18 +48,20 @@ It’s difficult not to sense a degree of temptation to draw allegiances. But I 
 - Owen Kydd
 - Luis Úrculo
 
-*Organized by Doug Eklund*
+[*Organized by Doug Eklund*](http://www.metmuseum org/exhibitions/listings/2015/reconstructions)
 
 
 ## Photo-Poetics: An Anthology##
-[On view at the Guggenheim Museum through March 27, 2016](http://www.guggenheim.org/new-york/exhibitions/on-view/photo-poetics-an-anthology)
+On view at the Guggenheim Museum through March 27, 2016
 
-<figure class="figure">
+<figure class="figure-md">
 	<img src="../assets/images/NYMuseums/ex_Photo-Poetics-435.jpg" alt="" />
 	<figcaption>
 
 	</figcaption>
 </figure>
+
+Introductory exhibition wall text:
 
 *This exhibition features the work of ten contemporary artists who explore the medium of photography. The photographs, slide shows, videos, and film on view—poetic in form, concept, and tone—collectively document a development in art of the past decade.*
 
@@ -81,12 +85,12 @@ It’s difficult not to sense a degree of temptation to draw allegiances. But I 
 - Sara VanDerBeek.
  (and kudos to the curators for not pointing out the gender balance as a part of the exhibition’s organizational logic)
 
-*Organized by Jennifer Blessing and Susan Thompson*
+[*Organized by Jennifer Blessing and Susan Thompson*](http://www.guggenheim.org/new-york/exhibitions/on-view/photo-poetics-an-anthology)
 
 
 ## Ocean of Images: New Photography 2015##
 
-[On view at the Museum of Modern Art through March 20, 2016](http://www.moma.org/calendar/exhibitions/1539?locale=en)
+On view at the Museum of Modern Art through March 20, 2016
 
 <figure class="figure">
 	<img src="../assets/images/NYMuseums/Ocean_Images_CCCR.jpg" alt="" />
@@ -94,6 +98,8 @@ It’s difficult not to sense a degree of temptation to draw allegiances. But I 
 
 	</figcaption>
 </figure>
+
+Introductory exhibition wall text:
 
 *Since its inception in 1985, the New Photography series has introduced the work of one hundred artists from around the globe early in their careers, presenting some of the most creative practices and urgent ideas in contemporary image making. Celebrating the series’ thirtieth anniversary, this year’s expanded exhibition, Ocean of Images: New
 Photography 2015, focuses on connectivity, communication models, and the branding and circulation of images.*
@@ -125,7 +131,8 @@ Internet reality and the questions it raises about virality, image ownership, di
 - Indrė Šerpytytė
 - Lieko Shiga
 
-*Organized by Quentin Bajac, Roxana Marcoci, and Lucy Gallun*
+[*Organized by Quentin Bajac, Roxana Marcoci, and Lucy Gallun*](http://www.moma.org/calendar/exhibitions/1539?locale=en)
+
 
 
 ### **Notes**
@@ -137,3 +144,5 @@ Relevant reviews:
 - [Kathleen Caulderwood in *American Photo*](http://www.americanphotomag.com/photo-poetics-an-anthology-examines-role-photographic-object)
 - [Holland Cotter in the *New York Times*](http://www.nytimes.com/2015/12/04/arts/design/roots-of-conceptual-art-caught-by-a-cameras-eye.html)
 - [ Stanley Wolukau-Wanambwa on the *Aperture* blog](http://aperture.org/blog/review-photo-poetics-anthology/)
+
+[^1]: That said, it’s worth noting that the object—among all three shows—that literally stopped me in my tracks and left me slack-jawed with visual appreciation was one that has almost nothing to do with this set of themes—and would be pointless to try to reproduce in print or on a screen: Miles Coolidge’s *Coal Seam, Bergwerk Prosper-Haniel #1*, a 2013 ink-jet print. [(And it's smart work, to boot.)](http://artillerymag.com/miles-coolidge/)
