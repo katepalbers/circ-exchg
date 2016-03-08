@@ -53,7 +53,7 @@ It’s difficult not to sense a degree of temptation to draw allegiances. But I 
 [On view at the Guggenheim Museum through March 27, 2016](http://www.guggenheim.org/new-york/exhibitions/on-view/photo-poetics-an-anthology)
 
 <figure class="figure">
-	<img src="../assets/images/NYMuseums/guggenheim.jpg" alt="" />
+	<img src="../assets/images/NYMuseums/ex_Photo-Poetics-435.jpg" alt="" />
 	<figcaption>
 
 	</figcaption>
