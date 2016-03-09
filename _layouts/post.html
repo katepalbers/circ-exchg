@@ -7,7 +7,7 @@ layout: default
 		<h1>{{ page.title }}{% if page.subtitle %}:<br /> {{ page.subtitle }}{% endif %}</h1>
 		<hr />
 		<p><span class="date">{{ page.date | date: "%B %-d, %Y" }}</span></p>
-		{% if previously_published %}<p><em>Previously published in {{ page.previously_published }}</em></p>{% endif %}
+		{% if page.previously_published %}<p><em>Previously published in {{ page.previously_published }}</em></p>{% endif %}
 	</header>
 
 	{{ content }}
