@@ -91,22 +91,6 @@ When we did the billboards in Atlanta and fence in Brooklyn, I was very much thi
 
 With the fence in Brooklyn, there was also something interesting about the physical object at ground level. When I first saw it installed, one of the first interactions was seeing a dog lift their leg and pee on it. There were also various things written on it after it had been installed – someone took it upon themselves to add a commentary to our artist statement. That to me seemed an especially poignant translation point, online chatter to physical object to anonymous chatter written on a physical object. I rather enjoyed dropping in on the piece on different trips to NY, and just observing people stopping to look (or not) as they went about their daily routines.
 
-
-
-<!-- <figure class="figure">
-	<img src="../assets/images/Geolocation_interview/DumboInstall.jpg" alt="" />
-	<figcaption>
-
-	</figcaption>
-</figure>
-
-<figure class="figure">
-	<img src="../assets/images/Geolocation_interview/ATL-Billboard.jpg" alt="" />
-	<figcaption>
-
-	</figcaption>
-</figure> -->
-
 **KPA**
 That’s a pretty interesting connection between tweets and what sounds more like graffiti.
 Marni, I like this idea of art you can curl up with. That’s a good category. I know you mean in the sense of curling up with a book, but I think we also curl up with our phones. I would be happy to see more art on my phone that I could curl up with—it would be way more satisfying than scrolling through Twitter. To me this gets at a question of thinking about the spaces we have to view art, or to encounter meaningful visual content—so it’s useful, for me, to think about your work in terms of how public and/or collective that viewing space is, in relation to how private and/or individual the originally expressed thought may have been. I suppose that thinking about any tweet as “private” is a little absurd, and yet there’s a real sense, as a viewer and, presumably as artists, of an invasion of privacy in this work.
@@ -159,8 +143,6 @@ Tell me about your new project *Safe Trade*.
 **NL**
 We started photographing for the project in the fall, after the University of Georgia set up a parking lot with surveillance cameras for people to conduct Craigslist transactions. I sell a lot of odds and ends on Craigslist, so I could appreciate this—I usually meet people at fast food restaurants because I’m not comfortable having strangers in my home. We kept thinking about these sites as a very peculiar way that the Internet intersects real life—that moment when you sell a ten-year old vacuum filled with lint from your home to a stranger in a Dunkin’ Donuts parking lot. For ten dollars. Thinking about the strangeness of this led us to start this new series. [A small selection of them are on our website](http://www.larson-shindelman.com/safe-trade) as a “soft lauch” but the project is still developing and leading us to some interesting sites and interactions.
 
-
-
 <figure class="figure-lg">
 	<img src="../assets/images/Geolocation_interview/misshowthingswere.jpg" alt="" />
 	<figcaption>
@@ -174,24 +156,6 @@ We started photographing for the project in the fall, after the University of Ge
 
 	</figcaption>
 </figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [*Read my short essay for the book **Geolocation** here.*](geolocation_essay.html)
 

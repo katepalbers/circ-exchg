@@ -14,8 +14,6 @@ theme:
 
 *Along with [a conversation we had about the series](geolocation_conversation.html), I contributed this short essay to their book. I'm happy to share it here, along with a selection of the images I was asked to write about.*
 
-
-
 <figure class="figure-lg">
 	<img src="../assets/images/Geolocation_book/notsurehowIfeelaboutit.jpg" alt="" />
 	<figcaption>
@@ -36,8 +34,6 @@ theme:
 
 	</figcaption>
 </figure>
-
-
 
 Uncertainty, hesitation, confusion, fear, vanity, lack of control, yearning… desire to connect, ambivalence about connecting, desire to disappear. All of these emotions and states of being appear in Nate Larson and Marni Shindelman’s series *Geolocation*, forming, in this sequence, an experiential core of the still-nascent reconfiguration of our human relationships in an age of Twitter and, more broadly, geolocated social media. “Where are you?” we ask, when we call someone on a mobile phone. But more and more often, our phones already know, and broadcast—or at least record—our location, our perpetually updated place of existence.
 
@@ -72,27 +68,6 @@ In a series of otherwise unremarkable places, day after day, at all hours, we wo
 
 *wish you were tweeting about me*
 
-
-
-
-
-
-
-
-
-<!-- <figure class="figure-lg">
-	<img src="../assets/images/Geolocation_book/forgettohitsend.jpg" alt="" />
-	<figcaption>
-
-	</figcaption>
-</figure>
-
-<figure class="figure-lg">
-	<img src="../assets/images/Geolocation_book/airport_payphone.jpg" alt="" />
-	<figcaption>
-
-	</figcaption>
-</figure> -->
 
 
 <figure class="figure-lg">
