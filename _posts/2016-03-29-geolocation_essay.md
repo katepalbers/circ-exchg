@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: wish you were tweeting about me
 subtitle: on Nate Larson & Marni Shindelman's "Geolocation"
-date: 2016-03-29 12:00:00
+date: 2016-03-29
 author: Kate Palmer Albers
 thumbnail: Geolocation_book/Geolocation_book.jpg
 platform:
