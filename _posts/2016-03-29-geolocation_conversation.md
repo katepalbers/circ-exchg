@@ -5,7 +5,7 @@ title: Geolocation
 subtitle: A Conversation
 date: 2016-03-29 12:01:00
 author: Kate Palmer Albers
-thumbnail: Geolocation_Interview/WorthTheWait.jpg
+thumbnail: Geolocation_interview/WorthTheWait.jpg
 platform:
 theme:
 ---
