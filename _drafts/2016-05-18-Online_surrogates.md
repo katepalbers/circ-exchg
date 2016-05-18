@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: Becoming a Stock Image, and other Surrogates for the Online Self
 subtitle: 
-date: 2016-05-19
+date: 2016-05-18
 author: Kate Palmer Albers
 thumbnail: Horvitz/Horvitz_Mood_disorder.jpg
 platform: 
@@ -34,7 +34,7 @@ The easy and fluid movement of images online, from one immaterial context to ano
 
 <figure class="figure-sm">
 	<img src="../assets/images/Horvitz/Horvitz_Mood_disorder.jpg" alt="" />
-	<figcaption>David Horvitz, "Mood Disorder". 
+	<figcaption>David Horvitz, "Mood Disorder," 2014 
 
 	</figcaption> 
 </figure>
@@ -43,7 +43,7 @@ In 2014, the artist David Horvitz made a photograph of himself portraying a visu
 
 <figure class="figure-sm">
 	<img src="../assets/images/Horvitz/Ader_too_sad.jpg" alt="" />
-	<figcaption>Bas Jan Ader, I'm Too Sad to Tell You, 1971
+	<figcaption>Bas Jan Ader, "I'm Too Sad to Tell You," 1971
 
 	</figcaption> 
 </figure>
@@ -54,7 +54,7 @@ But unlike Ader’s direct confessional, which strikes a heartfelt tone, Horvitz
 
 <figure class="figure">
 	<img src="../assets/images/Horvitz/Mood_Disorder_Wikipedia_2.jpg" alt="" />
-	<figcaption>Wikipedia page for Mood Disorder, c 2014
+	<figcaption>Wikipedia page for Mood Disorder, c. 2014
 
 	</figcaption> 
 </figure>
@@ -94,7 +94,7 @@ It is worth noting that the offending “Mood Disorder” photograph is [archive
 
 <figure class="figure">
 	<img src="../assets/images/Horvitz/Montimurro_Deleting_Horvitz_2015.jpg" alt="" />
-	<figcaption>Sabrina Montimurro, Deleting David Horvitz, 2015
+	<figcaption>Sabrina Montimurro, "Deleting David Horvitz," 2015
 
 	</figcaption> 
 </figure>
