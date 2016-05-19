@@ -5,7 +5,7 @@ title: About Writing Online
 subtitle: Questions from Creative Capital
 date: 2016-05-11
 author: Kate Palmer Albers
-thumbnail: 
+thumbnail:
 platform:
 theme:
 ---
@@ -18,10 +18,10 @@ This site and the kind of experimenting it has allowed me is made possible, in l
 >
 > - that is rigorous, passionate, eloquent, and precise;
 > - in which a keen engagement with the present is infused with an appreciation of the historical;
->  - that is neither afraid to take a stand nor content to deliver authoritative pronouncements, but serves rather to pose questions and generate new possibilities for thinking about, seeing, and making art;
->  - that is sensitive to both the importance and difficulty of situating aesthetic objects within their broader social and political contexts;
->  - that does not dilute or sidestep complex ideas but renders accessible their meaning and value;
->  - that creatively challenges the limits of existing conventions without valorizing novelty as an end in itself.
+> - that is neither afraid to take a stand nor content to deliver authoritative pronouncements, but serves rather to pose questions and generate new possibilities for thinking about, seeing, and making art;
+> - that is sensitive to both the importance and difficulty of situating aesthetic objects within their broader social and political contexts;
+> - that does not dilute or sidestep complex ideas but renders accessible their meaning and value;
+> - that creatively challenges the limits of existing conventions without valorizing novelty as an end in itself.
 
 Applications for the 2016 grant cycle [are now open](http://www.artswriters.org/application/), but close May 18. I hope some of my peers will apply, and I look forward to seeing what new digital arts writing and publishing projects might come out from this initiative in the future.
 
@@ -50,4 +50,3 @@ With that in mind, I don’t think that calling something a blog is a particular
 I’ve digressed a bit here from your question, but it allows me to articulate what I would like to see more of, which is the level of engagement, knowledge, and passion that I see from so many of my museum and academic colleagues, but that is so hidden from a wider audience, behind scholarly journal paywalls and within museum archives. I think that’s something that the AWG in particular really helped me understand, and having that support – the validation, I suppose – fuels my conviction that there could be a much more robust level of online and easily share-able conversation within the academic and museum communities and others who are so knowledgeable about art and also often such good writers.
 
 So to circle back to the question you actually asked: I’m less interested in seeing blogs sustained as a distinct form (whatever one understands a “blog” to be) and more interested in seeing platforms evolve to attract, accommodate, and distribute a range of voices in arts writing that are not currently well represented online.
-
