@@ -90,7 +90,7 @@ Whether or not Horvitz uploaded this image as well hardly matters: the more inte
 
 ##### 6.
 
-It is worth noting that the offending “Mood Disorder” photograph is [archived](https://en.wikipedia.org/wiki/Talk:David_Horvitz#This_artist_featured_in_mood_disorder_article) on the website’s editorial talk boards. So, too, for that matter, is Horvitz's expressed wish to delete his own Wikipedia page—a wish that has been commemorated in the form of a fixed material life by the designer [Sabrina Montimurro](http://newmedia.merz-akademie.de/~sabrina.montimurro/portfolio1/deleting-david-horvitz/), working with Paul Soulellis.[^2]
+It is worth noting that the offending “Mood Disorder” photograph is [archived](https://en.wikipedia.org/wiki/Talk:David_Horvitz#This_artist_featured_in_mood_disorder_article) on the website’s editorial talk boards. So, too, for that matter, is Horvitz's expressed wish to delete his own Wikipedia page—a wish that has been commemorated in the form of a fixed material life by another artist, Sabrina Montimurro, [working with Paul Soullelis](http://newmedia.merz-akademie.de/~sabrina.montimurro/portfolio1/deleting-david-horvitz/). 
 
 <figure class="figure">
 	<img src="../assets/images/Horvitz/Montimurro_Deleting_Horvitz_2015.jpg" alt="" />
@@ -114,7 +114,6 @@ Of course, Horvitz and Elahi are artists, so ultimately, if known, their gesture
 
 ##### Notes
 [^1]: David Horvitz with Ed Steck, *Public Access* (2012). The self-published book emerged from a commission by San Francisco Camerawork for their exhibition *As Yet Untitled: Artists and Writers in Collaboration* (2011) and is available in modified form as a [freely downloadable PDF](https://rhizome.org/editorial/2011/feb/18/something-fishy-pelican-state-beach/). 
-[^2]: Horvitz, too, produced a zine with Franklin Street Works that documented, among other things, the archived debate about deleting the page.
 
 
 
