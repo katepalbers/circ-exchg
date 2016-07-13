@@ -3,7 +3,7 @@ layout: page
 title: "Download"
 subtitle:
 ---
-### The complete PDF version of <em>Circulation&thinsp;\|&thinsp;Exchange</em>. Regularly updated; last on {{ 'now' | timezone: 'Pacific' | date: "%F" }}. Approximately 10.3MB.
+### The complete PDF version of <em>Circulation&thinsp;\|&thinsp;Exchange</em>. Regularly updated; last on {{ 'now' | timezone: 'Pacific' | date: "%F" }}. Approximately 10.7MB.
 
 ### Individual PDFs are available to download at the end of each essay.
 
