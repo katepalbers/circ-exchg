@@ -105,7 +105,8 @@
 		background-color: #fff;
 		font-size: 13pt;
 	}
-	.banner, #prev, #next {
+	.banner, #prev, #next,
+	.article-download {
 		display: none;
 	}
 	article {
@@ -122,7 +123,7 @@
 	}
 	h1 {
 		font-family: CooperHewitt_Light;
-		font-size: 48pt;
+		font-size: 36pt;
 	}
 	h1 em {
 		font-family: CooperHewitt_LightItalic;
