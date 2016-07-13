@@ -536,11 +536,18 @@ article footer {
 article footer em {
 	font-family: CooperHewitt_BookItalic;
 }
+article footer strong {
+	font-family: CooperHewitt_Medium;
+}
 article footer p {
 	margin-left: 0;
 }
 article footer img {
 	max-width: 100%;
+}
+
+article footer .fa {
+  margin-right: .25em;
 }
 
 /*
