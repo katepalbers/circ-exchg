@@ -4,8 +4,13 @@ category: articles
 title: A Conversation with Paul Soulellis
 date: 2016-07-21
 author: Kate Palmer Albers
+<<<<<<< Updated upstream
 thumbnail: placekitten.jpg
 platform:
+=======
+thumbnail: Soulellis_conversation/PW_ICP_Installation_copy2.jpg
+platform: 
+>>>>>>> Stashed changes
 theme:
 ---
 
@@ -71,7 +76,7 @@ At that point I began to imagine how an artist’s publication might occupy mult
 <figure class="figure">
 	<img src="../assets/images/Soulellis_conversation/Horvitz_MoMA.jpg" alt="So cute!" />
 	<figcaption>
-	"Mood Disorder" by David Horvitz on view at the Museum of Modern Art in Ocean of Images
+	"Mood Disorder" by David Horvitz on view at the Museum of Modern Art in Ocean of Images, 2016
 	</figcaption>
 </figure>
 
@@ -110,7 +115,11 @@ Right now, *Printed Web #2* (2014) is included in a small show at MoMA Library o
 </figure>
 
 
+<<<<<<< Updated upstream
 **KPA:** Your phrase “poor media" makes me think of [Hito Steyerl’s “In Defense of the Poor Image”](http://www.e-flux.com/journal/in-defense-of-the-poor-image/) and what she’s articulated about how we might value the qualities of degraded, corrupt, low-res, or otherwise seemingly compromised forms of images -- images with which, as she puts it, “one might imagine another form of value defined by velocity, intensity, and spread.” Steyerl covers a lot in that essay, and I’m certainly sympathetic with what I take as the central impulse of it. So what I wonder is how you see the relationship between poor images (which I understand to be -- within the context of Steyerl's essay, anyway -- always immaterial) and poor media, which I understand in your use above as perhaps a material extension of a related value system.
+=======
+**KPA:** The phrase “poor media" makes me think of [Hito Steyerl’s “In Defense of the Poor Image”](http://www.e-flux.com/journal/in-defense-of-the-poor-image/) and what she’s articulated about how we might value the qualities of degraded, corrupt, low-res, or otherwise seemingly compromised forms of images -- images with which, as she puts it, “one might imagine another form of value defined by velocity, intensity, and spread.” Steyerl covers a lot in that essay, and I’m certainly sympathetic with what I take as the central impulse of it. So what I wonder is how you see the relationship between poor images (which I understand to be -- within the context of Steyerl's essay, anyway -- always immaterial) and poor media, which I understand in your use above as perhaps a material extension of a related value system. 
+>>>>>>> Stashed changes
 
 **PS:** My use of the phrase “poor media” comes directly from Silvio Lorusso’s [“Digital Publishing: In Defense of Poor Media,”](http://silviolorusso.com/digital-publishing-in-defense-of-poor-media/) published on his own website as well as in *Printed Web #3* (2015). Silvio begins with Steyerl’s ideas about the poor image as loss of resolution and applies them directly to different modalities in digital publishing, like the PDF and print-on-demand. He says that poor media is “characterized by the conscious, serene renunciation of embellishments in favor of accessibility and spread.” For me this is best articulated by contrasting the high-end photobook with something like a cheap print-on-demand zine. Both contain images that have been printed on paper, but the social, commercial (and perhaps cultural?) implications are radically different. Silvio’s text has become a bit like a manifesto for my Printed Web project.  
 
