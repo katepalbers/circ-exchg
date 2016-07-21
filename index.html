@@ -21,8 +21,10 @@ layout: default
 
         {% if post.title.size >= 42 %}
           {% capture full_title %}{{ post.title }}{% endcapture %}
+        {% elsif post.subtitle %}
+          {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}   
         {% else %}
-          {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}
+          {% capture full_title %}{{ post.title }}{% endcapture %} 
         {% endif %}
 
         <li>
