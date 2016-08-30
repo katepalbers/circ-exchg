@@ -21,7 +21,7 @@ Gmail, Yahoo email, work email, school email…
 OKCupid, eHarmony, Match, Tinder, Grindr…
 Tumblr, Wordpress, Pinterest…
 And what about Amazon! I really do feel like Amazon knows me – how many times have their suggestions, generated from my purchasing history, been so right on? 
-There were more but honestly I don’t remember them all. Her point was, our personal data – our words, our photographs, our videos, our financial information – it’s everywhere, dispersed over networks, entrusted to corporations, backed up in “the cloud” but, at the same time, totally out of our hands, completely vulnerable. (I thought about making a joke about how they handle Snapchat accounts – it seemed the wrong mood, though.)
+There were more but honestly I don’t remember them all. Her point was, our personal data – our words, our photographs, our videos, our preferences and tastes, our financial information – it’s everywhere, dispersed over networks, entrusted to corporations, backed up in “the cloud” but, at the same time, totally out of our hands, completely vulnerable. (I thought about making a joke about how they handle Snapchat accounts – it seemed the wrong mood, though.)
 
 So this is where it got interesting. She proposed three options for our digital remains (that’s right, our “digital remains”…. what a term, huh? She had our attention.) They were: continuation, deletion, or memorialization.
 
@@ -32,7 +32,7 @@ Ugh.
 
 Okay. Well, the last option was memorialization. They were really selling this one. I guess [the guy who founded the Hereafter Institute](http://www.gabebc.com/) is most excited about these options. In fact, he came in to the presentation at this point, and told us about all his ideas himself. Charming guy, really persuasive – brimming with ideas and enthusiasm. It was infectious. (No mean feat, given the subject matter.) A sleek, black memorial plinth that plays – and displays – all my tweets, ever, (or yours) from a custom LP. A virtual reality experience in which my 3D body scan combines with recordings of my voice and an illusion is built around me in my favorite place – so, for example, they could take photos of Echo Lake and generate its virtual version, and you could visit me talking about my favorite artists or the book I last read. There was also a wearable necklace – bulky, but pretty good looking all in all -- that played uploaded videos on shuffle. This would be great for you, it could be all your Vines and gifs and little videos on Instagram, but also videos from our phones. It’s like an old nineteenth century Victorian locket, updated. 
 
-Anyway, dear, it gave me a lot to think about. You should think about it, too. I’d suggest we make an appointment for a consultation, when you’re back in town, but it was just a two-day opportunity. But [here’s their website](http://www.hereafterinstitute.com/). Take a look. As our guide said at the very end of the presentation, “We won’t live forever. But our data will.”
+Anyway, dear, it gave me a lot to think about. You should think about it, too. I’d suggest we make an appointment for a consultation, when you’re back in town, but it was just a two-day opportunity. But [here’s their website](http://www.hereafterinstitute.com/). Take a look. As the guide said at the very end of the presentation, “We won’t live forever. But our data will.”
 
 Love, Violet
 
