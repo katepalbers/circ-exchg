@@ -64,7 +64,7 @@ If there is a unity to the identity of photography, it is, as Peter Osborne has 
 
 **DF:** Certainly it would be possible to construct one – and it would date back to the 1840s. I’m interested in thinking about the way the algorithmic is already present within analogue histories – I’ve just begun to work on a project that explores the potential of nineteenth-century photography as a proto-cybernetic form, a mode of visual production that in some sense anticipates our current post-photographic condition. There’s a wonderful phrase from Vilém Flusser in his *Towards a Philosophy of Photography* (1983) where he suggests that ‘the invention of photography will prove to be the point at which all cultural phenomena started to replace the linear structure of sliding with the staccato structure of programmed combinations’ – it’s so suggestive! His idea of the camera as a programmed apparatus (he means this in an institutional sense), which may or may not be subverted by its operator, is nothing if not relevant today. For me, this points to the excitement of early photography – a revolutionary transition deeply embedded in problems of human freedom.
 
-<figure class="figure">
+<figure class="figure-lg">
 	<img src="../assets/images/Forbes_Fotomuseum/Kurokawa_Sirens.jpg" alt="So cute!" />
 	<figcaption>
 	Ryoichi Kurokawa, Sirens, 2013, film still, HD-video, © Ryoichi Kurokawa/Novi_sad
@@ -99,7 +99,7 @@ For any museum interested in contemporary photography this poses considerable ch
 
 **DF:** The work is highly diverse and it’s hard to isolate specific characteristics – interested readers can run through the clusters online. We’ve made a strong commitment to the distributive identity of the photographic, building a state-of-the-art projection space and showing films by artists such as Ryan Trecartin, Ryoichi Kurokawa, Mario Pfeifer and Nicolas Maigret. Other artists such as Maryam Jafri and Oskar Schmidt engage with transformations in the photographic archive. There have been net-based projects – David Horvitz, Eva and Franco Mattes, Kasia Klimpel, Tabita Rezaire – as well as artists who offer historical interrogation such as Experimental Jetset. We’ve also attempted to engage post-photographically as curators, assembling, for example, SITUATIONS comprised of screen shots or curating material directly from the Internet. I guess if there is one key characteristic it is that much of this work is conceptually charged, offering a kind of mapping of our post-photographic condition. I don’t think this is just a curatorial fad. The complexity of the post-photographic demands qualities of abstraction in order to draw out meaning that is resonant in aesthetic and political terms – a major question for the training of young photographers today.
 
-<figure class="figure">
+<figure class="figure-lg">
 	<img src="../assets/images/Forbes_Fotomuseum/Pfeifer_Approximation.jpg" alt="So cute!" />
 	<figcaption>
 	Mario Pfeifer, Approximation in the Digital Age to a Humanity Condemned to Disappear, 2014-15, installation view, 4K Cinema transferred to HD video, © Mario Pfeifer
@@ -131,7 +131,7 @@ And of course there are artists doing this. We are about to stage James N. Kieni
 
 *Our conversation took place in Google Docs from August 22 – September 11, 2016. All images are courtesy Fotomuseum Winterthur.*
 
-[^1]: I was a nominator. 
+[^1]: Full disclosure: I was one of twenty-three nominators for this prize. 
 
 
 
