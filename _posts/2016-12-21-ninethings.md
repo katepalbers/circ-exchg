@@ -10,7 +10,7 @@ platform:
 theme:
 ---
 
-In 2015, I wrote [a year-end list](http://circulationexchange.org/articles/tenthings.html) of ten things I liked in photography—the only caveat was that none of the items be photobooks or exhibitions, both categories that are clearly—even exceptionally—well-covered elsewhere. 
+In 2015, I wrote [a year-end list](http://circulationexchange.org/articles/tenthings.html) of ten things I liked in photography—my only rule was that none of the items be photobooks or exhibitions, both categories that are clearly—even exceptionally—well-covered elsewhere. 
 As I wrote then:  another way for photography to come into your hands or into your view—to find you where you are and offer a unique viewing experience—is to arrive on a nearby screen, like the ones in your pockets and on your desks. These closely held, frequently-accessed, and highly personal viewing spaces are often overlooked as viable creative—and, I would now add—scholarly realms. So, as my contribution to more expansive list-making in matters of photography, this list is a shout out to a few of those moments of meaningful content and engagement that found their way (mostly) straight to me in 2016.
 
 ##### 1 + 2. Veteranes and Rucas + Rhizome’s Webrecorder
