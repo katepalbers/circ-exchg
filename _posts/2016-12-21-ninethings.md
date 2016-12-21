@@ -13,7 +13,7 @@ theme:
 In 2015, I wrote [a year-end list](http://circulationexchange.org/articles/tenthings.html) of ten things I liked in photography—my only rule was that none of the items be photobooks or exhibitions, both categories that are clearly—even exceptionally—well-covered elsewhere. 
 As I wrote then:  another way for photography to come into your hands or into your view—to find you where you are and offer a unique viewing experience—is to arrive on a nearby screen, like the ones in your pockets and on your desks. These closely held, frequently-accessed, and highly personal viewing spaces are often overlooked as viable creative—and, I would now add—scholarly realms. So, as my contribution to more expansive list-making in matters of photography, this list is a shout out to a few of those moments of meaningful content and engagement that found their way (mostly) straight to me in 2016.
 
-##### 1 + 2. Veteranes and Rucas + Rhizome’s Webrecorder
+##### 1 + 2. Veteranas and Rucas + Rhizome’s Webrecorder
 <figure class="figure">
 	<img src="../assets/images/NineFavorite/V_R_screenshot.png" alt="Veteranes_and_rucas instagram" />
 	<figcaption> 
@@ -64,7 +64,7 @@ Beginners can familiarize themselves with MoMA’s [most](https://www.moma.org/c
 
 **5b.** *Honorable mention in this category:*
 
-Princeton University Art Museum's [Minor White Archive](http://artmuseum.princeton.edu/minor-white-archive), launched online in October. Admirably, both the MoMA and White archives were made public as "works in progress", meaning that the institutions have opened up a substational degree of material but work is ongoing, and new material will continue to be added. 
+Princeton University Art Museum's [Minor White Archive](http://artmuseum.princeton.edu/minor-white-archive), launched online in October. Admirably, both the MoMA and White archives were made public as "works in progress", meaning that the institutions have opened up a substantial degree of material but work is ongoing, and new material will continue to be added. 
 
 ##### 6. Photography as Live Event: Cassils’ *Becoming an Image*
 
