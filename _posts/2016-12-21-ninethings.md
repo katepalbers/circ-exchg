@@ -131,7 +131,7 @@ Okay, #9 is a real cheat on my list of favorites, because not only did I learn a
 The [*Tapered Throne*](http://taperedthrone.com/) GIF series updates a traditional documentary photography aesthetic and beautifully translates the quiet subtleties of life inside the many African-American owned barber shops in Tauszik’s hometown of Oakland, CA. The short loops, painstakingly crafted from sometimes hundreds of individual frames, manage to slow time and provide a poignant view of this community. Looking at them again nearly a year after I first saw them, I find I’m most compelled by the loops in which almost nothing happens. 
 
 <figure class="figure-md">
-	<img src="../assets/images/NineFavorite/Tauszik_window.gif" alt="Tauszik window" />
+	<img src="../assets/images/NineFavorite/tauszik_window_non_margin.gif" alt="Tauszik window" />
 	<figcaption> 
 		
 	</figcaption>
