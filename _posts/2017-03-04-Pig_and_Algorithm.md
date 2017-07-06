@@ -6,7 +6,7 @@ subtitle:
 date: 2017-03-04
 author: Kate Palmer Albers
 thumbnail: Pig_Algorithm/Norfleet_Champion_Pig_cover.jpg
-previously_published: "<a href='http://www.plot.online/plot/points/the-pig-and-the-algorithm/' target='_blank'><em>PLOT</em></a>, P #16 (March 4, 1017)."
+previously_published: "<a href='http://www.plot.online/plot/points/the-pig-and-the-algorithm/' target='_blank'><em>PLOT</em></a>, P #16 (March 4, 2017)."
 platform: 
 theme:
 ---
