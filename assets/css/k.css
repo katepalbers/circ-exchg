@@ -590,6 +590,12 @@ MailChimp Form
 	-moz-appearance: none;
 }
 
+/* hide download link for this one post */
+
+#schematic-traces .article-download {
+  display: none;
+}
+
 /*
 @media queries
 */
