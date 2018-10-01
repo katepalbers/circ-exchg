@@ -60,5 +60,5 @@ I am happy to have a chapter in the book, **"Default Delete: Photographic Archiv
 >Chang suggests a shift in our understanding of where the importance of photographs lies: in our minds, with the object, or in the image. By extension, the viewer may also wonder which, if any, of the billions of photographs made on a daily basis in our culture do we want or need to last. More fundamentally, though, the series challenges the notion that a photograph’s value is equivalent to that of the image it presents.  Importantly, Chang’s images have two primary modes of existence: first, in the period of their visibility, and second in their “monochrome period.” Of the former, the scholar Walter Benn Michaels notes: “There is an important sense in which you don’t simply look at these photographs, you watch what they’re doing; it’s a kind of performance.”  And, like a live performance, it is ephemeral.
 
 *************
-**If you'd like to read the rest, here's a [pdf](assets/pdfs/defaultdelete.pdf).**
+**If you'd like to read the rest, here's a [pdf](http://circulationexchange.org/assets/pdfs/defaultdelete.pdf).**
 
