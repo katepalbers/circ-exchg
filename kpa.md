@@ -55,12 +55,12 @@ Albers has an ongoing interests, as well, in the intersection of photography, ge
 - “Schematic Traces: Systems of Making”, chapter in [*Constructed: The Contemporary History of the Constructed Image in Photography Since 1990*](https://www.taylorfrancis.com/books/e/9781317299110), eds. Marni Shindelman and Anne Massoni (Routledge, 2018). Addresses the work of Ed Ruscha, James Bridle, Mishka Henner, Taryn Simon & Aaron Swartz, Dina Kelberman, Hasan Elahi, Miranda July & Paul Ford, and The Hereafter Institute.
 - “Default Delete: Photographic Archives in a Digital Age”, chapter in [*Photography & Failure*](https://www.bloomsbury.com/us/photography-and-failure-9781474293402/), Kris Belden-Adams, ed. (Bloomsbury, 2016)
 - “Accessing the Landscape: Photography, Technology and Place Today” in Hans Hedberg, Gunilla Knape, Tyrone Martinsson, and Louise Wolthers, eds., [*Broken: Environmental Photography*](https://www.photoeye.com/bookstore/citation.cfm?catalog=IB531&i=&i2=9789198087468) (Gothenburg, Sweden: Photography at Valand Academy, University of Gothenburg / Hasselblad Foundation and Art and Theory, 2014), 15-33. Projects include Nate Larson & Marni Shindelman, Bruce Myren, and the Degree Confluence Project.
-- [“Unseen Images: Gigapixel Photography and its Viewers,”](/assets/pdfs/Albers_Unseen_Images_2014.pdf) *Photographies* special issue on “Surveillance and Place” (published online April 7, 2014; print edition followed)
-- [“Abundant Images and the Collective Sublime,”](/assets/pdfs/Albers_Abundant_Images_2013_compressed.pdf) *Exposure* 46:2 (Fall 2013), 4-14. Artists include Penelope Umbrico, Gerhard Richter, Erik Kessels, Noah Kalina, Jamie Livingston, Nick Nixon, and Mark Klett & Byron Wolfe.
-- [“It’s Not an Archive”: Christian Boltanksi’s Les Archives de C.B. 1965-1988”](/assets/pdfs/Albers_Boltanski_2011.pdf) *Visual Resources* 27:3 (August 2011), 249-266.
-- [“Cartographic Postings: GPS, Photography, and Landscape”](/assets/pdfs/Albers_CartographicPostings.pdf) *Afterimage: The Journal of Media Arts and Cultural Criticism* (March/April 2010). Artists include Andrew Freeman and Frank Gohlke.
+- [“Unseen Images: Gigapixel Photography and its Viewers,”](http://circulationexchange.org/assets/pdfs/Albers_Unseen_Images_2014.pdf) *Photographies* special issue on “Surveillance and Place” (published online April 7, 2014; print edition followed)
+- [“Abundant Images and the Collective Sublime,”](http://circulationexchange.org/assets/pdfs/Albers_Abundant_Images_2013_compressed.pdf) *Exposure* 46:2 (Fall 2013), 4-14. Artists include Penelope Umbrico, Gerhard Richter, Erik Kessels, Noah Kalina, Jamie Livingston, Nick Nixon, and Mark Klett & Byron Wolfe.
+- [“It’s Not an Archive”: Christian Boltanksi’s Les Archives de C.B. 1965-1988”](http://circulationexchange.org/assets/pdfs/Albers_Boltanski_2011.pdf) *Visual Resources* 27:3 (August 2011), 249-266.
+- [“Cartographic Postings: GPS, Photography, and Landscape”](http://circulationexchange.org/assets/pdfs/Albers_CartographicPostings.pdf) *Afterimage: The Journal of Media Arts and Cultural Criticism* (March/April 2010). Artists include Andrew Freeman and Frank Gohlke.
 
 ---
 
-**[Full CV](/assets/pdfs/Albers_CV_2018.pdf)**  (updated September 2018)
+**[Full CV](http://circulationexchange.org/assets/pdfs/Albers_CV_2018.pdf)**  (updated September 2018)
 
