@@ -5,7 +5,7 @@ title: Art highlights of 2018
 subtitle: 
 date: 2019-01-09
 author: Kate Palmer Albers
-thumbnail: 
+thumbnail: 2018List/12.Hugar_Chloe.jpg
 platform: 
 theme:
 ---
