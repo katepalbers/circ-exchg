@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: Hiding in Plain Sight
 subtitle: Mistakes, Mishaps, and Possibility in Algorithmic Vision
-date: 2019-01-11
+date: 2019-01-14
 author: Kate Palmer Albers
 thumbnail: HidingPlain/Albdorf_RememberWhenIMadeThisForYou.jpg
 platform: 
