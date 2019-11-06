@@ -3,7 +3,7 @@ layout: post
 category: articles
 title: Looking for Betty
 subtitle: 
-date: 2019-11-05
+date: 2019-11-06
 author: Kate Palmer Albers
 thumbnail: Betty/Betty.jpeg
 platform: 
@@ -12,7 +12,7 @@ theme:
 
 *On another note...I found something that you may find of interest in my classroom (not sure) its an old camera in an old case with a photo from armadillo Texas. !?!*   (1/1/19, 5:57pm)
 
-Part of a long text from a friend, I wrote back that I probably didn’t want an old camera, but, sure, to swing by on her way home from the store. An hour or so later, she walked in to my house, with a cute old faux-leather Kodak bag slung over her shoulder, saying she thought I could use it as a purse. There were two Instamatic cameras inside — she’d found them while cleaning out her classroom at our neighborhood middle school, where she teaches History and my son is in 8th grade. I fiddled with the metal releases to load and unload film; both were a little corroded. I finally took another look inside the leatherette bag, pulled out a small color snapshot, and was immediately smitten.
+This little query came as part of a long text from a friend.... I wrote back that I probably didn’t want an old camera, but, sure, to swing by on her way home from the store. An hour or so later, she walked in to my house, with a cute old faux-leather Kodak bag slung over her shoulder, saying she thought I could use it as a purse. There were two Instamatic cameras inside — she’d found them while cleaning out her classroom at our neighborhood middle school, where she teaches History and my son is in 8th grade. I fiddled with the metal releases to load and unload film; both were a little corroded. I finally took another look inside the leatherette bag, pulled out a small color snapshot, and was immediately smitten:
 
 <figure class="figure">
 	<img src="../assets/images/Betty/Betty.jpeg" alt="Betty" />
@@ -36,8 +36,9 @@ I turned it over to find a name and address, and the word “BIPPY”.
 	</figcaption>
 </figure>
 
+My curiosity piqued, I soon fell down the online rabbit hole, looking for Betty. Here's the letter I wrote to her.
+
 ******
-November 3, 2019
 
 *Dear Betty,*
 
