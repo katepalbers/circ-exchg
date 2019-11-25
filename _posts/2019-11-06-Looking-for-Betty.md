@@ -11,7 +11,12 @@ platform:
 theme:
 ---
 
-*On another note...I found something that you may find of interest in my classroom (not sure) its an old camera in an old case with a photo from armadillo Texas. !?!*   (1/1/19, 5:57pm)
+<figure class="figure">
+	<img src="../assets/images/Betty/text.jpeg" alt="Betty" />
+	<figcaption>
+	
+	</figcaption>
+</figure>
 
 This little query came as part of a long text from a friend.... I wrote back that I probably didn’t want an old camera, but, sure, to swing by on her way home from the store. An hour or so later, she walked in to my house, with a cute old faux-leather Kodak bag slung over her shoulder, saying she thought I could use it as a purse. There were two Instamatic cameras inside — she’d found them while cleaning out her classroom at our neighborhood middle school, where she teaches History and my son is in 8th grade. I fiddled with the metal releases to load and unload film; both were a little corroded. I finally took another look inside the leatherette bag, pulled out a small color snapshot, and was immediately smitten:
 
@@ -43,7 +48,7 @@ My curiosity piqued, I soon fell down the online rabbit hole, looking for Betty.
 
 *Dear Betty,*
 
-*Is it a tattoo, or pen? It’s been over 40 years, but even if it was a pen drawing, I bet you remember this moment. Weirdly, the day before my friend brought me your picture, I had listened to a podcast by the great storyteller John Green. Do you know his books? He’s my son’s favorite author. He also makes podcasts, which I listen to on my commute and, on a somewhat regular basis, find myself in tears from some profound truth he’s suddenly revealed in the course of talking about, like, google searches of strangers, or sycamore trees, or something. Anyway, [this last episode](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-capacity-wonder-and-sunsets) was ostensibly about sunsets, so I was interested (I went through a big phase of thinking about [photography & sunsets]()). But, after dwelling on the various ways of representing and encountering sunsets, true to form, he pulled an emotional sleight of hand… shifting in the heart of the narrative from sunsets to bellies (and the memory of his dead dog’s belly in particular). Talking about bellies, for Green, was a way of talking about  the courage it takes to show oneself to the world, of offering “the place that ribs don’t protect”. And here, not 24 hours later, a bare belly had just walked into my house, in photographic form. This silly, anonymous, 1970s, be-flowered belly. **Your** belly!*
+*Is it a tattoo, or pen? It’s been over 40 years, but even if it was a pen drawing, I bet you remember this moment. Weirdly, the day before my friend brought me your picture, I had listened to a podcast by the great storyteller John Green. Do you know his books? He’s my son’s favorite author. He also makes podcasts, which I listen to on my commute and, on a somewhat regular basis, find myself in tears from some profound truth he’s suddenly revealed in the course of talking about, like, google searches of strangers, or sycamore trees, or something. Anyway, [this last episode](https://www.wnycstudios.org/podcasts/anthropocene-reviewed/episodes/anthropocene-reviewed-capacity-wonder-and-sunsets) was ostensibly about sunsets, so I was interested (I went through a big phase of thinking about [photography & sunsets](http://circulationexchange.org/articles/abundantimages.html)). But, after dwelling on the various ways of representing and encountering sunsets, true to form, he pulled an emotional sleight of hand… shifting in the heart of the narrative from sunsets to bellies (and the memory of his dead dog’s belly in particular). Talking about bellies, for Green, was a way of talking about  the courage it takes to show oneself to the world, of offering “the place that ribs don’t protect”. And here, not 24 hours later, a bare belly had just walked into my house, in photographic form. This silly, anonymous, 1970s, be-flowered belly. **Your** belly!*
 
 *I admit, I couldn’t resist looking you up. My online search for your Armarillo address was almost too easy. Google Street View revealed a defiantly un-Texan facade, a long, low, Colonial-style, brick apartment building, symmetrically styled with its Doric columns and ornate decorative doorway to look far grander than the 1-2 bedroom units, still advertised for rent, must really be (or ever have been?)*
 
@@ -93,6 +98,10 @@ My curiosity piqued, I soon fell down the online rabbit hole, looking for Betty.
 *Sincerely,*
 
 *Kate*
+
+*ps (Nov. 24) I posted this essay/letter a few weeks ago, and then, by the end of the same day, un-posted it. I had a little freak out about the weirdness of looking you up, and then writing about it. Or, looking up an old version of you. Even though I don’t know if you’re the photographer or the subject, and the picture doesn’t show your face, it’s still your name. And what if a family member still lives at that old address? What if you’d hate this? Do I think my rambling musings are more important than your privacy? Does it matter that these rambling musings are actually deeply connected to my interests as a photo historian and a writer? I did try to contact you (the 2019 you)…so far to no avail. [I think about](http://circulationexchange.org/articles/Online_surrogates.html) how hard it can be these days to shake an online image… photographs can so easily circulate in digital space, and there’s almost nothing the subject can do about it. It’s weird, though, that this picture is totally analog… and yet it’s still functioning as that same kind of wild tether: linked to you, but out of your hands. It’s not a bad way to describe most photographs, really. 
+Well, the offer above holds true – I’ll return the photo to you if you’d like. I don’t really want to add that I’ll un-post this again, if you want. It makes me wonder: is this my letter, or yours?*
+
 
 
 
