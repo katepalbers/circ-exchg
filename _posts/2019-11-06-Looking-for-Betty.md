@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: feature
 title: Looking for Betty
 subtitle: 
 date: 2019-11-06

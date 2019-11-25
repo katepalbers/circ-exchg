@@ -9,15 +9,15 @@ medium: katepalbers
 <figure class="figure-profile">
 	<img src="assets/images/{{ page.thumbnail }}" alt="{{ page.title }}" />
 	<figcaption>
-		<a href="mailto:kpalbers@email.arizona.edu"><i class="fa fa-envelope fa-2x hvr-grow"></i></a> | <a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-2x hvr-grow"></i></a> | <a href="https://www.medium.com/@{{ page.medium }}"><i class="fa fa-medium fa-2x hvr-grow"></i></a>
+		<a href="mailto:kpalbers@gmail.com"><i class="fa fa-envelope fa-2x hvr-grow"></i></a> | <a href="https://www.twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-2x hvr-grow"></i></a> | <a href="https://www.medium.com/@{{ page.medium }}"><i class="fa fa-medium fa-2x hvr-grow"></i></a>
 	</figcaption>
 </figure>
 
-Kate Palmer Albers is an Associate Professor of Art History at Whittier College in Los Angeles, where she teaches courses on visual culture, new media, contemporary art, and history and theory of photography.
+Since 2018, I've been Associate Professor of Art History at Whittier College in Los Angeles, where I teach courses on visual culture, new media, contemporary art, and history and theory of photography. Before that, I was on the art history faculty at the University of Arizona for ten years.
 
-Her current research focuses on the role of ephemerality throughout the history of photography. The concept of ephemerality encompasses artists’ projects that engage with popular modes of contemporary media technology within a deeply networked culture (GPS, Twitter, virtual reality, GIFs, data storage, the community-based and democratic promises of Wikipedia, etc.) and extends back through to the earliest days of the medium, offering a counterpoint to the predominant theoretical modes of understanding the medium.
+I'm currently working on a book on photographic ephemerality, unseen images, “live” photography, and new forms of latent image. The basic framework of it addresses artists’ projects that engage with popular modes of contemporary media technology within a deeply networked culture while also extending back through to the earliest days of the medium. Ultimately, the idea is to offer a counterpoint to the predominant theoretical modes of understanding the medium.
 
-Albers has an ongoing interests, as well, in the intersection of photography, geolocational technology, and landscape representations; the roles of narrative, biography, and archive in relation to visual art; and emerging digital technologies and digital humanities approaches in art historical research and student learning.
+I also have ongoing interests in the roles of narrative, biography, and archive in relation to visual art (let me know if you're interested in Nancy Newhall, this is another area of active research for me); the intersection of photography, geolocational technology, and landscape representations; and emerging digital technologies and digital humanities approaches in art historical research, student learning, and public scholarship.
 
 
 
