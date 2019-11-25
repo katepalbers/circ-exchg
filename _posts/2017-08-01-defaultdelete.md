@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: elsewhere
 title: Default Delete
 subtitle: Photographic Archives in a Digital Age
 date: 2017-08-01

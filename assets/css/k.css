@@ -129,12 +129,17 @@ img.home {
 	margin-top: 100px;
 }
 .post-list {
-	width: 100%;
+  margin: 4rem 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  /* grid-auto-rows: 8rem; */
+  grid-gap: 1rem;
+	/* width: 100%;
 	height: 90px;
 	position: fixed;
 	bottom:40px;
 	background-color: #f5f5f5;
-	opacity: .9;
+	opacity: .9; */
 }
 #prev {
 	float: left;
@@ -163,12 +168,12 @@ img.home {
 #next i:hover, #prev i:hover  {
 	color: #e5d30b;
 }
-#welcome {
+/* #welcome {
 	border-left: none;
 	margin-left: 20px;
 	width: 90px;
-}
-#scroll {
+} */
+/* #scroll {
 	position: absolute;
 	top:0;
 	left:60px;
@@ -179,37 +184,176 @@ img.home {
 }
 #scroll ul {
 	width: 10000px;
-}
-.post-list ul {
+} */
+.post-list {
 	list-style-type: none;
 }
-.post-list li {
-	float: left;
+.post-list > li {
+	/* float: left;
 	height: 90px;
-	margin-left: 20px;
-	border-left: 1px solid #111;
-	padding: 0;
+	margin-left: 20px; */
+	/* border-left: 1px solid #111; */
+  grid-column: span 2;
+  padding: .75rem .75rem 0;
+  border-top: 1px solid gray;
+  /* grid-row: span 2; */
+	/* padding: 0; */
+  /* cursor: pointer; */
 }
-.post-list img {
-	display: inline;
-	height: 100%;
-	margin: 0 0 0 24px;
-	padding: 0;
+
+.post-list > li.feature {
+  grid-row: span 2;
+  background: #fffc01;
+}
+.post-list > li.elsewhere {
+  background: white;
+  grid-column: 5 / span 3;
+  grid-row: 3 / span 2;
+}
+.post-list > li.elsewhere .titlebox {
+  height: auto;
+  overflow: visible;
+}
+.post-list > li.elsewhere h3 {
+  font-weight: bold;
+}
+.post-list > li.elsewhere ul {
+  font-size: .85em;
+  font-family: CooperHewitt_Book;
+  margin-top: 1rem;
+  list-style-type: disclosure-closed;
+  padding-left: 1.25rem;
+}
+.post-list > li.elsewhere ul li {
+  margin-bottom: .25rem;
+}
+.post-list > li.elsewhere a .elsewhere-title {
+  font-style: italic;
+  border-bottom: 2px solid #fffc01;
+}
+.post-list > li.elsewhere a:hover .elsewhere-title {
+  color: black;
+  border-bottom-color: black;
+}
+@media screen and (max-width: 1080px) {
+  .post-list > li.elsewhere {
+    grid-column-start: 4;
+  }
+}
+.post-list .imagebox {
+  float: left;
+  margin-right: 1rem;
+  height: 7.5rem;
+  /* max-width: calc(((100vw - 4rem) / 6 )); */
+}
+.post-list .imagebox img {
+  max-height: 7.5rem;
+  max-width: calc(((100vw - 4rem) / 6 ));
+}
+.post-list li.feature .imagebox img {
+  max-height: 16rem;
+  max-width: calc(((100vw - 4rem) / 6 ) * 1.2);
 }
 .post-list .titlebox {
-	display: inline-block;
+  height: 7.5rem;
+  overflow: hidden;
+}
+.post-list li.feature .titlebox {
+  height: 16rem;
+}
+
+
+@media screen and (max-width: 1079px) {
+  .post-list > li {
+    grid-column: span 3;
+  }
+}
+@media screen and (max-width: 679px) {
+  .post-list {
+    display: block;
+  }
+  .post-list > li {
+    padding-bottom: .75rem;
+  }
+  .post-list .imagebox {
+    height: 10.5rem;
+  }
+  .post-list .imagebox img {
+    max-height: 10.5rem;
+    max-width: calc(((100vw - 4rem) / 3 ));
+  }
+  .post-list li.feature .imagebox img {
+    max-height: 16rem;
+    max-width: calc(((100vw - 4rem) / 3 ) * 1.2);
+  }
+  .post-list .titlebox {
+    height: 10.5rem;
+    overflow: hidden;
+  }
+  .post-list li.feature .titlebox {
+    height: 16rem;
+  }
+}
+
+@media screen and (max-width: 379px) {
+  .post-list > li {
+    padding: 2rem 0;
+  }
+  .post-list > li.feature,
+  .post-list > li.elsewhere {
+    padding: 1rem 1rem 2rem;
+  }
+  .post-list .imagebox {
+    height: auto;
+    width: 100%;
+  }
+  .post-list .imagebox img,
+  .post-list li.feature .imagebox img {
+    max-height: initial;
+    max-width: 100%;
+    width: 100%;
+  }
+  .post-list .titlebox {
+    height: auto;
+    overflow: visible;
+  }
+  .post-list li.feature .titlebox {
+    height: auto;
+  }
+}
+
+.post-list img {
+	/* display: inline;
+	height: 100%; */
+  
+  /* height: 6vw;
+  float: left;
+  margin-right: 1vw;
+   */
+	/* margin: 0 0 0 24px;
+	padding: 0; */
+}
+/* .post-list > li.feature img {
+  height: auto;
+  max-width: calc(((100vw - 4rem) / 6 ) * 1.3);
+  max-height: 100%;
+} */
+.post-list .titlebox {
+	/* display: inline-block;
 	vertical-align: top;
 	margin: 0 0 0  18px;
 	padding: 0;
 	width: 220px;
-	height: 100%;
+	height: 100%; */
 }
 .post-list h3 {
 	margin: 0;
 	padding: 0;
+  font-family: CooperHewitt_Book;
 }
 .post-list h4 {
 	margin-top: 2px;
+  font-family: CooperHewitt_Light;
 }
 .post-list li a {
 	margin: 0;
@@ -217,14 +361,18 @@ img.home {
 	width: 100%;
 	height: 100%;
 }
-.post-list a:hover {
+.post-list li a:hover {
 	text-decoration: none;
+  border-bottom-width: 0;
 }
-.post-list a:hover h3 {
+/* .post-list li a:hover h3 {
+  font-weight: bold;
+} */
+/* .post-list a:hover h3 {
 	color: #000;
 	margin-bottom: -1px;
 	border-bottom: 1px solid #111;
-}
+} */
 
 /*
 Banner
@@ -685,7 +833,7 @@ MailChimp Form
 /* tablets in portrait */
 
 @media screen and (orientation: portrait) and (max-aspect-ratio: 7/8) {
-	img.home {
+	/* img.home {
 		width: 90%;
 		margin-left: 5%;
 		margin-right: 5%;
@@ -698,7 +846,7 @@ MailChimp Form
 		bottom:40px;
 		background-color: #f5f5f5;
 		opacity: .9;
-	}
+	} */
 	#prev {
 		margin-top: 120px;
 	}
@@ -714,11 +862,10 @@ MailChimp Form
 		width: 90px;
 		margin-top: 172px;
 	}
-	.post-list li {
+	/* .post-list li {
 		float: left;
 		height: 270px;
 		margin-left: 20px;
-		/*border-left: 1px solid #111;*/
 		border-left: none;
 		padding: 0;
 	}
@@ -738,7 +885,7 @@ MailChimp Form
 		padding: 0;
 		width: 80%;
 		height: 100%;
-	}
+	} */
 }
 
 /* phones */
@@ -892,7 +1039,7 @@ MailChimp Form
 	img.home {
 		display: none;
 	}
-	.post-list {
+	/* .post-list {
 		height: auto;
 		position: relative;
 		background-color: transparent;
@@ -925,7 +1072,7 @@ MailChimp Form
 		font-size: 1.2em;
 		line-height: 1.4em;
 		margin-bottom: 5px;
-	}
+	} */
 	#prev {
 		display: none;
 	}

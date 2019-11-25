@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: feature
 title: The Pig and the Algorithm
 subtitle: 
 date: 2017-03-04

@@ -5,46 +5,70 @@ layout: default
 <main>
 
   <img src="assets/images/system/network-lg.png" alt="nodes" class="home" />
-  
-  <nav class="post-list">
 
-    <div id="prev">
-      <i class="fa fa-chevron-circle-left" onclick="scrollPrev()"></i>
-    </div>
+  <nav >
 
-    <div id="scroll">
-      <ul>
+    <div>
+      <ul class="post-list">
 
-        <li id="welcome"><a href="{{ "/about.html" | prepend: site.baseurl }}"><h3>About</h3></a></li>
-    
         {% for post in site.posts %}
 
-        {% if post.title.size >= 42 %}
+        {% if post.title.size >= 54 %}
           {% capture full_title %}{{ post.title }}{% endcapture %}
         {% elsif post.subtitle %}
-          {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}   
+          {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}
         {% else %}
-          {% capture full_title %}{{ post.title }}{% endcapture %} 
+          {% capture full_title %}{{ post.title }}{% endcapture %}
         {% endif %}
-
-        <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">  
-            {% if post.thumbnail %} 
+        
+        {% unless post.class contains "elsewhere" %}
+        <li class="{{ post.class }}">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.thumbnail %}
+            <div class="imagebox">
             <img src="assets/images/{{post.thumbnail}}" alt="{{ post.title | truncatewords: 3, '...' }}" />
+            </div>
             {% endif %}
             <div class="titlebox">
-              <h3>{{ full_title | truncate: 42, '...' }}</h3>
+              <h3>{{ full_title | strip_html | truncate: 54, '...' }}</h3>
               <h4>{{ post.date | date: "%B %-d, %Y" }}</h4>
             </div>
           </a>
         </li>
+        {% endunless %}
         {% endfor %}
-                
-      </ul>
-    </div>
+        
+        {% assign counter = 0 %}
+        {% for post in site.posts %}
+        {% if post.class contains "elsewhere" %}
+        {% assign counter = counter | plus: 1 %}        
+        {% endif %}
+        {% endfor %}
+        
+        <li class="elsewhere" style="grid-row-end: span {{ counter | divided_by: 2.00 | round }};">
+          <div class="titlebox">
+            <h3>Other Writing | Elsewhere</h3>
+            <ul>
+              {% for post in site.posts %}
+              
+              {% if post.title.size >= 54 %}
+                {% capture full_title %}{{ post.title }}{% endcapture %}
+              {% elsif post.subtitle %}
+                {% capture full_title %}{{ post.title }}: {{ post.subtitle }}{% endcapture %}
+              {% else %}
+                {% capture full_title %}{{ post.title }}{% endcapture %}
+              {% endif %}
+              
+              {% if post.class contains "elsewhere" %}
+                <li><a href="{{ post.url | prepend: site.baseurl }}"><span class="elsewhere-title">{{ full_title | strip_html | truncate: 54, '...' }}</span> <span class="elsewhere-date">({{ post.date | date: "%Y" }})</span></a></li>
+              {% endif %}
 
-    <div id="next">
-      <i class="fa fa-chevron-circle-right" onclick="scrollNext()"></i>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+        
+      </ul>
     </div>
 
   </nav>

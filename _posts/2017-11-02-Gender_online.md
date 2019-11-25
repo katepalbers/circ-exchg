@@ -1,9 +1,10 @@
 ---
 layout: post
 category: articles
+class: feature
 title: Gender & Imaging in the Online Realm
 subtitle: A conversation with Natalie Bookchin and Nora N. Khan
-date: 2017-10-07
+date: 2017-11-02
 author: Kate Palmer Albers
 thumbnail: Gender-online/Bookchin_mass_ornament_jump.jpg
 platform: 

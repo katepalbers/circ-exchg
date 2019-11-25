@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: elsewhere
 title: Schematic Traces
 subtitle: Systems of Making
 date: 2018-09-01

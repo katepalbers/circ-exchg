@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: elsewhere
 title:  "#beforeandafter"
 subtitle: 
 date: 2016-08-28
