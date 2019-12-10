@@ -156,17 +156,17 @@ img.home {
 	width: 40px;
 	font-size: 1.75em;
 	margin-top: 6px;
-	color: #fffc01;
+  color: #e5d30b;
 }
 #next a, #prev a {
-	color: #fffc01;
 	border-bottom: none;
+  color: #e5d30b;
 }
 #next a:hover, #prev a:hover  {
-	color: #e5d30b;
+  color: #555;
 }
 #next i:hover, #prev i:hover  {
-	color: #e5d30b;
+  color: #555;
 }
 /* #welcome {
 	border-left: none;
@@ -1095,4 +1095,46 @@ MailChimp Form
 		margin-left: 5%;
 		margin-right: 5%;
 	}
+}
+
+/* Styling for the randomized image grid in the Christian Caro post
+    powered by the caroImages() javascript function */
+.random-images {
+  display: grid;
+  row-gap: 1em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.random-images p {
+  height: 100%;
+  display: 
+}
+.random-images.figure-lg {
+  grid-template-columns: repeat(5, 19.25%);
+  column-gap: 1%;
+}
+.random-images.figure {
+  grid-template-columns: repeat(3, 32%);
+  column-gap: 2%;
+}
+@media screen and (max-width: 379px) {
+  .random-images.figure {
+    grid-template-columns: repeat(2, 49%);
+    column-gap: 2%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+.random-images img {
+  border-width: 0;
+  max-width: 100%;
+  margin: 0;
+}
+.random-images figcaption {
+  margin-left: 0;
+  width: auto;
+  height: auto;
+  font-family: monospace;
+  font-size: .85vw;
+  font-weight: 400;
 }
