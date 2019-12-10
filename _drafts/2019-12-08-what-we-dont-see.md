@@ -19,6 +19,8 @@ The images were taken by the Google Clips camera, about which Caro has said:
 
 The image grids below are uniquely populated each time the browser is reloaded. A random number generator determines if a spot in the grid will have an image or not, and the ordering of the images is also randomized from among the 104 images originally chosen for possible inclusion by Caro.
 
+Download a [PDF](../assets/images/caro/caro-booklet.pdf) of the exhibition booklet, which also includes Christiana Caro’s poem “What We Saw”.
+
 <div class="random-images">
 </div>
 
