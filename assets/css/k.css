@@ -156,17 +156,17 @@ img.home {
 	width: 40px;
 	font-size: 1.75em;
 	margin-top: 6px;
-	color: #fffc01;
+  color: #e5d30b;
 }
 #next a, #prev a {
-	color: #fffc01;
 	border-bottom: none;
+  color: #e5d30b;
 }
 #next a:hover, #prev a:hover  {
-	color: #e5d30b;
+  color: #555;
 }
 #next i:hover, #prev i:hover  {
-	color: #e5d30b;
+  color: #555;
 }
 /* #welcome {
 	border-left: none;
