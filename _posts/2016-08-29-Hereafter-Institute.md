@@ -1,6 +1,7 @@
 ---
 layout: post
 category: articles
+class: feature
 title: The Hereafter Institute
 subtitle: A Letter from Violet
 date: 2016-08-29

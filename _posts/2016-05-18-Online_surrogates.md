@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: Becoming a Stock Image, and other Surrogates for the Online Self
 subtitle:
 date: 2016-05-18
