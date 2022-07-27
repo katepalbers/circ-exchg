@@ -2,7 +2,7 @@
 layout: post
 category: articles
 class: feature
-title: Announcing! The Night Albums
+title: New in print! The Night Albums
 subtitle: 
 date: 2021-12-01
 author: Kate Palmer Albers
