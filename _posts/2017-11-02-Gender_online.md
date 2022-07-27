@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: Gender & Imaging in the Online Realm
 subtitle: A conversation with Natalie Bookchin and Nora N. Khan
 date: 2017-11-02

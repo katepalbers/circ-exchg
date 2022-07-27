@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: What We Don’t See
 subtitle: 
 date: 2019-12-10
