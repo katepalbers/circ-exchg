@@ -76,5 +76,5 @@ I also have an ongoing interest in the roles of narrative, biography, and archiv
 
 ---
 
-**[Full CV](http://circulationexchange.org/assets/pdfs/Albers_CV_2022.pdf)**  (updated July 2022)
+
 

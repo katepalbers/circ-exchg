@@ -22,7 +22,7 @@ Ever since I came across [*27 Contexts: An Anecdotal History in Photography*](ht
 
 I, happily, got to dwell on probably the most iconic photograph I've ever written about: [Harry Callahan's photograph of his wife Eleanor, in 1949](https://www.moma.org/collection/works/48484). 
 
-Becuase of the spirit of the prompt, I didn't have to pretend to be a Callahan expert, but instead reflected on my own experiences of floating, memory, trust, what can be photographed, what can't be, and empathy through an image. 
+Prompted by the photograph, my contribution is a reflection on my own experiences of floating, memory, trust, what can be photographed, what can't be, and empathy through an image. 
 
 The book is beautiful, and beautifully done, and I'm happy to be part of it. Check it out, and [spend some time on the Saint Lucy site](https://www.saintlucybooks.com/about) while you're at it.
 
