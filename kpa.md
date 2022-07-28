@@ -3,7 +3,6 @@ layout: page
 title: "Kate Palmer Albers"
 subtitle:
 thumbnail: katepalmeralbers.png
-twitter: katepalbers
 medium: katepalbers
 ---
 <figure class="figure-profile">
@@ -15,13 +14,25 @@ medium: katepalbers
 
 Since 2018, I've been Associate Professor of Art History at Whittier College in Los Angeles, where I teach courses on visual culture, new media, contemporary art, and history and theory of photography. Before that, I was on the art history faculty at the University of Arizona for ten years.
 
-I'm currently working on a book on photographic ephemerality, unseen images, “live” photography, and new forms of latent image. The basic framework of it addresses artists’ projects that engage with popular modes of contemporary media technology within a deeply networked culture while also extending back through to the earliest days of the medium. Ultimately, the idea is to offer a counterpoint to the predominant theoretical modes of understanding the medium.
+My new book is [*The Night Albums: Visibility and the Ephemeral Photograph*](http://circulationexchange.org/articles/Night-Albums.html), published with UC Press in November, 2021. It addresses photographic ephemerality, unseen images, “live” photography, and new forms of latent image—featuring artists’ projects that engage with popular modes of contemporary media technology within a deeply networked culture while also extending back through to the earliest days of the medium. Ultimately, I want to offer a counterpoint to the predominant theoretical modes of understanding the medium and make a case for the experiential value of fleeting images.
 
-I also have ongoing interests in the roles of narrative, biography, and archive in relation to visual art (let me know if you're interested in Nancy Newhall, this is another area of active research for me); the intersection of photography, geolocational technology, and landscape representations; and emerging digital technologies and digital humanities approaches in art historical research, student learning, and public scholarship.
+I also have an ongoing interest in the roles of narrative, biography, and archive in relation to visual art, particularly around the American writer and curator Nancy Newhall. My current projects include writing a fictional version of *The Night Albums*; a series of essays on "difficult" images that move through different mediums; and research on transgender and non-binary representations in photography.
 
 
 
 ### **Books:**
+
+<figure class="figure-sm">
+	<img src="assets/images/Night-Albums/Nightalbumscover.jpg" alt="Night Albums" />
+	<figcaption>
+	<p><em>The Night Albums: Visibility and the Ephemeral Photograph</em></p>
+	<ul>
+		<li><a href="https://www.ucpress.edu/book/9780520381544/the-night-albums">University of California Press</a></li>
+		<li><a href="https://www.photoeye.com/bookstore/citation.cfm?catalog=CA082&i=&i2=9780520381544">Photo-Eye</a></li>
+		<li><a href="https://www.amazon.com/Night-Albums-Visibility-Ephemeral-Photograph/dp/0520381548">Amazon</a></li>
+	</ul>
+	</figcaption>
+</figure>
 
 <figure class="figure-sm">
 	<img src="assets/images/uncertainhistories.jpg" alt="Uncertain Histories" />
@@ -46,12 +57,15 @@ I also have ongoing interests in the roles of narrative, biography, and archive 
 	</figcaption>
 </figure>
 
+- *The Night Albums: Visibility and the Ephemeral Photography* (University of California Press, 2021).
 - *Uncertain Histories: Accumulation, Inaccessibility, and Doubt in Contemporary Photography* (University of California Press, 2015).
 - *Before-and-After Photography: Histories and Contexts*, co-edited with Jordan Bear, (Bloomsbury, 2017).
 
+
 ### **Related Articles and Chapters:**
-- “Restricted Imagery, the Ephemeral Gesture, and ‘Live’ Photography”, chapter in *The Wiley-Blackwell Companion to Visual Culture* (forthcoming, Wiley-Blackwell), eds. Joan Saab, Catherine Zuromskis and Aubrey Anable. Addresses the work of Cassils and astronaut.io.
-- “Hiding in Plain Sight: Mistakes, Mishaps, and Possibility in Algorithmic Vision”, *Fotografija* special issue: **New Tools in Photography: from Google to the Algorithm** (forthcoming). Edited by Paul Paper. Artists include Jenny Odell, Aaron Hegert, Zachary Norman, Thomas Albdorf, and Indré Šerpytytė.
+- "Parafiction and the New Latent Image", chapter in [*Ubiquity: Photography's Multitudes*](https://lup.be/products/130787), eds. Kyle Parry and Jacob Lewis (Leuven: Leuven University Press, 2021)
+- “Ephemerality”, chapter in [*A Concise Companion to Visual Culture*](https://www.wiley.com/en-us/A+Concise+Companion+to+Visual+Culture-p-9781119415404) (Wiley-Blackwell, 2020), eds. Joan Saab, Catherine Zuromskis and Aubrey Anable. Addresses the work of Cassils and astronaut.io.
+- “Hiding in Plain Sight: Mistakes, Mishaps, and Possibility in Algorithmic Vision”, *Fotografija* special issue: **New Tools in Photography: from Google to the Algorithm** (2018). Edited by Paul Paper. Artists include Jenny Odell, Aaron Hegert, Zachary Norman, Thomas Albdorf, and Indré Šerpytytė.
 - “Schematic Traces: Systems of Making”, chapter in [*Constructed: The Contemporary History of the Constructed Image in Photography Since 1990*](https://www.taylorfrancis.com/books/e/9781317299110), eds. Marni Shindelman and Anne Massoni (Routledge, 2018). Addresses the work of Ed Ruscha, James Bridle, Mishka Henner, Taryn Simon & Aaron Swartz, Dina Kelberman, Hasan Elahi, Miranda July & Paul Ford, and The Hereafter Institute.
 - “Default Delete: Photographic Archives in a Digital Age”, chapter in [*Photography & Failure*](https://www.bloomsbury.com/us/photography-and-failure-9781474293402/), Kris Belden-Adams, ed. (Bloomsbury, 2016)
 - “Accessing the Landscape: Photography, Technology and Place Today” in Hans Hedberg, Gunilla Knape, Tyrone Martinsson, and Louise Wolthers, eds., [*Broken: Environmental Photography*](https://www.photoeye.com/bookstore/citation.cfm?catalog=IB531&i=&i2=9789198087468) (Gothenburg, Sweden: Photography at Valand Academy, University of Gothenburg / Hasselblad Foundation and Art and Theory, 2014), 15-33. Projects include Nate Larson & Marni Shindelman, Bruce Myren, and the Degree Confluence Project.
@@ -62,5 +76,5 @@ I also have ongoing interests in the roles of narrative, biography, and archive 
 
 ---
 
-**[Full CV](http://circulationexchange.org/assets/pdfs/Albers_CV_2018.pdf)**  (updated September 2018)
+**[Full CV](http://circulationexchange.org/assets/pdfs/Albers_CV_2022.pdf)**  (updated July 2022)
 
