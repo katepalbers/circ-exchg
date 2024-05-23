@@ -117,7 +117,7 @@ Remember: When you update the date of the post to coincide with the actual publi
 SITE PREVIEW:
 --------------------
 1. Open Applications > Utilities > Terminal
-2. Type "cd /Users/kpalbers/circ-exchg" without the quotes and hit enter
+2. Type "cd /Users/katealbers/circ-exchg" without the quotes and hit enter
 3. Type "bundle exec jekyll serve --baseurl '' --drafts" without the quotes and hit enter
 4. Open a browser and go to: http://localhost:4000
 
