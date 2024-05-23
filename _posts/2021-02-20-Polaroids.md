@@ -50,8 +50,8 @@ array of international artists who, like her, were drawn to the fleeting and unp
 <figure class="figure">
 	<img src="../assets/images/Polaroids/backsplash.jpeg" alt="photograph of a woman in bed hanging on floral wallpaper" />
 	<figcaption>
-	
-	</figcaption> Photograph pictured by Clare Marie Bailey, La Folie, 2018, digital C-print based on Polaroid 600
+	Photograph pictured by Clare Marie Bailey, La Folie, 2018, digital C-print based on Polaroid 600
+	</figcaption> 
 </figure>
 
 
@@ -61,8 +61,8 @@ The trailer seemed to have fallen into disrepair long before, but from a state o
 <figure class="figure">
 	<img src="../assets/images/Polaroids/bathroom.jpeg" alt="a decaying yet opulently wallpapered trailer bathroom" />
 	<figcaption>
-	
-	</figcaption> Photograph pictured by Lisa Toboz, The Dwell, 2018, digital C-print bsed on a mixed-media collage of Polaroid with glitter
+	Photograph pictured by Lisa Toboz, The Dwell, 2018, digital C-print based on a mixed-media collage of Polaroid with glitter
+	</figcaption> 
 </figure>
 
 
@@ -71,14 +71,14 @@ Aside from the decorative play of layering overtly theatrical photographs atop d
 <figure class="figure">
 	<img src="../assets/images/Polaroids/removed_3.jpeg" alt="removed" />
 	<figcaption>
-	
-	</figcaption> Photograph pictured by Lukas Brinkmann, With a little help, 2012, digital C-print based on Polaroid TZ
+	Photograph pictured by Lukas Brinkmann, With a little help, 2012, digital C-print based on Polaroid TZ
+	</figcaption> 
 </figure>
 <figure class="figure">
 	<img src="../assets/images/Polaroids/removed_4.jpeg" alt="removed" />
 	<figcaption>
-	
-	</figcaption> Top photograph pictured by Leanne Surfleet, Self-portrait, 2012, digital C-print based on Polaroid; lower photograph unknown
+	Top photograph pictured by Leanne Surfleet, Self-portrait, 2012, digital C-print based on Polaroid; lower photograph unknown
+	</figcaption> 
 </figure>
 
 Truthfully, I’m not sure I would have particularly enjoyed the exhibit in its initial phase; it might have seemed too precious, too overly determined. But the effects of time, and the harshly desolate seaside environment coupled now with the effects of the pandemic were real: these rooms and images had met the elements, and the results were there to see. It occurred to me that I, too, could pull a photograph from the walls, and add to the rate of decay. But I think those photographs need that place—it’s now a whole organism, a living experiment in photographic entropy. I hope some of it is still there, in new form of course, whenever I next visit.

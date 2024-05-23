@@ -3,7 +3,7 @@ layout: post
 category: articles
 class: feature
 title: Words & Pictures
-subtitle: Or, This Year's Baobab Trees
+subtitle: Or, This Year's Baobab Trees (On Martine Syms, Kerry James Marshall, and hidden conversations)
 date: 2017-10-09
 author: Kate Palmer Albers
 thumbnail: Baobab/Syms_2.png
@@ -11,12 +11,13 @@ platform:
 theme:
 ---
 
-*I am posting this essay in May, 2024... a full six and a half years after I wrote it. It was an important essay for me to write, as it was among the earliest in which I leaned into the kind of elliptical connections that have since come to characterize some of my favorite essays. I didn't share it, though, I suppose because I thought it wasn't scholarly enough. This has come to be a familiar back-and-forth in the internal monologue of my brain, but, on the other hand, it is in fact often the way I think and write. So, without apology or caveat, "Words & Pictures, Or, This Year's Baobab Trees" (2017).*
+*I am posting this essay in May, 2024... a full six and a half years after I wrote it. It was an important essay for me to write, as it was among the earliest in which I leaned into the kind of elliptical connections that have since come to characterize some of my favorite essays. I didn't share it, though, I suppose because I thought it wasn't scholarly enough, or that it was too personal, or that both of those things were true. This has come to be a familiar back-and-forth in the internal monologue of my brain, but, on the other hand, it is in fact often the way I think and write. So, without apology or caveat, "Words & Pictures, Or, This Year's Baobab Trees" (2017).*
 
 *********************************
 
 
 **1.**
+
 There’s something I find pretty appealing about reading strangers’ text message threads over their shoulders. I don’t feel this way at all about passively overhearing strangers’ phone conversations (I’d rather they keep those to themselves), nor do I have any interest in reading text threads on my friends’ phones (that’s just an uncomfortable invasion of privacy). But quiet access to something otherwise hidden presents just enough of a window in another person’s fully separate life to allow either an element of surprise or an imaginative opportunity. Recently, while boarding a flight, by way of this kind of visual eavesdropping, I learned the woman inching her way down to her seat in the aisle ahead of me was part of an effort at her church that involved therapeutic hugging. What a nice thing to know about a stranger. 
 
 I thought about this window that I had had—or imagined I had had—into the world and psyche of the hugging woman while viewing Martine Syms’s recent exhibition at the Museum of Modern Art. Among Syms’s innovations is her recognition of the layering at hand in our use of and exposure to contemporary photographic communication and media. She’s also keenly interested in bringing a vernacular voice—the way we talk and communicate now—into the realm of her work. In addition to the photographs and videos on view, visible to all, the show offered an element of integrated augmented reality, exhibition content that would be accessible to us only by way of downloading an app to one’s phone. Since my friend didn’t want to download the custom app, I did: its acronym is WYD RN, which I only later figured out means: what you doing right now. 
@@ -62,7 +63,7 @@ Syms’s provocation is also slyly gestural: in order to fully view the artwork 
 **2.**
 
 *To be intimate implies that a mutual understanding between people, an agreement of sorts that barriers might be negotiable, semi-permeable. One person gives permissions, utters the secret password allowing the other at least an attempt to pass beyond the skin. I am spending my days in her archive, opening boxes and manila folders, my hands muffled in white cotton gloves. Maya Deren has not consented to my investigations, my insinuating closeness….A photograph is a transaction between different modes of time. I want to open negotiations with that sealed moment.*
-							Mark Alice Durant
+Mark Alice Durant
 
 Reading the essay from which the above is excerpted, in Mark Alice Durant’s highly readable, smart, funny and heartfelt recent collection of essays, *27 Contexts*, I recognized the experience of my past year of research immediately. That recognition was accompanied by an immediate sense of discomfort at this moment of strong identification. Durant, an artist and writer, is reflecting on his own identification with his research subject, the experimental filmmaker Maya Deren. I can recognize that outside of its context—maybe even inside its context—Durant’s reflections contain, for me, a kind of queasy discomfort, surfacing a potential critique of the intrusion of a male/future gaze into the apparently glorified and subtly sexualized hidden wonders of a female/past subject. And yet, I knew exactly what he meant. I had been riveted, had my own archival fascination, with another intellectual woman whose work, like Maya Deren’s, finds it heart and origins in 1940s New York, with my own powerful sense of intimacy with someone long deceased and what must be (mustn’t they be?) my own projections of her life and work. 
 
@@ -74,6 +75,7 @@ As I sat with her hundreds of letters to close friends and loved ones, and eaves
 **3.**
 
 September 12, 2016
+
 *Kate, a few days ago I opened the back of a framed 8 x 10 photo Virginia had given me (a picture of herself in her studio).
 …
 When I took the back off the frame, I found a smaller photograph which I'd never seen, tucked into the backing.  
@@ -98,6 +100,7 @@ This was a condolence note, received via email. My grandmother, Virginia, had di
 This explanation, such as it was, arrived the next day:
 
 September 13, 2016
+
 *Kate,
 Virginia never told me that photo of you with her was tucked in the back of that frame, but she did have a sort of "magical thinking" mindset at times.  (That is, when she wasn't being relentlessly pragmatic.)  She once told me she "gave" me two of her family members: you and "Benjie".  This was way before I ever met you—and as for Ben, that actually took a couple of years after her declaration of the so-called gift.  She wasn't giving either of you away, she was sharing you with me.  True to form, she never said why. 
 Love,
@@ -147,6 +150,7 @@ When I got home, still in the slightly intoxicated state that viewing the show p
 
 
 **5.**
+
 All of these things—micro-events, fleeting observations—happened over the last year, from September 2016—October 2017. None of them especially notable on their own: museum visits with friends, pictures that show up in email correspondence, a new book I was reading, making some notes on an artwork I’d liked. Like most photo historians, I have a fascination with the relationship between pictures and words. We’re trained to be compelled in this area, from the theory we read, to the images we (nosily) study. Mostly I think about this relationship in terms of printed words: labels, titles, stories and essays published with specific photographs, captions (even hand-written ones), now even hashtags. But as photographs, and our relationship to them, become more conversational, there’s something to be said for re-imagining the effect of words on images (and vice versa) into this realm of spoken conversation, of personal voice and fleeting exchange. Marshall’s Boabab Tree metaphor invokes a casual social encounter, a site—wherever it may be—that suggests a conversational exchange of ideas: sit here, he offers the viewer, and here’s a stool so you can stay a while. Have a look, and talk to someone.
 
 To close, another email, another kind of voice—this one recounting a two-hour long conversation I’d had with a tow-truck driver after my car broke down 100 miles west of the nearest auto repair shop, at dusk. I hadn’t seen the Marshall show yet (it would open later that spring), but I’d had Alfred Stieglitz’s *Equivalents* on my mind for the class I was about to start teaching that semester. The *Equivalents* seek to communicate without words at all, photographs of clouds meant to convey the abstract feelings of music. 
@@ -155,5 +159,8 @@ To close, another email, another kind of voice—this one recounting a two-hour 
 
 My conversation with the Uber driver was really boring. But I’ve thought often about the strange intimacy of the conversation in the tow-truck, its effect on my view of Stieglitz’s Equivalents since, and what window I did—or didn’t—get into this stranger’s life, maybe not so different from the windows I got in any of these stories. 
 
-[photo of tow truck minister, driving me across the desert at night]
+**[photo of tow truck minister, driving me across the desert at night]**
+
+**************************************
+
 
