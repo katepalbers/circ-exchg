@@ -1,10 +1,10 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: New in print! The Night Albums
 subtitle: 
-date: 2021-12-01
+date: 2021-12-10
 author: Kate Palmer Albers
 thumbnail: Night-Albums/Nightalbumscover.jpg
 platform: 

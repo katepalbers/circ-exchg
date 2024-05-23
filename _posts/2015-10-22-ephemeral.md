@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: The Value of Ephemeral Photographs, or, Everything I Know About Alec Soth I Learned on Snapchat
 subtitle: 
 date: 2015-10-22

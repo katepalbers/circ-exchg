@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: On Experiential Value & Digital Materiality
 subtitle:
 date: 2016-07-13
