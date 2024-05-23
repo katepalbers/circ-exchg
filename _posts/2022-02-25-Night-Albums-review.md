@@ -1,8 +1,8 @@
 ---
 layout: post
 category: articles
-class: feature
-title: The photo is a wish encoded in an anxious object
+class: 
+title: "The photo is a wish encoded in an anxious object"
 subtitle: 
 date: 2022-02-25
 author: Kate Palmer Albers
