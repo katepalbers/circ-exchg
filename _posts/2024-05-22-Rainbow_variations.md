@@ -4,7 +4,7 @@ category: articles
 class: feature
 title: Rainbow Variations
 subtitle: Taisuke Koyama
-date: 2024-05-022
+date: 2024-05-22
 author: Kate Palmer Albers
 thumbnail: 2024update/20-koyama-taisuke.jpg
 platform: 
