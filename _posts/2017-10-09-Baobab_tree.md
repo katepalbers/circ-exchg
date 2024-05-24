@@ -3,7 +3,7 @@ layout: post
 category: articles
 class: feature
 title: Words & Pictures
-subtitle: Or, This Year's Baobab Trees (On Martine Syms, Kerry James Marshall, and hidden conversations)
+subtitle: Or, This Year's Baobab Trees (On Martine Syms, Kerry James Marshall, and enigmatic conversation)
 date: 2017-10-09
 author: Kate Palmer Albers
 thumbnail: Baobab/Syms_2.png
@@ -102,9 +102,10 @@ This explanation, such as it was, arrived the next day:
 September 13, 2016
 
 *Kate,
-Virginia never told me that photo of you with her was tucked in the back of that frame, but she did have a sort of "magical thinking" mindset at times.  (That is, when she wasn't being relentlessly pragmatic.)  She once told me she "gave" me two of her family members: you and "Benjie".  This was way before I ever met you—and as for Ben, that actually took a couple of years after her declaration of the so-called gift.  She wasn't giving either of you away, she was sharing you with me.  True to form, she never said why. 
-Love,
-s*
+Virginia never told me that photo of you with her was tucked in the back of that frame, but she did have a sort of "magical thinking" mindset at times.  (That is, when she wasn't being relentlessly pragmatic)...*
+
+
+The note went on to describe how my grandmother had "given" me to the friend, seemingly as a means of sharing but without full explanation.
 
 It felt strange to think of myself having been a gift, from my grandmother, to a dear friend of hers, a story that emerged to me only through the discovery of a photograph, framed and hidden behind another photograph. As if my own one-way affection was circling back on me. How to understand this? What of me was being shared? How? With whom? What could this picture tell me?
 
