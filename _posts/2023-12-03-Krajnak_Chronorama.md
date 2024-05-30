@@ -1,9 +1,9 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: Tarrah Krajnak
-subtitle: REPOSE
+subtitle: RE-POSE
 date: 2023-12-03
 author: Kate Palmer Albers
 thumbnail: 2024update/Krajnak_Chronorama-wall.png

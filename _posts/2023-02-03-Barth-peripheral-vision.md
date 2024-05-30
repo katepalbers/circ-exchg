@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-class: feature
+class: 
 title: Uta Barth
 subtitle: Peripheral Vision
 date: 2023-02-03
