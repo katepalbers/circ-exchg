@@ -57,7 +57,7 @@ Read Dani Lamorte's full essay, published February 25, 2022 in the *Cleveland Re
 
 University of California Press, 2021
 
-*In the spirit of full disclosure, I know Dani Lamorte from his time in the graduate program in Library Science at the University of Arizona. His creative writing, in the form of an imagined letter from a botanist in the archive, stands as one of my favorite student responses to a prompt and, I have to think, on some level must have inspired my own foray into fictive letters, [A Letter from Violet](http://circulationexchange.org/articles/Hereafter-Institute.html).
+*In the spirit of full disclosure, I know Dani Lamorte from his time in the graduate program in Library Science at the University of Arizona. His creative writing, in the form of an imagined letter from a botanist in the archive, stands as one of my favorite student responses to a prompt and, I have to think, on some level must have inspired my own foray into fictive letters, [A Letter from Violet](https://circulationexchange.org/articles/Hereafter-Institute.html).
 
 **************
 

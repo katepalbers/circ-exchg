@@ -131,4 +131,4 @@ All of this is very DIY and it’s why I consider Printed Web to be “publishin
 ##### Further reading:
 - David Senior and Sarah Hamerman, "[Screen life and shelf life: critical vocabularies for digital-to-print artists’ publications](../assets/pdfs/Senior_Hamerman_ScreenLife_ShelfLife.pdf)," *Art Libraries Journal* / Volume 41 / Issue 03 / July 2016
 - Paul Soulellis, ["The Download: sorry to dump on you like this.zip"](http://rhizome.org/editorial/2015/nov/12/the-download/) (*Rhizome*, November 2015)
-- My *Circulation/Exchange* post on David Horvitz's [*Mood Disorder*](http://circulationexchange.org/articles/Online_surrogates.html) (May 2016)
+- My *Circulation/Exchange* post on David Horvitz's [*Mood Disorder*](https://circulationexchange.org/articles/Online_surrogates.html) (May 2016)

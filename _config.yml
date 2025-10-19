@@ -2,8 +2,8 @@
 title: Circulation | Exchange
 subtitle: Moving Images in Contemporary Art
 description: "Dedicated to artists exploring innovative and creative intersections of photography and social media, featuring interviews, short critical essays on specific projects and historical precedents, and notable work made on and about specific social media platforms. Supported by the Creative Capital | Warhol Foundation Arts Writers Grant Program"
-baseurl: "http://circulationexchange.org" # the subpath of your site, e.g. /blog/
-url: "http://circulationexchange.org"
+baseurl: "https://circulationexchange.org" # the subpath of your site, e.g. /blog/
+url: "https://circulationexchange.org"
 twitter_username:
 permalink: none
 

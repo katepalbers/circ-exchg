@@ -109,7 +109,7 @@ I’ve been on Snapchat for a few years now, and think its temporal constraints 
 	</figcaption>
 </figure>
 
-• In March, the artist Alec Soth collaborated with the Walker Art Center gift shop on their [Intangibles](http://shop.walkerart.org/collections/intangibles) line with the seductively-titled *Disappear With Me*, experimenting with how to create value in an ephemeral exchange. The edition of three sold out, but Soth posts publicly as littlebrownmush (more on that [here](http://circulationexchange.org/articles/ephemeral.html)). I recommend following him; you never know when a little bit of Snapchat magic will appear in the palm of your hand.
+• In March, the artist Alec Soth collaborated with the Walker Art Center gift shop on their [Intangibles](http://shop.walkerart.org/collections/intangibles) line with the seductively-titled *Disappear With Me*, experimenting with how to create value in an ephemeral exchange. The edition of three sold out, but Soth posts publicly as littlebrownmush (more on that [here](https://circulationexchange.org/articles/ephemeral.html)). I recommend following him; you never know when a little bit of Snapchat magic will appear in the palm of your hand.
 
 <figure class="figure-sm">
 	<img src="../assets/images/TenFavorite/ThisIsItNow_screenshot.jpg" alt="ThisIsItNow_Geeting" />
@@ -149,7 +149,7 @@ This is not new in 2015, but a dear colleague turned me on to the many charms of
 	</figcaption>
 </figure>
 
-I don’t consider myself particularly interested in the conversation around selfies, and yet, it was hard not to pay attention in 2015 (and I did write [this](http://circulationexchange.org/articles/largeformatselfiestick.html) on selfie sticks). In the latest iPhone update, Apple canonized the selfie category and made it unavoidable by automatically sorting out an album on your phone titled Selfies. I’m not quite sure how this works, but my guess is that it uses facial recognition technology in combination with knowing a photo was made using the back-facing camera. I found this by surprise one day recently when I was aimlessly looking through old photos, and was wowed by how happy it made me to see all the people I’d made selfies with. Despite all the talk about selfies primarily fulfilling a narcissistic impulse to be publicly shared, I was surprised to realize I hadn’t shared very many at all (just one from this screenshot). Score one for the algorithms. 
+I don’t consider myself particularly interested in the conversation around selfies, and yet, it was hard not to pay attention in 2015 (and I did write [this](https://circulationexchange.org/articles/largeformatselfiestick.html) on selfie sticks). In the latest iPhone update, Apple canonized the selfie category and made it unavoidable by automatically sorting out an album on your phone titled Selfies. I’m not quite sure how this works, but my guess is that it uses facial recognition technology in combination with knowing a photo was made using the back-facing camera. I found this by surprise one day recently when I was aimlessly looking through old photos, and was wowed by how happy it made me to see all the people I’d made selfies with. Despite all the talk about selfies primarily fulfilling a narcissistic impulse to be publicly shared, I was surprised to realize I hadn’t shared very many at all (just one from this screenshot). Score one for the algorithms. 
 
 
 ##### 10. The Ephemerides (@the_ephemerides)

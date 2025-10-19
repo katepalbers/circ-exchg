@@ -133,7 +133,7 @@ The exhibition featured the work of Aaron Hegert, James Bridle, Esther Hovers, M
 
 The publication features an expanded range of artists and essays.
 
-Paul Paper and I got in touch first several years ago because he put together an exhibition on Snapchat, which I thought was brilliant, and wished I'd done myself (and I wrote about [here](http://circulationexchange.org/articles/digital_materiality.html)). 
+Paul Paper and I got in touch first several years ago because he put together an exhibition on Snapchat, which I thought was brilliant, and wished I'd done myself (and I wrote about [here](https://circulationexchange.org/articles/digital_materiality.html)). 
 
 
  

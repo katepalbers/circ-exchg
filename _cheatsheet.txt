@@ -12,7 +12,7 @@ Posts and other pages are formatted using Markdown (.md)
 
 > Blockquote
 
-(Link Text)[http://www.linkadress.com]
+(Link Text)[https://www.linkadress.com]
 
 [^1] Footnote number in text
 [^1]: The footnote itself is the same thing, but with a colon followed by the footnote text
@@ -57,7 +57,7 @@ For the caption (<figcaption>) Text can be formatted and contain links, however,
 
 	<em>Italic Text</em>
 	<strong>Bold Text</strong>
-	<a href="http://www.linkadress.com">Link Text</a>
+	<a href="https://www.linkadress.com">Link Text</a>
 
 Image files themselves go in the assets > images folder
 
